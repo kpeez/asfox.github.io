@@ -1,0 +1,48 @@
+{
+ "fox-work-featured-on-cover-of-biological-psychiatry": [
+  [
+   "Oler*, Fox*, et al.",
+   "Oler\\*, Fox\\*, et al."
+  ],
+  [
+   "Shackman*, Fox*, et al.",
+   "Shackman\\*, Fox\\*, et al."
+  ],
+  [
+   "Fox*, Souaiaia*, et al.",
+   "Fox\\*, Souaiaia\\*, et al."
+  ]
+ ],
+ "visualizing-the-correlation-of-two-volumes": [
+  [
+   "(#allCode)",
+   "(#all-the-code)"
+  ],
+  [
+   "-fx 0 fy 0",
+   "-fx 0 -fy 0"
+  ],
+  [
+   "with the link on the top right and run",
+   "with the link above the code and run"
+  ]
+ ],
+ "including-voxelwise-covariates-with-multistatic": [
+  [
+   "(You can download it by clicking the link to the top-right.)",
+   "(You can download it with the link above the code.)"
+  ]
+ ],
+ "read-nifti-in-fmristat": [
+  [
+   "by clicking the link on the top-right, and simply replace",
+   "by clicking the download links above each file, and simply replace"
+  ]
+ ],
+ "what-is-a-genetic-correlation": [
+  [
+   "by modulating $rho_g$ and $rho_e$ by",
+   "by modulating $\\rho_g$ and $\\rho_e$ by"
+  ]
+ ]
+}

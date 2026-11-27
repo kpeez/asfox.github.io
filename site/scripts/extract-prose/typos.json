@@ -1,0 +1,302 @@
+[
+[
+"\\bDispite\\b",
+"Despite"
+],
+[
+"\\bdispite\\b",
+"despite"
+],
+[
+"\\bWoulnt\\b",
+"Wouldn't"
+],
+[
+"\\bcarying\\b",
+"carrying"
+],
+[
+"\\bbrodcast\\b",
+"broadcast"
+],
+[
+"\\bdoesnt\\b",
+"doesn't"
+],
+[
+"\\bdidnt\\b",
+"didn't"
+],
+[
+"\\bdont\\b",
+"don't"
+],
+[
+"\\bisnt\\b",
+"isn't"
+],
+[
+"\\bcant\\b",
+"can't"
+],
+[
+"\\bwouldnt\\b",
+"wouldn't"
+],
+[
+"\\bIts (easy|funny)\\b",
+"It's \\1"
+],
+[
+"\\bsure its done\\b",
+"sure it's done"
+],
+[
+"\\bwhat its like\\b",
+"what it's like"
+],
+[
+"\\bwhats\\b",
+"what's"
+],
+[
+"\\bIm not\\b",
+"I'm not"
+],
+[
+"\\bId love\\b",
+"I'd love"
+],
+[
+"\\bincrase\\b",
+"increase"
+],
+[
+"\\bbecuase\\b",
+"because"
+],
+[
+"\\basuming\\b",
+"assuming"
+],
+[
+"\\bsapce\\b",
+"space"
+],
+[
+"\\bresulotion\\b",
+"resolution"
+],
+[
+"\\binterst\\b",
+"interest"
+],
+[
+"\\bbrining\\b",
+"bringing"
+],
+[
+"\\bsacrice\\b",
+"sacrifice"
+],
+[
+"\\bindiference\\b",
+"indifference"
+],
+[
+"\\brst trial\\b",
+"first trial"
+],
+[
+"\\bteh\\b",
+"the"
+],
+[
+"\\brelationshp\\b",
+"relationship"
+],
+[
+"\\blables\\b",
+"labels"
+],
+[
+"\\birrelavent\\b",
+"irrelevant"
+],
+[
+"\\bseperately\\b",
+"separately"
+],
+[
+"\\bseperate\\b",
+"separate"
+],
+[
+"\\btriats\\b",
+"traits"
+],
+[
+"\\bparamter\\b",
+"parameter"
+],
+[
+"\\besitmates\\b",
+"estimates"
+],
+[
+"\\bsciece\\b",
+"science"
+],
+[
+"\\bavaialable\\b",
+"available"
+],
+[
+"\\bbrian function\\b",
+"brain function"
+],
+[
+"\\bout labs efforts\\b",
+"our lab's efforts"
+],
+[
+"\\bKieth\\b",
+"Keith"
+],
+[
+"\\bWorsleys\\b",
+"Worsley's"
+],
+[
+"\\bFMRIBs\\b",
+"FMRIB's"
+],
+[
+"\\bspearmans\\b",
+"Spearman's"
+],
+[
+"\\blook that the correlation\\b",
+"look at the correlation"
+],
+[
+"\\bwith you own data\\b",
+"with your own data"
+],
+[
+"\\bhave and questions\\b",
+"have any questions"
+],
+[
+"\\bconfound lead me\\b",
+"confound led me"
+],
+[
+"\\byou loose a degree\\b",
+"you lose a degree"
+],
+[
+"\\ballows you use your\\b",
+"allows you to use your"
+],
+[
+"\\bThis core components\\b",
+"These core components"
+],
+[
+"\\bthese to variables\\b",
+"these two variables"
+],
+[
+"\\bidentical by decent\\b",
+"identical by descent"
+],
+[
+"\\bFox example\\b",
+"For example"
+],
+[
+"\\bMuch what we do\\b",
+"Much of what we do"
+],
+[
+"\\bi-js relationship\\b",
+"i-j's relationship"
+],
+[
+"\\byour mothers height\\b",
+"your mother's height"
+],
+[
+"\\blatitudes XML\\b",
+"latitude's XML"
+],
+[
+"\\bworlds problems\\b",
+"world's problems"
+],
+[
+"\\bparticipants Indifference Point\\b",
+"participant's Indifference Point"
+],
+[
+"\\beach subjects choices\\b",
+"each subject's choices"
+],
+[
+"\\beach subjects brain\\b",
+"each subject's brain"
+],
+[
+"\\bdifferent subjects brains\\b",
+"different subjects' brains"
+],
+[
+"\\bdifferent subjects brain data\\b",
+"different subjects' brain data"
+],
+[
+"\\bassuming subjects placement\\b",
+"assuming subjects' placement"
+],
+[
+"\\btraits covariance\\b",
+"trait's covariance"
+],
+[
+"\\banimals relationship\\b",
+"animals' relationship"
+],
+[
+"\\bcheck our my\\b",
+"check out my"
+],
+[
+"\\bThis proposal the Fox lab\\b",
+"In this proposal the Fox lab"
+],
+[
+"\\bSociety of Biological Psychiatrys\\b",
+"Society of Biological Psychiatry's"
+],
+[
+"\\bCalrson\\b",
+"Carlson"
+],
+[
+"\\bFeketa\\b",
+"Fekete"
+],
+[
+"\\bGuildford Press\\b",
+"Guilford Press"
+],
+[
+"\\bdelivery to adn across\\b",
+"delivery to and across"
+],
+[
+"\\bOpportunitvnies\\b",
+"Opportunities"
+]
+]

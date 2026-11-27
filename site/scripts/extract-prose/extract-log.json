@@ -1,0 +1,855 @@
+{
+ "typos": [
+  [
+   "featured-in-isgtw",
+   "brian function",
+   "brain function"
+  ],
+  [
+   "featured-in-isgtw",
+   "out labs efforts",
+   "our lab's efforts"
+  ],
+  [
+   "featured-in-isgtw",
+   "sciece",
+   "science"
+  ],
+  [
+   "brain-imaging-shows-how-children-inherit-their-parents-anxiety",
+   "recieved",
+   "received"
+  ],
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "avaialable",
+   "available"
+  ],
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "Psyhchiatry",
+   "Psychiatry"
+  ],
+  [
+   "fox-work-featured-on-the-cbs13-news",
+   "nighly",
+   "nightly"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "FMRIBs",
+   "FMRIB's"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "each subjects brain",
+   "each subject's brain"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "different subjects brains",
+   "different subjects' brains"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "interst",
+   "interest"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "with you own data",
+   "with your own data"
+  ],
+  [
+   "python-flipbook-movies",
+   "different subjects brain data",
+   "different subjects' brain data"
+  ],
+  [
+   "running-ants-on-condor",
+   "This core components",
+   "These core components"
+  ],
+  [
+   "running-ants-on-condor",
+   "didnt",
+   "didn't"
+  ],
+  [
+   "running-ants-on-condor",
+   "dont",
+   "don't"
+  ],
+  [
+   "running-ants-on-condor",
+   "dont",
+   "don't"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "Its funny",
+   "It's funny"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "Much what we do",
+   "Much of what we do"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "your mothers height",
+   "your mother's height"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "dont",
+   "don't"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "these to variables",
+   "these two variables"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "your mothers height",
+   "your mother's height"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "traits covariance",
+   "trait's covariance"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "i-js relationship",
+   "i-j's relationship"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "identical by decent",
+   "identical by descent"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "animals relationship",
+   "animals' relationship"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "Fox example",
+   "For example"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "triats",
+   "traits"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "dispite",
+   "despite"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "confound lead me",
+   "confound led me"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "Kieth",
+   "Keith"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "Worsleys",
+   "Worsley's"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "allows you use your",
+   "allows you to use your"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "isnt",
+   "isn't"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "whats",
+   "what's"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "didnt",
+   "didn't"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "esitmates",
+   "estimates"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "paramter",
+   "parameter"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "you loose a degree",
+   "you lose a degree"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "seperate",
+   "separate"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "Worsleys",
+   "Worsley's"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "Worsleys",
+   "Worsley's"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "Im not",
+   "I'm not"
+  ],
+  [
+   "read-nifti-in-fmristat",
+   "cant",
+   "can't"
+  ],
+  [
+   "read-nifti-in-fmristat",
+   "wouldnt",
+   "wouldn't"
+  ],
+  [
+   "read-nifti-in-fmristat",
+   "Worsleys",
+   "Worsley's"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "look that the correlation",
+   "look at the correlation"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "relationshp",
+   "relationship"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "teh",
+   "the"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "spearmans",
+   "Spearman's"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "doesnt",
+   "doesn't"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "seperately",
+   "separately"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "irrelavent",
+   "irrelevant"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "lables",
+   "labels"
+  ],
+  [
+   "ask-for-help",
+   "Dispite",
+   "Despite"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "brining",
+   "bringing"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "worlds problems",
+   "world's problems"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "participants Indifference Point",
+   "participant's Indifference Point"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "each subjects choices",
+   "each subject's choices"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "Id love",
+   "I'd love"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "sacrice",
+   "sacrifice"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "indiference",
+   "indifference"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "rst trial",
+   "first trial"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "what its like",
+   "what it's like"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "have and questions",
+   "have any questions"
+  ],
+  [
+   "where-do-i-feel",
+   "Woulnt",
+   "Wouldn't"
+  ],
+  [
+   "where-do-i-feel",
+   "carying",
+   "carrying"
+  ],
+  [
+   "where-do-i-feel",
+   "doesnt",
+   "doesn't"
+  ],
+  [
+   "where-do-i-feel",
+   "brodcast",
+   "broadcast"
+  ],
+  [
+   "where-do-i-feel",
+   "latitudes XML",
+   "latitude's XML"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "dont",
+   "don't"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "Its easy",
+   "It's easy"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "sure its done",
+   "sure it's done"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "incrase",
+   "increase"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "becuase",
+   "because"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "resulotion",
+   "resolution"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "assuming subjects placement",
+   "assuming subjects' placement"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "asuming",
+   "assuming"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "sapce",
+   "space"
+  ],
+  [
+   "join",
+   "check our my",
+   "check out my"
+  ],
+  [
+   "funding",
+   "recieved",
+   "received"
+  ],
+  [
+   "funding",
+   "This proposal the Fox lab",
+   "In this proposal the Fox lab"
+  ],
+  [
+   "cv",
+   "Society of Biological Psychiatrys",
+   "Society of Biological Psychiatry's"
+  ],
+  [
+   "cv",
+   "Permision",
+   "Permission"
+  ],
+  [
+   "cv",
+   "Calrson",
+   "Carlson"
+  ],
+  [
+   "cv",
+   "delivery to adn across",
+   "delivery to and across"
+  ],
+  [
+   "cv",
+   "Communicatoins",
+   "Communications"
+  ],
+  [
+   "cv",
+   "Feketa",
+   "Fekete"
+  ],
+  [
+   "cv",
+   "Opportunitvnies",
+   "Opportunities"
+  ],
+  [
+   "cv",
+   "Guildford Press",
+   "Guilford Press"
+  ]
+ ],
+ "links_rewritten": [
+  [
+   "featured-in-isgtw",
+   "/category/publications",
+   "/publications/"
+  ],
+  [
+   "brain-imaging-shows-how-children-inherit-their-parents-anxiety",
+   "/category/publications",
+   "/publications/"
+  ],
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "https://foxlab.ucdavis.edu/category/publications.html",
+   "/publications/"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "why-registration-matters-in-big-n-brain-imaging-studies.html",
+   "/resources/why-registration-matters-in-big-n-brain-imaging-studies/"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "https://asfox.github.io/2013/04/01/python-flipbook-movies",
+   "/resources/python-flipbook-movies/"
+  ],
+  [
+   "python-flipbook-movies",
+   "https://asfox.github.io/2013/03/20/looking-at-co-registered-brains/",
+   "/resources/looking-at-co-registered-brain-data/"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "http://https://asfox.github.io/2013/05/30/read-nifti-in-fmristat/",
+   "/resources/read-nifti-in-fmristat/"
+  ],
+  [
+   "ask-for-help",
+   "pub.html",
+   "/publications/"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "looking-at-co-registered-brains.html",
+   "/resources/looking-at-co-registered-brain-data/"
+  ],
+  [
+   "join",
+   "/category/publications",
+   "/publications/"
+  ],
+  [
+   "join",
+   "fox-lab-mission.html",
+   "/mission/"
+  ],
+  [
+   "mission",
+   "/joining-the-fox-lab.html",
+   "/join/"
+  ]
+ ],
+ "links_left": [],
+ "images": [
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "/images/BiologicalPsychiatry_04012021_cover.tif.jpg",
+   "news/fox-work-featured-on-cover-of-biological-psychiatry/BiologicalPsychiatry_04012021_cover.tif.jpg"
+  ],
+  [
+   "looking-at-co-registered-brain-data",
+   "https://asfox.github.io/images/compareAlignment.png",
+   "looking-at-co-registered-brain-data/compareAlignment.png"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "https://asfox.github.io/images/file1_vs_file2.png",
+   "visualizing-the-correlation-of-two-volumes/file1_vs_file2.png"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "https://asfox.github.io/images/sos.png",
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you/sos.png"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "https://asfox.github.io/images/sogame-01.png",
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you/sogame-01.png"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "https://asfox.github.io/images/sogame-02.png",
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you/sogame-02.png"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "https://asfox.github.io/images/sogame-03.png",
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you/sogame-03.png"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "https://asfox.github.io/images/sogame-04.png",
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you/sogame-04.png"
+  ],
+  [
+   "where-do-i-feel",
+   "https://asfox.github.io/images/edaMap.png",
+   "where-do-i-feel/edaMap.png"
+  ],
+  [
+   "why-registration-matters-in-big-n-brain-imaging-studies",
+   "/images/multipleSubjectResolution.png",
+   "why-registration-matters-in-big-n-brain-imaging-studies/multipleSubjectResolution.png"
+  ]
+ ],
+ "videos": [
+  [
+   "looking-at-co-registered-brain-data",
+   [
+    "https://asfox.github.io/video/t1.mp4"
+   ]
+  ],
+  [
+   "python-flipbook-movies",
+   [
+    "https://asfox.github.io/video/t1.mp4"
+   ]
+  ]
+ ],
+ "math": [
+  [
+   "what-is-a-genetic-correlation",
+   "\\Omega_X = Cov[X,X] = \\begin{bmatrix} cov(X_1,X_1) & cov(X_1,X_2) & \\cdots & cov(X_1,X_n) \\\\\\ cov(X_2,X_1) & cov(X_2,X_2) & ... & cov(X_2,X_n) \\\\\\ \\vdots & \\vdots & \\ddots & \\vdots \\\\\\ cov(X_1,X_n) & cov(X_2,X_n) & \\cdots & cov(X_n,X_n)  \\end{bmatrix}",
+   "\\Omega_X = Cov[X,X] = \\begin{bmatrix} cov(X_1,X_1) & cov(X_1,X_2) & \\cdots & cov(X_1,X_n) \\\\ cov(X_2,X_1) & cov(X_2,X_2) & ... & cov(X_2,X_n) \\\\ \\vdots & \\vdots & \\ddots & \\vdots \\\\ cov(X_1,X_n) & cov(X_2,X_n) & \\cdots & cov(X_n,X_n) \\end{bmatrix}"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "\\Omega \\;\\approxeq\\; 2\\Phi \\sigma^2_g + Ι_n \\sigma^2_e",
+   "\\Omega \\;\\approxeq\\; 2\\Phi \\sigma^2_g + I_n \\sigma^2_e"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "{\\cal L}( \\sigma^2_g, \\sigma^2_e  \\;\\vert\\; y ) = -\\frac{n}{2}\\ln(2\\eta) - \\frac{1}{2}\\ln(\\Omega) - \\frac{1}{2}(x-\\mu_X)\\Omega^{-1}(X-\\mu_X)",
+   "{\\cal L}( \\sigma^2_g, \\sigma^2_e \\;\\vert\\; y ) = -\\frac{n}{2}\\ln(2\\eta) - \\frac{1}{2}\\ln(\\Omega) - \\frac{1}{2}(x-\\mu_X)\\Omega^{-1}(X-\\mu_X)"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "h^2 = \\frac{\\sigma^2_g}{(\\sigma^2_g + σ^2_e)}",
+   "h^2 = \\frac{\\sigma^2_g}{(\\sigma^2_g + \\sigma ^2_e)}"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "\\Omega_B = \\begin{bmatrix} \\Omega_X & \\Omega_{YX} \\\\\\ \\Omega_{XY} & \\Omega_Y \\end{bmatrix}",
+   "\\Omega_B = \\begin{bmatrix} \\Omega_X & \\Omega_{YX} \\\\ \\Omega_{XY} & \\Omega_Y \\end{bmatrix}"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "\\begin{align} {\\cal L}( \\sigma^2_{g_{X}}, \\sigma^2_{e_{X}}, \\sigma^2_{g_{Y}}, \\sigma^2_{e_{Y}}, \\rho_{e_{XY}} \\;\\vert\\; X, Y ) = &- n \\ln(2\\eta) -\\frac{1}{2}\\ln\\lvert\\Omega_B\\rvert \\\\\\ & -\\frac{1}{2}\\biggl({X \\brack Y}-\\mu_{X \\brack Y}\\biggr)\\Omega^{-1}\\biggl({X \\brack Y}-\\mu_{X \\brack Y}\\biggr) \\end{align}",
+   "\\begin{align} {\\cal L}( \\sigma^2_{g_{X}}, \\sigma^2_{e_{X}}, \\sigma^2_{g_{Y}}, \\sigma^2_{e_{Y}}, \\rho_{e_{XY}} \\;\\vert\\; X, Y ) = &- n \\ln(2\\eta) -\\frac{1}{2}\\ln\\lvert\\Omega_B\\rvert \\\\ & -\\frac{1}{2}\\biggl({X \\brack Y}-\\mu_{X \\brack Y}\\biggr)\\Omega^{-1}\\biggl({X \\brack Y}-\\mu_{X \\brack Y}\\biggr) \\end{align}"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "IP = \\frac{−\\alpha}{\\beta}",
+   "IP = \\frac{-\\alpha}{\\beta}"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "\\begin{aligned} OR_{t+1} &\\sim  \\mathcal{N}(\\mu=\\hat{IP},\\sigma^2=.25) \\\\\\\\ &= P(OR_{t+1}) \\\\\\\\ &=\\frac{1}{.25\\sqrt{2\\pi}} e^{\\left(\\frac{-1}{2}\\right)\\left(\\frac{x-\\hat{IP}}{.25}\\right)} \\end{aligned}",
+   "\\begin{aligned} OR_{t+1} &\\sim \\mathcal{N}(\\mu=\\hat{IP},\\sigma^2=.25) \\\\ &= P(OR_{t+1}) \\\\ &=\\frac{1}{.25\\sqrt{2\\pi}} e^{\\left(\\frac{-1}{2}\\right)\\left(\\frac{x-\\hat{IP}}{.25}\\right)} \\end{aligned}"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "\\begin{aligned} OR_{t+1} &\\sim  \\mathcal{N}(\\mu=0,\\sigma^2=.25) \\\\\\\\ &= P(OR_{t+1}) \\\\\\\\ &=\\frac{1}{.25\\sqrt{2\\pi}} e^{\\left(\\frac{-1}{2}\\right)\\left(\\frac{x}{.25}\\right)} \\end{aligned}",
+   "\\begin{aligned} OR_{t+1} &\\sim \\mathcal{N}(\\mu=0,\\sigma^2=.25) \\\\ &= P(OR_{t+1}) \\\\ &=\\frac{1}{.25\\sqrt{2\\pi}} e^{\\left(\\frac{-1}{2}\\right)\\left(\\frac{x}{.25}\\right)} \\end{aligned}"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "A_{Self,t+1} \\sim \\mathcal{U} \\left( \\frac{.01}{\\min(1,OR_t+1)}, \\frac{.01}{\\max(1,OR_t+1)}  \\right)",
+   "A_{Self,t+1} \\sim \\mathcal{U} \\left( \\frac{.01}{\\min(1,OR_t+1)}, \\frac{.01}{\\max(1,OR_t+1)} \\right)"
+  ],
+  [
+   "how-much-is-a-dollar-to-a-stranger-worth-to-you",
+   "\\\\\\\\ A_{Other,t+1} = A_{Self,t+1} \\times OR_{t+1}",
+   "A_{Other,t+1} = A_{Self,t+1} \\times OR_{t+1}"
+  ]
+ ],
+ "misc": [
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "post-fix",
+   "'Oler*, Fox*, et al.' -> 'Oler\\\\*, Fox\\\\*, et al.'"
+  ],
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "post-fix",
+   "'Shackman*, Fox*, et al.' -> 'Shackman\\\\*, Fox\\\\*, et al.'"
+  ],
+  [
+   "fox-work-featured-on-cover-of-biological-psychiatry",
+   "post-fix",
+   "'Fox*, Souaiaia*, et al.' -> 'Fox\\\\*, Souaiaia\\\\*, et al.'"
+  ],
+  [
+   "what-is-a-genetic-correlation",
+   "post-fix",
+   "'by modulating $rho_g$ and $rho_e$ by' -> 'by modulating $\\\\rho_g$ and $\\\\rho_e$ by'"
+  ],
+  [
+   "including-voxelwise-covariates-with-multistatic",
+   "post-fix",
+   "'(You can download it by clicking the link to the top-right.)' -> '(You can download it with the link above the code.)'"
+  ],
+  [
+   "read-nifti-in-fmristat",
+   "post-fix",
+   "'by clicking the link on the top-right, and simply replace' -> 'by clicking the download links above each file, and simply replace'"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "img = nib.load(file.nii)",
+    "img = nib.load('file.nii')"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "img2 = nib.load(file2.nii)",
+    "img2 = nib.load('file2.nii')"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "mainFig = plt.figure(1, figsize=(8,8), facecolor=white)",
+    "mainFig = plt.figure(1, figsize=(8,8), facecolor='white')"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHist2d.imshow(H.T, interpolation=nearest, aspect=auto )",
+    "axHist2d.imshow(H.T, interpolation='nearest', aspect='auto' )"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHistx.hist(x, bins=xedges, facecolor=blue, alpha=0.5, edgecolor=None )",
+    "axHistx.hist(x, bins=xedges, facecolor='blue', alpha=0.5, edgecolor='None' )"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHisty.hist(y, bins=yedges, facecolor=blue, alpha=0.5, orientation=horizontal, edgecolor=None)",
+    "axHisty.hist(y, bins=yedges, facecolor='blue', alpha=0.5, orientation='horizontal', edgecolor='None')"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "mainFig.text(0.05,.95,r=+str(round(np.corrcoef( x, y )[1][0],2))+; rho=+str(round(spearmanr( x, y )[0],2)), style=italic, fontsize=10 )",
+    "mainFig.text(0.05,.95,'r='+str(round(np.corrcoef( x, y )[1][0],2))+'; rho='+str(round(spearmanr( x, y )[0],2)), style='italic', fontsize=10 )"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHistx.spines[top].set_visible(False)",
+    "axHistx.spines['top'].set_visible(False)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHistx.spines[right].set_visible(False)",
+    "axHistx.spines['right'].set_visible(False)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHistx.spines[left].set_visible(False)",
+    "axHistx.spines['left'].set_visible(False)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHisty.spines[top].set_visible(False)",
+    "axHisty.spines['top'].set_visible(False)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHisty.spines[bottom].set_visible(False)",
+    "axHisty.spines['bottom'].set_visible(False)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHisty.spines[right].set_visible(False)",
+    "axHisty.spines['right'].set_visible(False)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "axHist2d.set_xlabel(File1.nii, fontsize=16)",
+    "axHist2d.set_xlabel('File1.nii', fontsize=16)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "axHist2d.set_ylabel(File2.nii, fontsize=16)",
+    "axHist2d.set_ylabel('File2.nii', fontsize=16)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "axHistx.set_title(File1.nii, fontsize=10)",
+    "axHistx.set_title('File1.nii', fontsize=10)"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet",
+   [
+    "axHisty.yaxis.set_label_position(right)",
+    "axHisty.yaxis.set_label_position(\"right\")"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "axHisty.set_ylabel(File2.nii, fontsize=10, rotation=-90, verticalalignment=top, horizontalalignment=center )",
+    "axHisty.set_ylabel('File2.nii', fontsize=10, rotation=-90, verticalalignment='top', horizontalalignment='center' )"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "quotes restored in code snippet (manual)",
+   [
+    "mainFig.canvas.set_window_title( (File1 vs. File2) )",
+    "mainFig.canvas.set_window_title( ('File1' + ' vs. ' + 'File2') )"
+   ]
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "post-fix",
+   "'(#allCode)' -> '(#all-the-code)'"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "post-fix",
+   "'-fx 0 fy 0' -> '-fx 0 -fy 0'"
+  ],
+  [
+   "visualizing-the-correlation-of-two-volumes",
+   "post-fix",
+   "'with the link on the top right and run' -> 'with the link above the code and run'"
+  ],
+  [
+   "cv",
+   "publication entries in source",
+   109
+  ],
+  [
+   "code",
+   "old code files not linked from any page",
+   []
+  ]
+ ],
+ "pdf_links": 119
+}
