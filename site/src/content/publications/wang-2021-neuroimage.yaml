@@ -1,0 +1,37 @@
+title: 'U-Net Model for Brain Extraction: Trained on Humans for Transfer to Non-human Primates'
+authors:
+- Wang X
+- Li XH
+- Cho JW
+- Russ BE
+- Rajamani N
+- Omelchenko A
+- Ai L
+- Korchmaros A
+- Sawiak S
+- Benn RA
+- Garcia-Saldivar P
+- Wang Z
+- Kalin NH
+- Schroeder CE
+- Craddock RC
+- Fox AS
+- Evans AC
+- Messinger A
+- Milham MP
+- Xu T
+year: 2021
+date: 2021-03-25
+type: journal
+venue: NeuroImage
+volume: '235'
+issue: '15'
+pages: '118001'
+doi: 10.1016/j.neuroimage.2021.118001
+pdf: /publications/WangXu_Neuroimage_2021.pdf
+themes: []
+lab_authors:
+- andrew-fox
+featured: false
+legacy:
+- /wang-et-al-neuroimage-2021.html

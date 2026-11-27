@@ -1,0 +1,5793 @@
+{
+ "pubs": [
+  {
+   "src": "pub",
+   "idx": 0,
+   "slugs": [
+    "ding-chen-boehm-carretero-cerdan-et-al-nature-chemical-biology-2026"
+   ],
+   "page_dates": [
+    "2026-08-26"
+   ],
+   "authors": [
+    "Ding X*",
+    "Chen X*",
+    "Boehm P*",
+    "Carretero-Cerdán A*",
+    "Jang S",
+    "Sullivan EE",
+    "Arokiaraj CM",
+    "Ristic F",
+    "Kavvathas BC",
+    "Campos LJ",
+    "Sharma J",
+    "Kamboj S",
+    "Lei Y",
+    "Shahgholi M",
+    "Mantin D",
+    "Fox AS",
+    "Shay TF",
+    "Reisman SE",
+    "Gradinaru V"
+   ],
+   "year": 2026,
+   "title": "CA-IV-directed small-molecule shuttle enables targeted brain delivery of biologics",
+   "pdf": "/publications/DingGradinaru_NatureChemBio_2026.pdf",
+   "legacy": [
+    "/ding-chen-boehm-carretero-cerdan-et-al-nature-chemical-biology-2026.html"
+   ],
+   "type": "journal",
+   "venue": "Nature Chemical Biology"
+  },
+  {
+   "src": "pub",
+   "idx": 1,
+   "slugs": [
+    "ander-et-al-molecular-psychiatry-2026"
+   ],
+   "page_dates": [
+    "2026-05-03"
+   ],
+   "authors": [
+    "Ander BP",
+    "Carlson EL",
+    "Kamboj S",
+    "Hanson KL",
+    "Murray KD",
+    "Fox AS",
+    "Bauman MD",
+    "Schumann CM"
+   ],
+   "year": 2026,
+   "title": "Prenatal maternal immune activation triggers lasting cell-specific transcriptomic dysregulation in the amygdala of primate offspring",
+   "pdf": "/publications/AnderEtAl_2025_MolecularPsychiatry.pdf",
+   "legacy": [
+    "/ander-et-al-molecular-psychiatry-2026.html",
+    "/ander-et-al-molecular-psychiatry-2025.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "volume": "31",
+   "issue": "5",
+   "pages": "2803-2814"
+  },
+  {
+   "src": "pub",
+   "idx": 2,
+   "slugs": [
+    "didier-et-al-scan-2026"
+   ],
+   "page_dates": [
+    "2026-01-21"
+   ],
+   "authors": [
+    "Didier PR",
+    "Grogans SE",
+    "Kaplan CM",
+    "Kim HC",
+    "Islam S",
+    "Anderson AS",
+    "Tillman RM",
+    "Kuhn M",
+    "Hur J",
+    "Fox AS",
+    "DeYoung KA",
+    "Smith JF",
+    "Shackman AJ"
+   ],
+   "year": 2026,
+   "title": "Fear, anxiety, and the extended amygdala-absence of evidence for strict functional segregation",
+   "pdf": "/publications/DidierShackman_SCAN_2026.pdf",
+   "legacy": [
+    "/didier-et-al-scan-2026.html"
+   ],
+   "type": "journal",
+   "venue": "Social Cognitive and Affective Neuroscience",
+   "volume": "21",
+   "issue": "1",
+   "pages": "nsag040"
+  },
+  {
+   "src": "pub",
+   "idx": 3,
+   "slugs": [
+    "campos-drzewiecki-fox-springer-series-in-behavioral-neuroscience-new-discoveries-in-the-brain-sciences-of-fear-and-anxiety-from-basic-to-clinical-neuroscience-2025"
+   ],
+   "page_dates": [
+    "2025-10-19"
+   ],
+   "authors": [
+    "Campos LJ",
+    "Drzewiecki CM",
+    "Fox AS"
+   ],
+   "year": 2025,
+   "title": "Insights into the neurobiology of Behavioral Inhibition from Nonhuman Primate models",
+   "pdf": "/publications/CamposDrzewieckiFox_Chapter2025.pdf",
+   "legacy": [
+    "/campos-drzewiecki-fox-springer-series-in-behavioral-neuroscience-new-discoveries-in-the-brain-sciences-of-fear-and-anxiety-from-basic-to-clinical-neuroscience-2025.html",
+    "/campos-drzewiecki-fox-springer-series-in-behavioral-neuroscience-new-discoveries-in-the-brain-sciences-of-fear-and-anxiety-from-basic-to-clinical-neuroscience-2024.html"
+   ],
+   "type": "chapter",
+   "venue": "New discoveries in the brain sciences of fear and anxiety: from basic to clinical neuroscience (Springer Series in Behavioral Neuroscience)",
+   "editors": "Blackford JU & Milad M",
+   "publisher": "Springer"
+  },
+  {
+   "src": "pub",
+   "idx": 4,
+   "slugs": [
+    "holley-fox-neurobehavioral-individual-differences-2025"
+   ],
+   "page_dates": [
+    "2025-05-22"
+   ],
+   "authors": [
+    "Holley D",
+    "Fox AS"
+   ],
+   "year": 2025,
+   "title": "Selecting Anxiety: The Central Extended Amygdala as an Arbiter of Emotion-Relevant Responses",
+   "pdf": "/publications/HolleyFox_NeurobehavioralIndividualDifferences_2022.pdf",
+   "legacy": [
+    "/holley-fox-neurobehavioral-individual-differences-2025.html",
+    "/holley-fox-neurobehavioral-individual-differences-2022.html"
+   ],
+   "type": "chapter",
+   "venue": "Neurobehavioral individual differences - A transdisciplinary approach to advancing clinical science",
+   "editors": "Latzman RD & Patrick CJ",
+   "publisher": "Springer, Cham",
+   "pages": "85–111"
+  },
+  {
+   "src": "pub",
+   "idx": 5,
+   "slugs": [
+    "cornwell-et-al-journal-of-neuroscience-2025"
+   ],
+   "page_dates": [
+    "2025-04-01"
+   ],
+   "authors": [
+    "Cornwell BR",
+    "Didier PR",
+    "Grogans SE",
+    "Anderson AS",
+    "Islam S",
+    "Kim HC",
+    "Kuhn M",
+    "Tillman RM",
+    "Hur J",
+    "Scott ZS",
+    "Fox AS",
+    "DeYoung KA",
+    "Smith JF",
+    "Shackman AJ"
+   ],
+   "year": 2025,
+   "title": "A shared threat-anticipation circuit is dynamically engaged at different moments by certain and uncertain threat",
+   "pdf": "/publications/CornwellShackman_JNeuro_2025.pdf",
+   "legacy": [
+    "/cornwell-et-al-journal-of-neuroscience-2025.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "45",
+   "issue": "16",
+   "pages": "e2113242025"
+  },
+  {
+   "src": "pub",
+   "idx": 6,
+   "slugs": [
+    "fox-shackman-ajp-2024"
+   ],
+   "page_dates": [
+    "2024-12-01"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2024,
+   "title": "An Honest Reckoning With the Amygdala and Mental Illness",
+   "pdf": "/publications/fox_shackman_AJP_2024.pdf",
+   "legacy": [
+    "/fox-shackman-ajp-2024.html"
+   ],
+   "type": "journal",
+   "venue": "American Journal of Psychiatry",
+   "volume": "181",
+   "pages": "12",
+   "_ambiguous": "12"
+  },
+  {
+   "src": "pub",
+   "idx": 7,
+   "slugs": [
+    "kamboj-et-al-american-journal-of-psychiatry-2024"
+   ],
+   "page_dates": [
+    "2024-10-03"
+   ],
+   "authors": [
+    "Kamboj S",
+    "Carlson EL",
+    "Ander BP",
+    "Hanson KL",
+    "Murray KD",
+    "Fudge JL",
+    "Bauman MD",
+    "Schumann CM",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Translational Insights from Cell-type variation across Amygdala Subnuclei in Rhesus Monkeys and Humans",
+   "pdf": "/publications/KambojFox_AJP_2024.pdf",
+   "legacy": [
+    "/kamboj-et-al-american-journal-of-psychiatry-2024.html"
+   ],
+   "type": "journal",
+   "venue": "American Journal of Psychiatry",
+   "volume": "181",
+   "pages": "12",
+   "_ambiguous": "12"
+  },
+  {
+   "src": "pub",
+   "idx": 8,
+   "slugs": [
+    "grogans-et-al-nature-reviews-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-06-10"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Grogans SE",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Fear, anxiety and the functional architecture of the human central extended amygdala",
+   "pdf": "/publications/ShackmanGrogansFox_NRN_Commentary_2024.pdf",
+   "legacy": [
+    "/grogans-et-al-nature-reviews-neuroscience-2024.html"
+   ],
+   "type": "journal",
+   "venue": "Nature Reviews Neuroscience",
+   "volume": "25",
+   "issue": "8",
+   "pages": "587-588",
+   "doi": "10.1038/s41583-024-00832-y"
+  },
+  {
+   "src": "pub",
+   "idx": 9,
+   "slugs": [
+    "grogans-et-al-journal-of-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-06-07"
+   ],
+   "authors": [
+    "Grogans SE",
+    "Hur J",
+    "Barstead M",
+    "Anderson A",
+    "Islam S",
+    "Kim HC",
+    "Kuhn M",
+    "Tillman R",
+    "Fox AS",
+    "Smith J",
+    "DeYoung K",
+    "Shackman AJ"
+   ],
+   "year": 2024,
+   "title": "Neuroticism/negative emotionality is associated with increased reactivity to uncertain threat in the bed nucleus of the stria terminalis, not the amygdala",
+   "pdf": "/publications/GrogansEtAl_JNeuro_2024.pdf",
+   "legacy": [
+    "/grogans-et-al-journal-of-neuroscience-2024.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "44",
+   "issue": "32",
+   "pages": "e1868232024"
+  },
+  {
+   "src": "pub",
+   "idx": 10,
+   "slugs": [
+    "holley-et-al-computational-psychiatry-2024"
+   ],
+   "page_dates": [
+    "2024-06-07"
+   ],
+   "authors": [
+    "Holley D",
+    "Varga EA",
+    "Boorman ED",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Temporal Dynamics of Uncertainty Cause Anxiety and Avoidance",
+   "pdf": "/publications/HolleyFox_ComputationalPsychiatry_2024.pdf",
+   "legacy": [
+    "/holley-et-al-computational-psychiatry-2024.html"
+   ],
+   "type": "journal",
+   "venue": "Computational Psychiatry",
+   "volume": "8",
+   "issue": "1",
+   "pages": "85–91"
+  },
+  {
+   "src": "pub",
+   "idx": 11,
+   "slugs": [
+    "drzewiecki-fox-cognitive-affective-behavioral-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-02-14"
+   ],
+   "authors": [
+    "Drzewiecki CM",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Understanding the heterogeneity of anxiety using a translational neuroscience approach",
+   "pdf": "/publications/DrzewieckiFox_CABN_2024.pdf",
+   "legacy": [
+    "/drzewiecki-fox-cognitive-affective-behavioral-neuroscience-2024.html"
+   ],
+   "type": "journal",
+   "venue": "Cognitive, Affective, & Behavioral Neuroscience",
+   "volume": "24",
+   "pages": "228–245"
+  },
+  {
+   "src": "pub",
+   "idx": 12,
+   "slugs": [
+    "holley-campos-et-al-translational-psychiatry-2024"
+   ],
+   "page_dates": [
+    "2024-02-14"
+   ],
+   "authors": [
+    "Holley D*",
+    "Campos LJ*",
+    "Zhang Y",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Rhesus Infant Nervous Temperament Predicts Peri-Adolescent Central Amygdala Metabolism & Behavioral Inhibition Measured by a Machine-Learning Approach",
+   "pdf": "/publications/HolleyCamposFox_TranslationalPsychiatry_2024.pdf",
+   "legacy": [
+    "/holley-campos-et-al-translational-psychiatry-2024.html"
+   ],
+   "type": "journal",
+   "venue": "Translational Psychiatry",
+   "volume": "14",
+   "pages": "148",
+   "_ambiguous": "148"
+  },
+  {
+   "src": "pub",
+   "idx": 13,
+   "slugs": [
+    "tromp-fox-et-al-psychoneuroendocrinology-2023"
+   ],
+   "page_dates": [
+    "2024-01-16"
+   ],
+   "authors": [
+    "Tromp DPM",
+    "Fox AS",
+    "Riedel MK",
+    "Oler JA",
+    "Zhou X",
+    "Roseboom PH",
+    "Alexander AL",
+    "Kalin NH"
+   ],
+   "year": 2024,
+   "title": "Early life adversity in primates: Behavioral, endocrine, and neural effects",
+   "pdf": "/publications/TrompFoxEtAl_PsychNeuroEndo_2023.pdf",
+   "legacy": [
+    "/tromp-fox-et-al-psychoneuroendocrinology-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Psychoneuroendocrinology",
+   "volume": "162",
+   "pages": "106953"
+  },
+  {
+   "src": "pub",
+   "idx": 14,
+   "slugs": [
+    "kenwood-et-al-pnas-2023"
+   ],
+   "page_dates": [
+    "2023-10-17"
+   ],
+   "authors": [
+    "Kenwood MM",
+    "Souaiaia T",
+    "Kovner R",
+    "Fox AS",
+    "French DA",
+    "Oler JA",
+    "Roseboom PH",
+    "Riedel MK",
+    "Mueller SAL",
+    "Kalin NH"
+   ],
+   "year": 2023,
+   "title": "Gene expression in the primate orbitofrontal cortex related to anxious temperament",
+   "pdf": "/publications/KenwoodSouaiaiaEtAl_PNAS_2023.pdf",
+   "legacy": [
+    "/kenwood-et-al-pnas-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "volume": "120",
+   "issue": "49",
+   "pages": "e2305775120"
+  },
+  {
+   "src": "pub",
+   "idx": 15,
+   "slugs": [
+    "wright-et-al-pnas-2023"
+   ],
+   "page_dates": [
+    "2023-10-17"
+   ],
+   "authors": [
+    "Wright EC",
+    "Zakharenkov HC",
+    "Godoy AS",
+    "Lake A",
+    "Prince ZD",
+    "Sekar S",
+    "Culkin HI",
+    "Luo PX",
+    "Ramirez AV",
+    "Dwyer T",
+    "Kapoor A",
+    "Corbett C",
+    "Tian L",
+    "Fox AS",
+    "Trainor BC"
+   ],
+   "year": 2023,
+   "title": "Sexual differentiation of neural mechanisms of stress sensitivity during puberty",
+   "pdf": "/publications/WrightEtAl_PNAS_2023.pdf",
+   "legacy": [
+    "/wright-et-al-pnas-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "volume": "120",
+   "issue": "43",
+   "pages": "e2306475120"
+  },
+  {
+   "src": "pub",
+   "idx": 16,
+   "slugs": [
+    "kim-et-al-plos-one-2023"
+   ],
+   "page_dates": [
+    "2023-08-17"
+   ],
+   "authors": [
+    "Kim HC",
+    "Kaplan CM",
+    "Islam S",
+    "Anderson AS",
+    "Piper ME",
+    "Bradford DE",
+    "Curtin JJ",
+    "DeYoung KA",
+    "Smith JF",
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2023,
+   "title": "Acute nicotine abstinence amplifies subjective withdrawal symptoms and threat-evoked fear and anxiety, but not extended amygdala reactivity",
+   "pdf": "/publications/KimEtAl_PLoSOne_2023.pdf",
+   "legacy": [
+    "/kim-et-al-plos-one-2023.html"
+   ],
+   "type": "journal",
+   "venue": "PLoS One",
+   "volume": "18",
+   "issue": "7",
+   "pages": "e0288544"
+  },
+  {
+   "src": "pub",
+   "idx": 17,
+   "slugs": [
+    "chen-et-al-nature-communications-2023"
+   ],
+   "page_dates": [
+    "2023-05-29"
+   ],
+   "authors": [
+    "Chen X",
+    "Wolfe DA",
+    "Sivadasan Bindu DS",
+    "Zhang M",
+    "Taskin N",
+    "Goertsen D",
+    "Shay TF",
+    "Sullivan EE",
+    "Huang S-F",
+    "Kumar SR",
+    "Arokiaraj CM",
+    "Plattner VM",
+    "Campos LJ",
+    "Mich JK",
+    "Monet D",
+    "Ngo V",
+    "Ding X",
+    "Omstead V",
+    "Weed N",
+    "Bishaw Y",
+    "Gore BB",
+    "Lein ES",
+    "Akrami A",
+    "Miller C",
+    "Levi BP",
+    "Keller A",
+    "Ting JT",
+    "Fox AS",
+    "Eroglu C",
+    "Gradinaru V"
+   ],
+   "year": 2023,
+   "title": "Functional gene delivery to and across brain vasculature of systemic AAVs with endothelial-specific tropism in rodents and broad tropism in primates",
+   "pdf": "/publications/ChenEtAl_NatureCommunications_2023.pdf",
+   "legacy": [
+    "/chen-et-al-nature-communications-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Nature Communications",
+   "volume": "14",
+   "issue": "1",
+   "pages": "3345"
+  },
+  {
+   "src": "pub",
+   "idx": 18,
+   "slugs": [
+    "grogans-et-al-neuroscience-biobehavioral-reviews-2023"
+   ],
+   "page_dates": [
+    "2023-05-16"
+   ],
+   "authors": [
+    "Grogans SE",
+    "Bliss-Moreau E",
+    "Buss KA",
+    "Clark LA",
+    "Fox AS",
+    "Keltner D",
+    "Cowen AS",
+    "Kim JJ",
+    "Kragel PA",
+    "MacLeod C",
+    "Mobbs D",
+    "Naragon-Gainey K",
+    "Fullana MA",
+    "Shackman AJ"
+   ],
+   "year": 2023,
+   "title": "The Nature and Neurobiology of Fear and Anxiety: State of the Science and Opportunities for Accelerating Discovery",
+   "pdf": "/publications/GorgansEtAl_NBR_2023.pdf",
+   "legacy": [
+    "/grogans-et-al-neuroscience-biobehavioral-reviews-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Neuroscience & Biobehavioral Reviews",
+   "volume": "151",
+   "pages": "105237"
+  },
+  {
+   "src": "pub",
+   "idx": 19,
+   "slugs": [
+    "campos-arokiaraj-et-al-current-research-in-neurobiology-2023"
+   ],
+   "page_dates": [
+    "2023-04-12"
+   ],
+   "authors": [
+    "Campos LJ",
+    "Arokiaraj CM",
+    "Chuapoco MR",
+    "Chen X",
+    "Goeden N",
+    "Gradinaru V",
+    "Fox AS"
+   ],
+   "year": 2023,
+   "title": "Advances in AAV technology for delivering genetically encoded cargo to the nonhuman primate nervous system",
+   "pdf": "/publications/CamposArokiarajEtAl_CRN_2023.pdf",
+   "legacy": [
+    "/campos-arokiaraj-et-al-current-research-in-neurobiology-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Current Research in Neurobiology",
+   "volume": "4",
+   "pages": "100086"
+  },
+  {
+   "src": "pub",
+   "idx": 20,
+   "slugs": [
+    "cuapoco-et-al-nature-nanotechnology-2023"
+   ],
+   "page_dates": [
+    "2023-04-12"
+   ],
+   "authors": [
+    "Chuapoco MR*",
+    "Flytzanis NC*",
+    "Goeden N*",
+    "Octeau JC",
+    "Roxas KM",
+    "Chan KY",
+    "Scherrer J",
+    "Winchester J",
+    "Blackburn RJ",
+    "Campos LJ",
+    "Man NKM",
+    "Sun J",
+    "Chen X",
+    "Lefevre A",
+    "Singh VP",
+    "Arokiaraj CM",
+    "Shay TF",
+    "Vendemiatti J",
+    "Jang MJ",
+    "Mich J",
+    "Bishaw Y",
+    "Gore B",
+    "Omstead V",
+    "Taskin N",
+    "Weed N",
+    "Levi BP",
+    "Ting J",
+    "Miller CT",
+    "Deverman BE",
+    "Pickel J",
+    "Tian L",
+    "Fox AS",
+    "Gradinaru V"
+   ],
+   "year": 2023,
+   "title": "Adeno-associated viral vectors for functional intravenous gene transfer throughout the non-human primate brain",
+   "pdf": "/publications/Chuapoco_NatureNanotechnology_2023.pdf",
+   "legacy": [
+    "/cuapoco-et-al-nature-nanotechnology-2023.html"
+   ],
+   "type": "journal",
+   "venue": "Nature Nanotechnology",
+   "volume": "18",
+   "pages": "1241–1251"
+  },
+  {
+   "src": "pub",
+   "idx": 21,
+   "slugs": [
+    "kenwood-oler-et-al-oxford-open-neuroscience-2022"
+   ],
+   "page_dates": [
+    "2023-01-20"
+   ],
+   "authors": [
+    "Kenwood MM",
+    "Oler JA",
+    "Tromp DPM",
+    "Fox AS",
+    "Riedel MK",
+    "Roseboom PH",
+    "Brunner KG",
+    "Aggarwal N",
+    "Murray EA",
+    "Kalin NH"
+   ],
+   "year": 2023,
+   "title": "Prefrontal influences on the function of the neural circuitry underlying anxious temperament in primates",
+   "pdf": "/publications/KenwoodOlerKalin_OxfordNeurosci_2022.pdf",
+   "legacy": [
+    "/kenwood-oler-et-al-oxford-open-neuroscience-2022.html"
+   ],
+   "type": "journal",
+   "venue": "Oxford Open Neuroscience",
+   "volume": "2",
+   "pages": "kvac016"
+  },
+  {
+   "src": "pub",
+   "idx": 22,
+   "slugs": [
+    "holley-fox-neuroscience-biobehavioral-reviews-2022"
+   ],
+   "page_dates": [
+    "2022-09-15"
+   ],
+   "authors": [
+    "Holley D",
+    "Fox AS"
+   ],
+   "year": 2022,
+   "title": "The central extended amygdala guides survival-relevant tradeoffs: Implications for understanding common psychiatric disorders",
+   "pdf": "/publications/HolleyFox_NBR_2022.pdf",
+   "legacy": [
+    "/holley-fox-neuroscience-biobehavioral-reviews-2022.html"
+   ],
+   "type": "journal",
+   "venue": "Neuroscience & Biobehavioral Reviews",
+   "volume": "142",
+   "pages": "104879"
+  },
+  {
+   "src": "pub",
+   "idx": 23,
+   "slugs": [
+    "chen-kumar-et-al-neuron-2022"
+   ],
+   "page_dates": [
+    "2022-05-27"
+   ],
+   "authors": [
+    "Chen X",
+    "Kumar SR",
+    "Adams CD",
+    "Yang D",
+    "Wang T",
+    "Wolfe DA",
+    "Arokiaraj CM",
+    "Ngo V",
+    "Campos LJ",
+    "Griffiths JA",
+    "Ichiki T",
+    "Mazmanian SK",
+    "Osborne PB",
+    "Keast JR",
+    "Miller CT",
+    "Fox AS",
+    "Chiu IM",
+    "Gradinaru V"
+   ],
+   "year": 2022,
+   "title": "Engineered AAVs for non-invasive gene delivery to rodent and non-human primate nervous systems",
+   "pdf": "/publications/ChenKumarEtAl_Neuron_2022.pdf",
+   "legacy": [
+    "/chen-kumar-et-al-neuron-2022.html"
+   ],
+   "type": "journal",
+   "venue": "Neuron",
+   "volume": "110",
+   "pages": "1–16"
+  },
+  {
+   "src": "pub",
+   "idx": 24,
+   "slugs": [
+    "grogans-et-al-american-journal-of-psychiatry-2022"
+   ],
+   "page_dates": [
+    "2022-01-01"
+   ],
+   "authors": [
+    "Grogans SE",
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2022,
+   "title": "The Amygdala and Depression: A Sober Reconsideration",
+   "pdf": "/publications/GrogansFoxShackman_AJP_2022.pdf",
+   "legacy": [
+    "/grogans-et-al-american-journal-of-psychiatry-2022.html"
+   ],
+   "type": "journal",
+   "venue": "American Journal of Psychiatry",
+   "volume": "179",
+   "issue": "7",
+   "pages": "454–457"
+  },
+  {
+   "src": "pub",
+   "idx": 25,
+   "slugs": [
+    "hur-et-al-psychological-science-2022"
+   ],
+   "page_dates": [
+    "2022-01-01"
+   ],
+   "authors": [
+    "Hur J",
+    "Kuhn M",
+    "Grogans SE",
+    "Anderson AS",
+    "Islam S",
+    "Kim HC",
+    "Tillman RM",
+    "Fox AS",
+    "Smith JF",
+    "DeYoung KA",
+    "Shackman AJ"
+   ],
+   "year": 2022,
+   "title": "Anxiety-Related Frontocortical Activity Is Associated With Dampened Stressor Reactivity in the Real World",
+   "pdf": "/publications/HurFoxShackmanEtAl_PsychSci_2022.pdf",
+   "legacy": [
+    "/hur-et-al-psychological-science-2022.html"
+   ],
+   "type": "journal",
+   "venue": "Psychological Science",
+   "volume": "33",
+   "issue": "6",
+   "pages": "906-924"
+  },
+  {
+   "src": "pub",
+   "idx": 26,
+   "slugs": [
+    "fox-et-al-molecular-psychiatry-2021"
+   ],
+   "page_dates": [
+    "2021-04-20"
+   ],
+   "authors": [
+    "Fox AS",
+    "Harris RA",
+    "Del Rosso L",
+    "Raveendran M",
+    "Kamboj S",
+    "Kinnally EL",
+    "Capitanio JP",
+    "Rogers J"
+   ],
+   "year": 2021,
+   "title": "Infant Inhibited Temperament in Primates Predicts Adult Behavior, is Heritable, and is Associated with Anxiety-Relevant Genetic Variation",
+   "pdf": "/publications/FoxHarrisEtAl_MolecularPsychiatry_2021.pdf",
+   "legacy": [
+    "/fox-et-al-molecular-psychiatry-2021.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "volume": "26",
+   "pages": "6609-6618"
+  },
+  {
+   "src": "pub",
+   "idx": 27,
+   "slugs": [
+    "roseboom-et-al-molecular-therapy-2021"
+   ],
+   "page_dates": [
+    "2021-04-08"
+   ],
+   "authors": [
+    "Roseboom PH",
+    "Mueller SAL",
+    "Oler JA",
+    "Fox AS",
+    "Riedel MK",
+    "Elam VR",
+    "Olsen ME",
+    "Gomez JL",
+    "Boehm MA",
+    "DiFilippo AH",
+    "Christian BT",
+    "Michaelides M",
+    "Kalin NH"
+   ],
+   "year": 2021,
+   "title": "Evidence in primates supporting the use of chemogenetics for the treatment of human refractory neuropsychiatric disorders",
+   "pdf": "/publications/RoseboomEtAl_DREADDs_MolecularTherapy_2021.pdf",
+   "legacy": [
+    "/roseboom-et-al-molecular-therapy-2021.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Therapy",
+   "volume": "29",
+   "issue": "12",
+   "pages": "3484-3497"
+  },
+  {
+   "src": "pub",
+   "idx": 28,
+   "slugs": [
+    "wang-et-al-neuroimage-2021"
+   ],
+   "page_dates": [
+    "2021-03-25"
+   ],
+   "authors": [
+    "Wang X",
+    "Li XH",
+    "Cho JW",
+    "Russ BE",
+    "Rajamani N",
+    "Omelchenko A",
+    "Ai L",
+    "Korchmaros A",
+    "Sawiak S",
+    "Benn RA",
+    "Garcia-Saldivar P",
+    "Wang Z",
+    "Kalin NH",
+    "Schroeder CE",
+    "Craddock RC",
+    "Fox AS",
+    "Evans AC",
+    "Messinger A",
+    "Milham MP",
+    "Xu T"
+   ],
+   "year": 2021,
+   "title": "U-Net Model for Brain Extraction: Trained on Humans for Transfer to Non-human Primates",
+   "pdf": "/publications/WangXu_Neuroimage_2021.pdf",
+   "legacy": [
+    "/wang-et-al-neuroimage-2021.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "235",
+   "issue": "15",
+   "pages": "118001"
+  },
+  {
+   "src": "pub",
+   "idx": 29,
+   "slugs": [
+    "klink-et-al-neuroimage-2021"
+   ],
+   "page_dates": [
+    "2021-03-22"
+   ],
+   "authors": [
+    "Klink PC",
+    "Aubry J-F",
+    "Ferrera V",
+    "Fox AS",
+    "Froudist-Walsh S",
+    "Jarray B",
+    "Konofagou E",
+    "Krauzlis R",
+    "Messinger A",
+    "Mitchell AS",
+    "Ortiz-Rios M",
+    "Oya H",
+    "Roberts AC",
+    "Roe AW",
+    "Rushworth MFS",
+    "Sallet J",
+    "Schmid MC",
+    "Schroeder CE",
+    "Tasserie J",
+    "Tsao D",
+    "Uhrig L",
+    "Vanduffel W",
+    "Wilke M",
+    "Kagan I",
+    "Petkov CI"
+   ],
+   "year": 2021,
+   "title": "Combined Brain Perturbation and Neuroimaging in Non-human Primates",
+   "pdf": "/publications/KlinkEtAl_NeuroImage_2021.pdf",
+   "legacy": [
+    "/klink-et-al-neuroimage-2021.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "235",
+   "issue": "15",
+   "pages": "118017"
+  },
+  {
+   "src": "pub",
+   "idx": 30,
+   "slugs": [
+    "poirier-et-al-neuroimage-2021"
+   ],
+   "page_dates": [
+    "2021-03-01"
+   ],
+   "authors": [
+    "Poirier C",
+    "Hamed SB",
+    "Garcia-Saldivar P",
+    "Kwok SC",
+    "Meguerditchian A",
+    "Merchant H",
+    "Rogers J",
+    "Wells S",
+    "Fox AS"
+   ],
+   "year": 2021,
+   "title": "Beyond MRI: on the scientific value of combining non-human primate neuroimaging with metadata",
+   "pdf": "/publications/PoirierEtAl_Neuroimage_2020.pdf",
+   "legacy": [
+    "/poirier-et-al-neuroimage-2021.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "228",
+   "pages": "117679"
+  },
+  {
+   "src": "pub",
+   "idx": 31,
+   "slugs": [
+    "shackman-fox-ajp-2020"
+   ],
+   "page_dates": [
+    "2021-02-01"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Fox AS"
+   ],
+   "year": 2021,
+   "title": "Two decades of anxiety neuroimaging research: New insights and a look to the future",
+   "pdf": "/publications/ShackmanFox_AJP_2020.pdf",
+   "legacy": [
+    "/shackman-fox-ajp-2020.html"
+   ],
+   "type": "journal",
+   "venue": "American Journal of Psychiatry",
+   "volume": "178",
+   "issue": "2",
+   "pages": "106-109"
+  },
+  {
+   "src": "pub",
+   "idx": 32,
+   "slugs": [
+    "fox-et-al-neuroimage-2021"
+   ],
+   "page_dates": [
+    "2021-01-15"
+   ],
+   "authors": [
+    "Fox AS",
+    "Holley D",
+    "Klink PC",
+    "Arbuckle SA",
+    "Barnes CA",
+    "Diedrichsen J",
+    "Kwok SC",
+    "Kyle C",
+    "Pruszynski JA",
+    "Seidlitz J",
+    "Zhou X",
+    "Poldrack RA",
+    "Gorgolewski KJ"
+   ],
+   "year": 2021,
+   "title": "Sharing voxelwise neuroimaging results from rhesus monkeys and other species with Neurovault",
+   "pdf": "/publications/Fox_Neuroimage_2020.pdf",
+   "legacy": [
+    "/fox-et-al-neuroimage-2021.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "225",
+   "pages": "117518"
+  },
+  {
+   "src": "pub",
+   "idx": 33,
+   "slugs": [
+    "hur-et-al-journal-of-neuroscience-2020"
+   ],
+   "page_dates": [
+    "2020-05-12"
+   ],
+   "authors": [
+    "Hur J",
+    "Smith JF",
+    "DeYoung KA",
+    "Anderson AS",
+    "Kuang J",
+    "Kim HC",
+    "Tillman RM",
+    "Kuhn M",
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2020,
+   "title": "Anxiety and the neurobiology of temporally uncertain threat anticipation",
+   "pdf": "/publications/HurFoxShackmanEtAl_JNeuro_2020.full.pdf",
+   "legacy": [
+    "/hur-et-al-journal-of-neuroscience-2020.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "40",
+   "issue": "41",
+   "pages": "7949-7964"
+  },
+  {
+   "src": "pub",
+   "idx": 34,
+   "slugs": [
+    "kovner-et-al-biological-psychiatry-2020"
+   ],
+   "page_dates": [
+    "2020-05-12"
+   ],
+   "authors": [
+    "Kovner R",
+    "Souaiaia T",
+    "Fox AS",
+    "French DA",
+    "Goss CE",
+    "Roseboom PH",
+    "Oler JA",
+    "Riedel M",
+    "Fekete E",
+    "Fudge JL",
+    "Knowles JA",
+    "Kalin NH"
+   ],
+   "year": 2020,
+   "title": "Transcriptional Profiling of Primate Central Nucleus of the Amygdala Neurons to Understand the Molecular Underpinnings of Early Life Anxious Temperament",
+   "pdf": "/publications/KovnerEtAl_BiologicalPsychiatry_2020.pdf",
+   "legacy": [
+    "/kovner-et-al-biological-psychiatry-2020.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "88",
+   "issue": "8",
+   "pages": "638-648"
+  },
+  {
+   "src": "pub",
+   "idx": 35,
+   "slugs": [
+    "primate-de-neuron-2020-2020"
+   ],
+   "page_dates": [
+    "2020-02-19"
+   ],
+   "authors": [
+    "The PRIMatE Data Exchange (PRIME-DE) Global Collaboration Workshop and Consortium"
+   ],
+   "year": 2020,
+   "title": "Accelerating the Evolution of Nonhuman Primate Neuroimaging",
+   "pdf": "/publications/MilhamEtAl_2020_Neuron.pdf",
+   "legacy": [
+    "/primate-de-neuron-2020-2020.html"
+   ],
+   "type": "journal",
+   "venue": "Neuron",
+   "volume": "105",
+   "issue": "4",
+   "pages": "600-603"
+  },
+  {
+   "src": "pub",
+   "idx": 36,
+   "slugs": [
+    "fox-et-al-biological-psychiatry-2019-2019"
+   ],
+   "page_dates": [
+    "2019-06-25"
+   ],
+   "authors": [
+    "Fox AS*",
+    "Souaiaia T*",
+    "Oler JA",
+    "Kovner R",
+    "Mun J",
+    "Nguyen J",
+    "French DA",
+    "Riedel M",
+    "Fekete E",
+    "Rabska MR",
+    "Olsen ME",
+    "Brodsky EK",
+    "Alexander AL",
+    "Block WF",
+    "Roseboom PH",
+    "Knowles JA",
+    "Kalin NH"
+   ],
+   "year": 2019,
+   "title": "Dorsal amygdala neurotrophin-3 decreases anxious temperament in primates",
+   "pdf": "/publications/FoxEtAl_2019_BiologicalPschiatry.pdf",
+   "legacy": [
+    "/fox-et-al-biological-psychiatry-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "12",
+   "issue": "15",
+   "pages": "881-889"
+  },
+  {
+   "src": "pub",
+   "idx": 37,
+   "slugs": [
+    "tromp-et-al-biological-psychiatry-2019-2019"
+   ],
+   "page_dates": [
+    "2019-06-25"
+   ],
+   "authors": [
+    "Tromp DPM",
+    "Fox AS",
+    "Oler JA",
+    "Alexander AL",
+    "Kalin NH"
+   ],
+   "year": 2019,
+   "title": "The Relationship Between the Uncinate Fasciculus and Anxious Temperament Is Evolutionarily Conserved and Sexually Dimorphic",
+   "pdf": "/publications/TrompEtAl_2019_BiologicalPsychiatry.pdf",
+   "legacy": [
+    "/tromp-et-al-biological-psychiatry-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "12",
+   "issue": "15",
+   "pages": "890-898"
+  },
+  {
+   "src": "pub",
+   "idx": 38,
+   "slugs": [
+    "golub-et-al-biological-psychiatry-cognitive-neuroscience-and-neuroimaging-2019-2019"
+   ],
+   "page_dates": [
+    "2019-06-24"
+   ],
+   "authors": [
+    "Golub MS",
+    "Hogrefe CE",
+    "Campos LJ",
+    "Fox AS"
+   ],
+   "year": 2019,
+   "title": "Serotonin transporter (SERT) binding potentials in brain of juvenile monkeys one year after discontinuation of a two-year treatment with fluoxetine",
+   "pdf": "/publications/GolubEtAl_2019_BPCNN.pdf",
+   "legacy": [
+    "/golub-et-al-biological-psychiatry-cognitive-neuroscience-and-neuroimaging-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+   "volume": "4",
+   "issue": "11",
+   "pages": "948–955"
+  },
+  {
+   "src": "pub",
+   "idx": 39,
+   "slugs": [
+    "hur-et-al-pbr-2019-2019"
+   ],
+   "page_dates": [
+    "2019-02-01"
+   ],
+   "authors": [
+    "Hur J",
+    "Stockbridge MD",
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2019,
+   "title": "Dispositional negativity, cognition, and anxiety disorders: An integrative translational neuroscience framework",
+   "pdf": "/publications/hur_shackman_pbr2019.pdf",
+   "legacy": [
+    "/hur-et-al-pbr-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Progress in Brain Research",
+   "volume": "247"
+  },
+  {
+   "src": "pub",
+   "idx": 40,
+   "slugs": [
+    "tromp-et-al-ajp-2019-2019"
+   ],
+   "page_dates": [
+    "2019-02-01"
+   ],
+   "authors": [
+    "Tromp DPM",
+    "Williams LE",
+    "Fox AS",
+    "Oler JA",
+    "Roseboom PH",
+    "Rogers GM",
+    "Benson BE",
+    "Alexander AL",
+    "Pine DS",
+    "Kalin NH"
+   ],
+   "year": 2019,
+   "title": "Uncinate Fasciculus Microstructure in Childhood Anxiety Disorders is Altered in Boys but not Girls",
+   "pdf": "/publications/TrompEtAl_AJP_2018.pdf",
+   "legacy": [
+    "/tromp-et-al-ajp-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "American Journal of Psychiatry",
+   "volume": "176",
+   "issue": "3",
+   "pages": "208-216"
+  },
+  {
+   "src": "pub",
+   "idx": 41,
+   "slugs": [
+    "kovner-et-al-neuroscience-2019-2019"
+   ],
+   "page_dates": [
+    "2019-01-02"
+   ],
+   "authors": [
+    "Kovner R",
+    "Fox AS",
+    "French DA",
+    "Roseboom PH",
+    "Oler JA",
+    "Fudge JL",
+    "Kalin NH"
+   ],
+   "year": 2019,
+   "title": "Somatostatin Gene and Protein Expression in the Non-human Primate Central Extended Amygdala",
+   "pdf": "/publications/KovnerEtAl_Neuroscience_2019.pdf",
+   "legacy": [
+    "/kovner-et-al-neuroscience-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Neuroscience",
+   "volume": "400",
+   "pages": "157-168"
+  },
+  {
+   "src": "pub",
+   "idx": 42,
+   "slugs": [
+    "fox-shackman-neuroscience-letters-2019-2019"
+   ],
+   "page_dates": [
+    "2019-01-01"
+   ],
+   "authors": [
+    "Fox AS*",
+    "Shackman AJ*"
+   ],
+   "year": 2019,
+   "title": "The central extended amygdala in fear and anxiety: Closing the gap between mechanistic and neuroimaging research",
+   "pdf": "/publications/Fox_Shackman_2017_NeurosciLetters.pdf",
+   "legacy": [
+    "/fox-shackman-neuroscience-letters-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Neuroscience Letters",
+   "volume": "693",
+   "pages": "58-67"
+  },
+  {
+   "src": "pub",
+   "idx": 43,
+   "slugs": [
+    "heller-et-al-emotoin-2019"
+   ],
+   "page_dates": [
+    "2019-01-01"
+   ],
+   "authors": [
+    "Heller AS",
+    "Fox AS",
+    "Davidson RJ"
+   ],
+   "year": 2019,
+   "title": "Parsing Affective Dynamics to Identify Risk for Mood and Anxiety Disorders",
+   "pdf": "/publications/Heller_et_al_2018_Emotion.pdf",
+   "legacy": [
+    "/heller-et-al-emotoin-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Emotion",
+   "volume": "19",
+   "issue": "2",
+   "pages": "283-291"
+  },
+  {
+   "src": "pub",
+   "idx": 44,
+   "slugs": [
+    "hur-et-al-bbs-2019-2019"
+   ],
+   "page_dates": [
+    "2019-01-01"
+   ],
+   "authors": [
+    "Hur J",
+    "Tillman RM",
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2019,
+   "title": "The value of clinical and translational neuroscience approaches to psychiatric illness",
+   "pdf": "/publications/hur_tillman_shackman_BBSBorsboom_BBS-D-16-00122R2_MS_040118.pdf",
+   "legacy": [
+    "/hur-et-al-bbs-2019-2019.html"
+   ],
+   "type": "journal",
+   "venue": "Behavioral and Brain Sciences",
+   "volume": "42",
+   "pages": "e11"
+  },
+  {
+   "src": "pub",
+   "idx": 45,
+   "slugs": [
+    "hur-et-al-scientific-reports-2018-2018"
+   ],
+   "page_dates": [
+    "2018-10-04"
+   ],
+   "authors": [
+    "Hur J",
+    "Kaplan CM",
+    "Smith JF",
+    "Bradford DE",
+    "Fox AS",
+    "Curtin JJ",
+    "Shackman AJ"
+   ],
+   "year": 2018,
+   "title": "Acute alcohol administration dampens threat-related activation in the central extended amygdala",
+   "pdf": "/publications/HurEtAlShackman_ScientificReports_2018.pdf",
+   "legacy": [
+    "/hur-et-al-scientific-reports-2018-2018.html"
+   ],
+   "type": "journal",
+   "venue": "Scientific Reports",
+   "volume": "8",
+   "issue": "1",
+   "pages": "16702"
+  },
+  {
+   "src": "pub",
+   "idx": 46,
+   "slugs": [
+    "fox-oler-et-al-2018"
+   ],
+   "page_dates": [
+    "2018-09-01"
+   ],
+   "authors": [
+    "Fox AS*",
+    "Oler JA*",
+    "Birn RM",
+    "Shackman AJ",
+    "Alexander AL",
+    "Kalin NH"
+   ],
+   "year": 2018,
+   "title": "Functional connectivity within the primate extended amygdala is heritable and associated with early-life anxious temperament",
+   "pdf": "/publications/FoxOler_JNeuro_2018_fconn.pdf",
+   "legacy": [
+    "/fox-oler-et-al-2018.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "38",
+   "issue": "35",
+   "pages": "7611-7621"
+  },
+  {
+   "src": "pub",
+   "idx": 47,
+   "slugs": [
+    "shackman-fox-tics-commentary-2018"
+   ],
+   "page_dates": [
+    "2018-02-04"
+   ],
+   "authors": [
+    "Shackman AJ*",
+    "Fox AS*"
+   ],
+   "year": 2018,
+   "title": "Getting Serious about Variation: Lessons for Clinical Neuroscience (A Commentary on The Myth of Optimality in Clinical Neuroscience)",
+   "pdf": "/publications/Shackman_fox_TICS_2018.pdf",
+   "legacy": [
+    "/shackman-fox-tics-commentary-2018.html"
+   ],
+   "type": "journal",
+   "venue": "Trends in Cognitive Sciences",
+   "volume": "22",
+   "issue": "5",
+   "pages": "368-369"
+  },
+  {
+   "src": "pub",
+   "idx": 48,
+   "slugs": [
+    "tillman-et-al-hbm-2018-2018"
+   ],
+   "page_dates": [
+    "2018-02-03"
+   ],
+   "authors": [
+    "Tillman RM",
+    "Stockbridge MD",
+    "Nacewicz BM",
+    "Torrisi S",
+    "Fox AS",
+    "Smith JF",
+    "Shackman AJ"
+   ],
+   "year": 2018,
+   "title": "Intrinsic functional connectivity of the central extended amygdala",
+   "pdf": "/publications/tillman_shackman_HBM2018inpress.pdf",
+   "legacy": [
+    "/tillman-et-al-hbm-2018-2018.html"
+   ],
+   "type": "journal",
+   "venue": "Human Brain Mapping",
+   "volume": "39",
+   "issue": "3",
+   "pages": "1291-1312"
+  },
+  {
+   "src": "pub",
+   "idx": 49,
+   "slugs": [
+    "fox-the-brain-is-organized-to-emote-2018"
+   ],
+   "page_dates": [
+    "2018-01-05"
+   ],
+   "authors": [
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "The brain is organized to emote",
+   "pdf": "/publications/Fox_oranizedToEmote_chapter.pdf",
+   "legacy": [
+    "/fox-the-brain-is-organized-to-emote-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 50,
+   "slugs": [
+    "fox-et-al-the-nature-of-emotion-a-research-agenda-for-the-21st-century-2018"
+   ],
+   "page_dates": [
+    "2018-01-04"
+   ],
+   "authors": [
+    "Fox AS*",
+    "Lapate RC",
+    "Davidson RJ",
+    "Shackman AJ*"
+   ],
+   "year": 2018,
+   "title": "Epilogue—The nature of emotion: A research agenda for the 21st century",
+   "pdf": null,
+   "legacy": [
+    "/fox-et-al-the-nature-of-emotion-a-research-agenda-for-the-21st-century-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 51,
+   "slugs": [
+    "fox-on-the-significance-of-implicit-emotional-communication-2018"
+   ],
+   "page_dates": [
+    "2018-01-04"
+   ],
+   "authors": [
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "On the significance of implicit emotional communication",
+   "pdf": null,
+   "legacy": [
+    "/fox-on-the-significance-of-implicit-emotional-communication-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 52,
+   "slugs": [
+    "okon-singer-et-al-the-interplay-of-emotion-and-cognition-2018"
+   ],
+   "page_dates": [
+    "2018-01-03"
+   ],
+   "authors": [
+    "Okon-Singer H",
+    "Stout DM",
+    "Stockbridge MD",
+    "Gamer M",
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2018,
+   "title": "The interplay of emotion and cognition",
+   "pdf": null,
+   "legacy": [
+    "/okon-singer-et-al-the-interplay-of-emotion-and-cognition-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 53,
+   "slugs": [
+    "shackman-et-al-the-psychological-and-neurobiological-bases-of-dispositional-negativity-2018"
+   ],
+   "page_dates": [
+    "2018-01-03"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Stockbridge MD",
+    "LeMay EP",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "The psychological and neurobiological bases of dispositional negativity",
+   "pdf": null,
+   "legacy": [
+    "/shackman-et-al-the-psychological-and-neurobiological-bases-of-dispositional-negativity-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 54,
+   "slugs": [
+    "fox-lapate-how-are-emotions-integrated-into-choice-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Fox AS",
+    "Lapate RC"
+   ],
+   "year": 2018,
+   "title": "Afterword: How are emotions integrated into choice",
+   "pdf": null,
+   "legacy": [
+    "/fox-lapate-how-are-emotions-integrated-into-choice-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 55,
+   "slugs": [
+    "fox-lapte-when-and-in-what-ways-are-emotions-adaptive-and-maladaptive-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Fox AS",
+    "Lapate RC"
+   ],
+   "year": 2018,
+   "title": "Afterword: When and in what ways are emotions adaptive and maladaptive",
+   "pdf": null,
+   "legacy": [
+    "/fox-lapte-when-and-in-what-ways-are-emotions-adaptive-and-maladaptive-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 56,
+   "slugs": [
+    "fox-shackma-how-are-emotions-physically-embodied-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2018,
+   "title": "Afterword: How are emotions physically embodied",
+   "pdf": null,
+   "legacy": [
+    "/fox-shackma-how-are-emotions-physically-embodied-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 57,
+   "slugs": [
+    "fox-shackman-how-are-emotions-embodied-in-the-social-world-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shackman AJ"
+   ],
+   "year": 2018,
+   "title": "Afterword: How are emotions embodied in the social world",
+   "pdf": null,
+   "legacy": [
+    "/fox-shackman-how-are-emotions-embodied-in-the-social-world-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 58,
+   "slugs": [
+    "lapate-fox-afterword-how-and-why-are-emotions-communicated-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Lapate RC",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "Afterword: How and why are emotions communicated",
+   "pdf": null,
+   "legacy": [
+    "/lapate-fox-afterword-how-and-why-are-emotions-communicated-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 59,
+   "slugs": [
+    "lapate-fox-what-is-the-role-of-conscious-awareness-in-emotion-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Lapate RC",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "Afterword: What is the role of conscious awareness in emotion",
+   "pdf": null,
+   "legacy": [
+    "/lapate-fox-what-is-the-role-of-conscious-awareness-in-emotion-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 60,
+   "slugs": [
+    "shackman-fox-how-are-emotions-organized-in-the-brain-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "Afterword: How are emotions organized in the brain",
+   "pdf": null,
+   "legacy": [
+    "/shackman-fox-how-are-emotions-organized-in-the-brain-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 61,
+   "slugs": [
+    "shackman-fox-what-are-the-dimensions-and-bases-for-lasting-individual-differences-in-emotion-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "Afterword: What are the dimensions and bases for lasting individual differences in emotion",
+   "pdf": null,
+   "legacy": [
+    "/shackman-fox-what-are-the-dimensions-and-bases-for-lasting-individual-differences-in-emotion-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 62,
+   "slugs": [
+    "shackman-lapate-fox-how-are-emotions-mood-and-temperament-related-2018"
+   ],
+   "page_dates": [
+    "2018-01-02"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Lapate RC",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "Afterword: How are emotions, mood, and temperament related",
+   "pdf": null,
+   "legacy": [
+    "/shackman-lapate-fox-how-are-emotions-mood-and-temperament-related-2018.html"
+   ],
+   "type": "chapter",
+   "venue": "The Nature of Emotion: Fundamental questions (2nd edition)",
+   "editors": "Fox AS, Lapate RC, Shackman AJ & Davidson RJ",
+   "publisher": "Oxford University Press"
+  },
+  {
+   "src": "pub",
+   "idx": 63,
+   "slugs": [
+    "shackman-et-al-emotion-2018-2018"
+   ],
+   "page_dates": [
+    "2018-01-01"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Weinstein J",
+    "Hudja SN",
+    "Bloomer C",
+    "Barstead MG",
+    "Fox AS",
+    "Lemay EP Jr"
+   ],
+   "year": 2018,
+   "title": "Dispositional negativity in the wild: Social context governs momentary emotional experience",
+   "pdf": "/publications/shackman_e2017_Emotion.pdf",
+   "legacy": [
+    "/shackman-et-al-emotion-2018-2018.html"
+   ],
+   "type": "journal",
+   "venue": "Emotion",
+   "volume": "18",
+   "issue": "5",
+   "pages": "707-724"
+  },
+  {
+   "src": "pub",
+   "idx": 64,
+   "slugs": [
+    "shackman-et-al-molecular-psychiatry-2017-2017"
+   ],
+   "page_dates": [
+    "2017-01-02"
+   ],
+   "authors": [
+    "Shackman AJ*",
+    "Fox AS*",
+    "Oler JA",
+    "Shelton SE",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2017,
+   "title": "Heightened extended amygdala metabolism following threat characterizes the early phenotypic risk to develop anxiety-related psychopathology",
+   "pdf": "/publications/ShackFox_Regulation_MolecularPsychiatry_2016.pdf",
+   "legacy": [
+    "/shackman-et-al-molecular-psychiatry-2017-2017.html",
+    "/shackman-et-al-2016.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "volume": "22",
+   "issue": "5",
+   "pages": "724-732"
+  },
+  {
+   "src": "pub",
+   "idx": 66,
+   "slugs": [
+    "shackman-fox-journal-of-neuroscience-2016"
+   ],
+   "page_dates": [
+    "2016-08-03"
+   ],
+   "authors": [
+    "Shackman AJ*",
+    "Fox AS*"
+   ],
+   "year": 2016,
+   "title": "Contributions of the central extended amygdala to fear and anxiety",
+   "pdf": "/publications/ShackmanFox_BST_JNeuro2016.pdf",
+   "legacy": [
+    "/shackman-fox-journal-of-neuroscience-2016.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "36",
+   "issue": "31",
+   "pages": "8050-8063"
+  },
+  {
+   "src": "pub",
+   "idx": 67,
+   "slugs": [
+    "shackman-et-al-psychological-bulletin-2016"
+   ],
+   "page_dates": [
+    "2016-05-01"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Tromp DPM",
+    "Stockbridge MD",
+    "Kaplan CM",
+    "Tillman RM",
+    "Fox AS"
+   ],
+   "year": 2016,
+   "title": "Dispositional negativity: An integrative psychological and neurobiological perspective",
+   "pdf": "/publications/ShackmanEtAl_PsychBull_2016.pdf",
+   "legacy": [
+    "/shackman-et-al-psychological-bulletin-2016.html"
+   ],
+   "type": "journal",
+   "venue": "Psychological Bulletin",
+   "volume": "142",
+   "issue": "12",
+   "pages": "1275-1314"
+  },
+  {
+   "src": "pub",
+   "idx": 68,
+   "slugs": [
+    "shackman-et-al-journal-of-experimental-psychopathology-2016"
+   ],
+   "page_dates": [
+    "2016-04-01"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Kaplan CM",
+    "Stockbridge MD",
+    "Tillman RM",
+    "Tromp DPM",
+    "Fox AS",
+    "Gamer M"
+   ],
+   "year": 2016,
+   "title": "The neurobiology of dispositional negativity and attentional biases to threat: Implications for understanding anxiety disorders in adults and youth",
+   "pdf": null,
+   "legacy": [
+    "/shackman-et-al-journal-of-experimental-psychopathology-2016.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Experimental Psychopathology",
+   "volume": "7",
+   "issue": "3",
+   "pages": "311-342"
+  },
+  {
+   "src": "pub",
+   "idx": 69,
+   "slugs": [
+    "kalin-et-al-biological-psychiatry-2016"
+   ],
+   "page_dates": [
+    "2016-01-02"
+   ],
+   "authors": [
+    "Kalin NH",
+    "Fox AS",
+    "Kovner R",
+    "Riedel MK",
+    "Feketa EM",
+    "Roseboom PH",
+    "Tromp DPM",
+    "Grabow BP",
+    "Brodsky EK",
+    "Olsen ME",
+    "Alexander AL",
+    "Emborg ME",
+    "Block WF",
+    "Fudge JL",
+    "Oler JA"
+   ],
+   "year": 2016,
+   "title": "Overexpressing Corticotropin-releasing hormone (CRH) in the primate amygdala increases anxious temperament and alters its neural circuit",
+   "pdf": "/publications/kalin_et_al_2016_BiologicalPsychiatry.pdf",
+   "legacy": [
+    "/kalin-et-al-biological-psychiatry-2016.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "80",
+   "issue": "5",
+   "pages": "345-55"
+  },
+  {
+   "src": "pub",
+   "idx": 70,
+   "slugs": [
+    "oler-ja-et-al-2016"
+   ],
+   "page_dates": [
+    "2016-01-01"
+   ],
+   "authors": [
+    "Oler JA",
+    "Fox AS",
+    "Shackman AJ",
+    "Kalin NH"
+   ],
+   "year": 2016,
+   "title": "The Central Nucleus of the Amygdala is a Critical Substrate for Individual Differences in Anxiety",
+   "pdf": "/publications/oler_fox_shack_kalin_AdolphsBook_051514.pdf",
+   "legacy": [
+    "/oler-ja-et-al-2016.html"
+   ],
+   "type": "chapter",
+   "venue": "Living without an amygdala",
+   "editors": "Amaral DG, Bauman M & Adolphs R",
+   "publisher": "Guilford Press"
+  },
+  {
+   "src": "pub",
+   "idx": 71,
+   "slugs": [
+    "oler-tromp-et-al-2016",
+    "oler-tromp-et-al-bsf-2017-2017"
+   ],
+   "page_dates": [
+    "2016-01-01",
+    "2017-01-01"
+   ],
+   "authors": [
+    "Oler JA*",
+    "Tromp DPM*",
+    "Fox AS",
+    "Kovner R",
+    "Davidson RJ",
+    "Alexander AL",
+    "MacFarlin D",
+    "Birn R",
+    "Berg B",
+    "de Campo D",
+    "Fudge JL",
+    "Kalin NH"
+   ],
+   "year": 2017,
+   "title": "Connectivity between the central nucleus of the amygdala and the bed nucleus of the stria terminalis in the non-human primate: neuronal tract tracing and developmental neuroimaging studies",
+   "pdf": "/publications/oler_tromp_et_al_2016_BrainStructureAndFunction.pdf",
+   "legacy": [
+    "/oler-tromp-et-al-2016.html",
+    "/oler-tromp-et-al-bsf-2017-2017.html"
+   ],
+   "type": "journal",
+   "venue": "Brain Structure and Function",
+   "volume": "222",
+   "issue": "1",
+   "pages": "21-39"
+  },
+  {
+   "src": "pub",
+   "idx": 72,
+   "slugs": [
+    "fox-et-al-pnas-2015"
+   ],
+   "page_dates": [
+    "2015-06-09"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Shackman AJ",
+    "Shelton SE",
+    "Raveendran M",
+    "McKay DR",
+    "Converse AK",
+    "Alexander AL",
+    "Davidson RJ",
+    "Blangero J",
+    "Rogers J",
+    "Kalin NH"
+   ],
+   "year": 2015,
+   "title": "Intergenerational neural mediators of early-life anxious temperament",
+   "pdf": "/publications/Fox_PNAS_2015_IntergenerationalNeuralMediators_withSupp.pdf",
+   "legacy": [
+    "/fox-et-al-pnas-2015.html"
+   ],
+   "type": "journal",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "volume": "112",
+   "issue": "29",
+   "pages": "9118-9122"
+  },
+  {
+   "src": "pub",
+   "idx": 73,
+   "slugs": [
+    "fox-et-al-tins-2015"
+   ],
+   "page_dates": [
+    "2015-04-12"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Tromp DPM",
+    "Fudge J",
+    "Kalin NH"
+   ],
+   "year": 2015,
+   "title": "Extending the amygdala in theories of threat processing",
+   "pdf": "/publications/Fox_2015_extendingTheAmygdala.pdf",
+   "legacy": [
+    "/fox-et-al-tins-2015.html"
+   ],
+   "type": "journal",
+   "venue": "Trends in Neurosciences",
+   "volume": "38",
+   "issue": "5"
+  },
+  {
+   "src": "pub",
+   "idx": 74,
+   "slugs": [
+    "heller-as-et-al-2015"
+   ],
+   "page_dates": [
+    "2015-03-18"
+   ],
+   "authors": [
+    "Heller AS",
+    "Fox AS",
+    "Wing EK",
+    "Mayer K",
+    "Vack NJ",
+    "Davidson RJ"
+   ],
+   "year": 2015,
+   "title": "The neurodynamics of affect in the laboratory predicts persistence of real-world emotional responses",
+   "pdf": "/publications/Heller_et_al_2015_neurodynamics_and_real_world_affect.pdf",
+   "legacy": [
+    "/heller-as-et-al-2015.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "35",
+   "issue": "29",
+   "pages": "10503–10509"
+  },
+  {
+   "src": "pub",
+   "idx": 75,
+   "slugs": [
+    "weng-hy-et-al-2015"
+   ],
+   "page_dates": [
+    "2015-02-18"
+   ],
+   "authors": [
+    "Weng HY",
+    "Fox AS",
+    "Hessenthaler HC",
+    "Stodola DE",
+    "Davidson RJ"
+   ],
+   "year": 2015,
+   "title": "The role of compassion in altruistic helping and punishment behavior",
+   "pdf": "/publications/weng_et_al_PLoSOne_2015.pdf",
+   "legacy": [
+    "/weng-hy-et-al-2015.html"
+   ],
+   "type": "journal",
+   "venue": "PLoS One",
+   "volume": "10",
+   "issue": "12",
+   "pages": "e0143794"
+  },
+  {
+   "src": "pub",
+   "idx": 76,
+   "slugs": [
+    "kennis-m-et-al-2015"
+   ],
+   "page_dates": [
+    "2015-02-04"
+   ],
+   "authors": [
+    "Kennis M",
+    "van Rooij SJH",
+    "Tromp DPM",
+    "Fox AS",
+    "Rademaker AR",
+    "Kahn RS",
+    "Kalin NH",
+    "Geuze E"
+   ],
+   "year": 2015,
+   "title": "Dorsal cingulum differences related to treatment outcome in PTSD: A longitudinal diffusion tensor imaging study",
+   "pdf": "/publications/kennis_et_al_2015_neuropsychopharm.pdf",
+   "legacy": [
+    "/kennis-m-et-al-2015.html"
+   ],
+   "type": "journal",
+   "venue": "Neuropsychopharmacology",
+   "volume": "40",
+   "issue": "10",
+   "pages": "2434-42"
+  },
+  {
+   "src": "pub",
+   "idx": 77,
+   "slugs": [
+    "williams-le-et-al-2015"
+   ],
+   "page_dates": [
+    "2015-01-21"
+   ],
+   "authors": [
+    "Williams LE",
+    "Oler JA",
+    "Fox AS",
+    "McFarlin DR",
+    "Rogers GM",
+    "Davidson RJ",
+    "Pine DS",
+    "Jesson MAL",
+    "Kalin NH"
+   ],
+   "year": 2015,
+   "title": "Fear of the Unknown: Uncertain Anticipation Reveals Amygdala Alterations in Childhood Anxiety Disorders",
+   "pdf": "/publications/Williams_2015_FearOfTheUnknownUncertainAnticipationRevealsAmygdalaAlterationsInChildhoodAnxietyDisorders.pdf",
+   "legacy": [
+    "/williams-le-et-al-2015.html"
+   ],
+   "type": "journal",
+   "venue": "Neuropsychopharmacology",
+   "volume": "40",
+   "pages": "1428-1435"
+  },
+  {
+   "src": "pub",
+   "idx": 78,
+   "slugs": [
+    "shackman-aj-et-al-2015"
+   ],
+   "page_dates": [
+    "2015-01-18"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Fox AS",
+    "Seminowicz DA"
+   ],
+   "year": 2015,
+   "title": "The cognitive-emotional brain: Opportunities and challenges for understanding neuropsychiatric disorders. (Commentary on: Précis on The Cognitive-Emotional Brain)",
+   "pdf": "/publications/ShackmanEtAl_commentary_on_Pessoa.pdf",
+   "legacy": [
+    "/shackman-aj-et-al-2015.html"
+   ],
+   "type": "journal",
+   "venue": "Behavioral and Brain Sciences"
+  },
+  {
+   "src": "pub",
+   "idx": 79,
+   "slugs": [
+    "roseboom-et-al-2014"
+   ],
+   "page_dates": [
+    "2014-11-20"
+   ],
+   "authors": [
+    "Roseboom PH",
+    "Nanda SA",
+    "Fox AS",
+    "Oler JA",
+    "Shackman AJ",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2014,
+   "title": "Neuropeptide Y Receptor Gene Expression in the Primate Amygdala Predicts Anxious Temperament and Brain Metabolism",
+   "pdf": "/publications/roseboom_2013.pdf",
+   "legacy": [
+    "/roseboom-et-al-2014.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "76",
+   "issue": "11",
+   "pages": "850-857"
+  },
+  {
+   "src": "pub",
+   "idx": 80,
+   "slugs": [
+    "alisch-et-al-2014"
+   ],
+   "page_dates": [
+    "2014-10-08"
+   ],
+   "authors": [
+    "Alisch RS",
+    "Chopra P",
+    "Fox AS",
+    "Chen K",
+    "White ATJ",
+    "Roseboom PH",
+    "Keles S",
+    "Kalin NH"
+   ],
+   "year": 2014,
+   "title": "Differentially methylated plasticity genes in the amygdala of young primates are linked to anxious temperament, an at risk phenotype for anxiety and depressive disorders",
+   "pdf": "/publications/alisch_et_al_JNeuro_2014.pdf",
+   "legacy": [
+    "/alisch-et-al-2014.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "34",
+   "issue": "47",
+   "pages": "15548-15556"
+  },
+  {
+   "src": "pub",
+   "idx": 81,
+   "slugs": [
+    "fox-kalin-2014"
+   ],
+   "page_dates": [
+    "2014-08-01"
+   ],
+   "authors": [
+    "Fox AS",
+    "Kalin NH"
+   ],
+   "year": 2014,
+   "title": "A Translational Neuroscience Approach to Understanding the Development of Social Anxiety Disorder and Its Pathophysiology",
+   "pdf": "/publications/FoxKalin_ajp_2014.pdf",
+   "legacy": [
+    "/fox-kalin-2014.html"
+   ],
+   "type": "journal",
+   "venue": "American Journal of Psychiatry",
+   "volume": "171",
+   "issue": "11",
+   "pages": "1162–1173"
+  },
+  {
+   "src": "pub",
+   "idx": 82,
+   "slugs": [
+    "birn-shackman-et-al-2014"
+   ],
+   "page_dates": [
+    "2014-03-27"
+   ],
+   "authors": [
+    "Birn RM*",
+    "Shackman AJ*",
+    "Oler JA",
+    "Williams LE",
+    "McFarlin DR",
+    "Rogers GM",
+    "Shelton SE",
+    "Alexander AL",
+    "Pine P",
+    "Slattery MJ",
+    "Davidson RJ",
+    "Fox AS",
+    "Kalin NH"
+   ],
+   "year": 2014,
+   "title": "Evolutionarily-conserved prefrontal-amygdalar dysfunction in early-life anxiety",
+   "pdf": "/publications/birnShackman_molecularpsychiatry_2014.pdf",
+   "legacy": [
+    "/birn-shackman-et-al-2014.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "pages": "1-8"
+  },
+  {
+   "src": "pub",
+   "idx": 83,
+   "slugs": [
+    "tomer-et-al-2014"
+   ],
+   "page_dates": [
+    "2014-01-20"
+   ],
+   "authors": [
+    "Tomer R",
+    "Slagter HA",
+    "Christian BT",
+    "Fox AS",
+    "King CR",
+    "Murali D",
+    "Gluck MA",
+    "Davidson RJ"
+   ],
+   "year": 2014,
+   "title": "Love to win or hate to lose? Asymmetry of dopamine D2 receptor binding predicts sensitivity to reward vs. punishment",
+   "pdf": "/publications/TomerLoveJOCN.pdf",
+   "legacy": [
+    "/tomer-et-al-2014.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Cognitive Neuroscience",
+   "volume": "26",
+   "issue": "5",
+   "pages": "1039-48"
+  },
+  {
+   "src": "pub",
+   "idx": 84,
+   "slugs": [
+    "shackman-fox-et-al-2013"
+   ],
+   "page_dates": [
+    "2013-03-28"
+   ],
+   "authors": [
+    "Shackman AJ*",
+    "Fox AS*",
+    "Oler JA",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2013,
+   "title": "Neural mechanisms underlying heterogeneity in the presentation of anxious temperament",
+   "pdf": "/publications/NeuralMechanismsUnderlyingHeterogeneityInThePresentationOfAnxiousTemperamentShackmanFox_2013.pdf",
+   "legacy": [
+    "/shackman-fox-et-al-2013.html"
+   ],
+   "type": "journal",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "volume": "120",
+   "issue": "15",
+   "pages": "6145-6150"
+  },
+  {
+   "src": "pub",
+   "idx": 85,
+   "slugs": [
+    "tomer-et-al-2013"
+   ],
+   "page_dates": [
+    "2013-01-05"
+   ],
+   "authors": [
+    "Tomer R",
+    "Slagter HA",
+    "Christian BT",
+    "Fox AS",
+    "King CR",
+    "Murali D",
+    "Davidson RJ"
+   ],
+   "year": 2013,
+   "title": "Dopamine asymmetries predict orienting bias in healthy individuals",
+   "pdf": "/publications/CerebCortex-2012-Tomer-cercor-bhs277.pdf",
+   "legacy": [
+    "/tomer-et-al-2013.html"
+   ],
+   "type": "journal",
+   "venue": "Cerebral Cortex",
+   "volume": "23",
+   "issue": "12",
+   "pages": "2899-904"
+  },
+  {
+   "src": "pub",
+   "idx": 86,
+   "slugs": [
+    "weng-et-al-2013"
+   ],
+   "page_dates": [
+    "2013-01-02"
+   ],
+   "authors": [
+    "Weng HY",
+    "Fox AS",
+    "Shackman AJ",
+    "Stodola DE",
+    "Caldwell JK",
+    "Olson MC",
+    "Rogers GM",
+    "Davidson RJ"
+   ],
+   "year": 2013,
+   "title": "Compassion training alters altruism and neural responses to suffering",
+   "pdf": "/publications/Weng_PsychScience_2013.pdf",
+   "legacy": [
+    "/weng-et-al-2013.html"
+   ],
+   "type": "journal",
+   "venue": "Psychological Science",
+   "volume": "24",
+   "issue": "7",
+   "pages": "1171-1180"
+  },
+  {
+   "src": "pub",
+   "idx": 87,
+   "slugs": [
+    "oler-et-al-2012"
+   ],
+   "page_dates": [
+    "2012-01-07"
+   ],
+   "authors": [
+    "Oler JA",
+    "Birn RM",
+    "Patriat R",
+    "Fox AS",
+    "Shelton SE",
+    "Burghy CA",
+    "Stodola DE",
+    "Essex MJ",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "Evidence for coordinated functional activity within the extended amygdala of non-human and human primates",
+   "pdf": "/publications/evidenceForCoordinatedFunctionalActivityWithinTheExtendedAmygdala_Oler2012.pdf",
+   "legacy": [
+    "/oler-et-al-2012.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "61",
+   "issue": "4",
+   "pages": "1059-1066"
+  },
+  {
+   "src": "pub",
+   "idx": 88,
+   "slugs": [
+    "slagter-et-al-2012"
+   ],
+   "page_dates": [
+    "2012-01-06"
+   ],
+   "authors": [
+    "Slagter HA",
+    "Tomer R",
+    "Christian BT",
+    "Fox AS",
+    "Colzato LS",
+    "King CR",
+    "Murali D",
+    "Davidson RJ"
+   ],
+   "year": 2012,
+   "title": "PET evidence for a role for striatal dopamine in the attentional blink: Functional implications",
+   "pdf": "/publications/SlagterPETCognitiveNeuroscience.pdf",
+   "legacy": [
+    "/slagter-et-al-2012.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Cognitive Neuroscience",
+   "volume": "24",
+   "issue": "9",
+   "pages": "1932-40"
+  },
+  {
+   "src": "pub",
+   "idx": 89,
+   "slugs": [
+    "rogers-et-al-2012"
+   ],
+   "page_dates": [
+    "2012-01-04"
+   ],
+   "authors": [
+    "Rogers J",
+    "Raveendran M",
+    "Fawcett GL",
+    "Fox AS",
+    "Oler JA",
+    "Cheverud J",
+    "Muzny DM",
+    "Gibbs RA",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "CRHR1 genotypes, neural circuits and the diathesis for anxiety and depression",
+   "pdf": "/publications/mp2012152a.pdf",
+   "legacy": [
+    "/rogers-et-al-2012.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "pages": "1–8"
+  },
+  {
+   "src": "pub",
+   "idx": 90,
+   "slugs": [
+    "fox-et-al-2012"
+   ],
+   "page_dates": [
+    "2012-01-03"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Shelton SE",
+    "Nanda SA",
+    "Davidson RJ",
+    "Roseboom PH",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "Central amygdala nucleus (Ce) gene expression linked to increased trait-like Ce metabolism and anxious temperament in young primates",
+   "pdf": "/publications/PNAS-2012-Fox-1206723109.pdf",
+   "legacy": [
+    "/fox-et-al-2012.html"
+   ],
+   "type": "journal",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "volume": "109",
+   "issue": "44",
+   "pages": "18108–18113"
+  },
+  {
+   "src": "pub",
+   "idx": 91,
+   "slugs": [
+    "shackman-solomons-et-al-2011"
+   ],
+   "page_dates": [
+    "2011-01-09"
+   ],
+   "authors": [
+    "Shackman AJ*",
+    "Salomons TV*",
+    "Slagter HA",
+    "Fox AS",
+    "Davidson RJ"
+   ],
+   "year": 2011,
+   "title": "The integration of negative affect, pain and cognitive control in the cingulate cortex",
+   "pdf": "/publications/shackmanEtAl_2011.pdf",
+   "legacy": [
+    "/shackman-solomons-et-al-2011.html"
+   ],
+   "type": "journal",
+   "venue": "Nature Reviews Neuroscience",
+   "volume": "12",
+   "pages": "154-167"
+  },
+  {
+   "src": "pub",
+   "idx": 92,
+   "slugs": [
+    "adluru-et-al-2011"
+   ],
+   "page_dates": [
+    "2011-01-08"
+   ],
+   "authors": [
+    "Adluru N",
+    "Zhang H",
+    "Fox AS",
+    "Shelton SE",
+    "Ennis CM",
+    "Bartosic AM",
+    "Oler JA",
+    "Tromp DPM",
+    "Zakszewski E",
+    "Gee JC",
+    "Kalin NH",
+    "Alexander AL"
+   ],
+   "year": 2011,
+   "title": "A Diffusion Tensor Brain Template for Rhesus Macaques",
+   "pdf": "/publications/ADiffusionTensorBrainTemplateForRhesusMacaques_Adluru.pdf",
+   "legacy": [
+    "/adluru-et-al-2011.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "59",
+   "issue": "1",
+   "pages": "306-318"
+  },
+  {
+   "src": "pub",
+   "idx": 93,
+   "slugs": [
+    "jahn-et-al-2010"
+   ],
+   "page_dates": [
+    "2010-01-12"
+   ],
+   "authors": [
+    "Jahn AL",
+    "Fox AS",
+    "Abercrombie HC",
+    "Shelton SE",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Subgenual PFC Activity Predicts Individual Differences in HPA Activity Across Different Contexts",
+   "pdf": "/publications/SgpPFCPredictsIndividualDifferencesInHPAActivityAcrossDifferentContexts_Jahn.pdf",
+   "legacy": [
+    "/jahn-et-al-2010.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "67",
+   "issue": "2",
+   "pages": "175-181"
+  },
+  {
+   "src": "pub",
+   "idx": 94,
+   "slugs": [
+    "fox-et-al-2010"
+   ],
+   "page_dates": [
+    "2010-01-11"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Orbitofrontal Cortex Lesions Alter Anxiety-Related Activity in the Primate Bed Nucleus of Stria Terminalis",
+   "pdf": "/publications/OrbitofrontalCortexLesionsAlterAnxietyRelatedActivityInThePrimateBedNucleusOfStriaTerminalis_Fox.pdf",
+   "legacy": [
+    "/fox-et-al-2010.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "30",
+   "issue": "20",
+   "pages": "7023-7027"
+  },
+  {
+   "src": "pub",
+   "idx": 95,
+   "slugs": [
+    "oler-fox-et-al-2010"
+   ],
+   "page_dates": [
+    "2010-01-10"
+   ],
+   "authors": [
+    "Oler JA*",
+    "Fox AS*",
+    "Shelton SE",
+    "Rogers J",
+    "Blangero J",
+    "Davidson RJ",
+    "Shelledy W",
+    "Oakes TR",
+    "Dyer T",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Amygdalar and hippocampal substrates of anxious temperament differ in their heritability",
+   "pdf": "/publications/OlerFoxEtAl2010.pdf",
+   "legacy": [
+    "/oler-fox-et-al-2010.html"
+   ],
+   "type": "journal",
+   "venue": "Nature",
+   "volume": "466",
+   "pages": "864-868"
+  },
+  {
+   "src": "pub",
+   "idx": 96,
+   "slugs": [
+    "christian-et-al-fallypride-2009"
+   ],
+   "page_dates": [
+    "2009-01-15"
+   ],
+   "authors": [
+    "Christian BT",
+    "Vandehey NT",
+    "Fox AS",
+    "Murali D",
+    "Oakes TR",
+    "Nickles RJ",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2009,
+   "title": "The distribution of D2/D3 receptor binding in the adolescent rhesus monkey using small animal PET imaging",
+   "pdf": "/publications/theDistributionOfD2D3ReceptorBindingInTheAdolescentRhesusMonkeyUsingSmallAnimalPETImaging.pdf",
+   "legacy": [
+    "/christian-et-al-fallypride-2009.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "44",
+   "pages": "1334-1344"
+  },
+  {
+   "src": "pub",
+   "idx": 97,
+   "slugs": [
+    "christian-et-al-dasb-2009"
+   ],
+   "page_dates": [
+    "2009-01-14"
+   ],
+   "authors": [
+    "Christian BT",
+    "Fox AS",
+    "Oler JA",
+    "Vandehey NT",
+    "Murali D",
+    "Rogers J",
+    "Oakes TR",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2009,
+   "title": "Serotonin transporter binding and genotype in the nonhuman primate using [C11]DASB PET",
+   "pdf": "/publications/SerotoninTransporterBindingAndGenotypeInTheNonhumanPrimateUsingC11DASBPET_2009_Christian.pdf",
+   "legacy": [
+    "/christian-et-al-dasb-2009.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "47",
+   "pages": "1230-1236"
+  },
+  {
+   "src": "pub",
+   "idx": 98,
+   "slugs": [
+    "oler-et-al-2009"
+   ],
+   "page_dates": [
+    "2009-01-13"
+   ],
+   "authors": [
+    "Oler JA",
+    "Fox AS",
+    "Shelton SE",
+    "Christian BT",
+    "Murali D",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2009,
+   "title": "Serotonin Transporter Availability in the Amygdala and Bed Nucleus of the Stria Terminalis Predicts Anxious Temperament and Brain Glucose Metabolic Activity",
+   "pdf": "/publications/serotoninTransporterAvailabilityInTheAmygdalaAndBedNucleusOfTheStriaTerminalisPredictsAnxiousTemperamentAndBrainGlucoseMetabolism_Oler2009.pdf",
+   "legacy": [
+    "/oler-et-al-2009.html"
+   ],
+   "type": "journal",
+   "venue": "Journal of Neuroscience",
+   "volume": "29",
+   "issue": "32",
+   "pages": "9961-9966"
+  },
+  {
+   "src": "pub",
+   "idx": 99,
+   "slugs": [
+    "kalin-et-al-2008"
+   ],
+   "page_dates": [
+    "2008-01-17"
+   ],
+   "authors": [
+    "Kalin NH",
+    "Shelton SE",
+    "Fox AS",
+    "Rogers J",
+    "Oakes TR",
+    "Davidson RJ"
+   ],
+   "year": 2008,
+   "title": "The Serotonin Transporter Genotype is Associated with Intermediate Brain Phenotypes that Depend on the Context of the Eliciting Stressor",
+   "pdf": "/publications/theSerotoninTransporderGenotypeIsAssociatedWithIntermediateBrainPhenotypesThatDependOnTheContextOfElicitingStressor_2008.pdf",
+   "legacy": [
+    "/kalin-et-al-2008.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "volume": "13",
+   "pages": "1021-1027"
+  },
+  {
+   "src": "pub",
+   "idx": 100,
+   "slugs": [
+    "fox-et-al-2008"
+   ],
+   "page_dates": [
+    "2008-01-16"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2008,
+   "title": "Trait-like Brain Activity during Adolescence Predicts Anxious Temperament in Primates",
+   "pdf": "/publications/traitLikeBrainActivityDuringAdolescencePredictsAnxiousTemperamentInPrimates_FoxAS_2008.pdf",
+   "legacy": [
+    "/fox-et-al-2008.html"
+   ],
+   "type": "journal",
+   "venue": "PLoS One",
+   "volume": "3",
+   "issue": "7",
+   "pages": "e2570"
+  },
+  {
+   "src": "pub",
+   "idx": 101,
+   "slugs": [
+    "davidson-et-al-2007"
+   ],
+   "page_dates": [
+    "2007-01-20"
+   ],
+   "authors": [
+    "Davidson RJ",
+    "Fox AS",
+    "Kalin NH"
+   ],
+   "year": 2007,
+   "title": "Neural bases of emotion regulation in non-human primates and humans",
+   "pdf": "/publications/DavidsonNeuralChapter.pdf",
+   "legacy": [
+    "/davidson-et-al-2007.html",
+    "/davidson-et-al-2006.html"
+   ],
+   "type": "chapter",
+   "venue": "Handbook of Emotion Regulation",
+   "editors": "Gross and Gotlib",
+   "publisher": "Guilford Press"
+  },
+  {
+   "src": "pub",
+   "idx": 102,
+   "slugs": [
+    "oakes-et-al-2007"
+   ],
+   "page_dates": [
+    "2007-01-18"
+   ],
+   "authors": [
+    "Oakes TR",
+    "Fox AS",
+    "Johnstone T",
+    "Chung MK",
+    "Kalin NH",
+    "Davidson RJ"
+   ],
+   "year": 2007,
+   "title": "Integrating VBM into the General Linear Model with Voxelwise Anatomical Covariates",
+   "pdf": "/publications/integratingVBMIntoTheGeneralLinearModelWithVoxelwiseAnatomicalCovariates_OakesFoxJohnstoneChungKalinDavidson.pdf",
+   "legacy": [
+    "/oakes-et-al-2007.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "34",
+   "pages": "500-508"
+  },
+  {
+   "src": "pub",
+   "idx": 103,
+   "slugs": [
+    "johnstone-et-al-2006"
+   ],
+   "page_dates": [
+    "2006-01-19"
+   ],
+   "authors": [
+    "Johnstone T",
+    "Ores-Walsh KS",
+    "Greischar LL",
+    "Alexander AL",
+    "Fox AS",
+    "Davidson RJ",
+    "Oakes TR"
+   ],
+   "year": 2006,
+   "title": "Motion correction and the use of motion covariates in multiple-subject fMRI analysis",
+   "pdf": "/publications/motionCorrectionAndTheUseOfMotionCovariatesInMultipleSubjectfMRIAnalysis_JohnstoneOreswalshGreischarAlexanderFoxDavidsonOakes.pdf",
+   "legacy": [
+    "/johnstone-et-al-2006.html"
+   ],
+   "type": "journal",
+   "venue": "Human Brain Mapping",
+   "volume": "27",
+   "issue": "10",
+   "pages": "779-788"
+  },
+  {
+   "src": "pub",
+   "idx": 104,
+   "slugs": [
+    "fox-et-al-2005"
+   ],
+   "page_dates": [
+    "2005-01-23"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oakes TR",
+    "Shelton SE",
+    "Converse AK",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2005,
+   "title": "Calling for Help is Independently Modulated by Brain Systems Underlying Goal-Directed Behavior and Threat Perception",
+   "pdf": "/publications/callingForHelpIsIndependentlyModulatedByBrainSystemsUnderlyingGoalDirectedBehaviorAndThreatPerception.pdf",
+   "legacy": [
+    "/fox-et-al-2005.html"
+   ],
+   "type": "journal",
+   "venue": "Proceedings of the National Academy of Sciences",
+   "volume": "102",
+   "issue": "11",
+   "pages": "4180-4184"
+  },
+  {
+   "src": "pub",
+   "idx": 105,
+   "slugs": [
+    "oakes-et-al-2005"
+   ],
+   "page_dates": [
+    "2005-01-22"
+   ],
+   "authors": [
+    "Oakes TR",
+    "Johnstone T",
+    "Ores Walsh KS",
+    "Greischar LL",
+    "Alexander AL",
+    "Fox AS",
+    "Davidson RJ"
+   ],
+   "year": 2005,
+   "title": "Comparison of fMRI motion correction software tools",
+   "pdf": "/publications/comparisonOfFMRIMotionCorrectionSoftwareTools_OakesDavidson.pdf",
+   "legacy": [
+    "/oakes-et-al-2005.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "28",
+   "issue": "3",
+   "pages": "521-744"
+  },
+  {
+   "src": "pub",
+   "idx": 106,
+   "slugs": [
+    "kalin-et-al-2005"
+   ],
+   "page_dates": [
+    "2005-01-21"
+   ],
+   "authors": [
+    "Kalin NH",
+    "Shelton SE",
+    "Fox AS",
+    "Oakes TR",
+    "Davidson RJ"
+   ],
+   "year": 2005,
+   "title": "Brain Regions Associated with the Expression and Contextual Regulation of Anxiety in Primates",
+   "pdf": "/publications/BrainRegionsAssociatedWithTheExpressionAndContextualRegulationOfAnxietyInPrimates_2005.pdf",
+   "legacy": [
+    "/kalin-et-al-2005.html"
+   ],
+   "type": "journal",
+   "venue": "Biological Psychiatry",
+   "volume": "58",
+   "pages": "796-804"
+  },
+  {
+   "src": "pub",
+   "idx": 107,
+   "slugs": [
+    "nitschke-et-al-2004"
+   ],
+   "page_dates": [
+    "2004-01-25"
+   ],
+   "authors": [
+    "Nitschke JB",
+    "Nelson EE",
+    "Rusch BD",
+    "Fox AS",
+    "Oakes TR",
+    "Davidson RJ"
+   ],
+   "year": 2004,
+   "title": "Orbitofrontal Cortex Tracks Positive Mood in Mothers Viewing Pictures of their Newborn Infants",
+   "pdf": "/publications/OFCtracksPositiveMoodInMothersViewingPicturesOfTheirNewbornInfants.pdf",
+   "legacy": [
+    "/nitschke-et-al-2004.html"
+   ],
+   "type": "journal",
+   "venue": "NeuroImage",
+   "volume": "21",
+   "issue": "2",
+   "pages": "583-92"
+  },
+  {
+   "src": "pub",
+   "idx": 108,
+   "slugs": [
+    "pizzagalli-et-al-2004"
+   ],
+   "page_dates": [
+    "2004-01-24"
+   ],
+   "authors": [
+    "Pizzagalli DA",
+    "Oakes TR",
+    "Fox AS",
+    "Chung MK",
+    "Larson CL",
+    "Abercrombie HC",
+    "Schaefer SM",
+    "Benca RM",
+    "Davidson RJ"
+   ],
+   "year": 2004,
+   "title": "Functional but not structural subgenual prefrontal cortex abnormalities in melancholia",
+   "pdf": "/publications/FuctionalButNotStructuralSubgenualPFCAbnormalitiesInMelancholia.pdf",
+   "legacy": [
+    "/pizzagalli-et-al-2004.html"
+   ],
+   "type": "journal",
+   "venue": "Molecular Psychiatry",
+   "volume": "9",
+   "pages": "393-405"
+  }
+ ],
+ "pres": [
+  {
+   "src": "post",
+   "idx": 0,
+   "slugs": [
+    "carly-m-drzewiecki-society-for-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-11-01"
+   ],
+   "authors": [
+    "Drzewiecki CM",
+    "Oler JA",
+    "Birn RM",
+    "Shackman AJ",
+    "Alexander A",
+    "Kalin NH",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Multivariate clustering and validation for parcellating the prefrontal cortex in a large sample of rhesus macaques",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": "/publications/Drzewiecki_SfN_2024.pdf",
+   "legacy": [
+    "/carly-m-drzewiecki-society-for-neuroscience-2024.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 1,
+   "slugs": [
+    "carly-m-drzewiecki-society-of-biological-psychiatry-2024"
+   ],
+   "page_dates": [
+    "2024-11-01"
+   ],
+   "authors": [
+    "Drzewiecki CM",
+    "Oler JA",
+    "Birn RM",
+    "Shackman AJ",
+    "Alexander A",
+    "Kalin NH",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Functional Connectivity of the Prefrontal Cortex and Its Relationship to Anxious Temperament in Rhesus Macaques",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/Drzewiecki_SoBP_2024.pdf",
+   "legacy": [
+    "/carly-m-drzewiecki-society-of-biological-psychiatry-2024.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 2,
+   "slugs": [
+    "erica-varga-society-for-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-11-01"
+   ],
+   "authors": [
+    "Varga EA",
+    "Boorman ED",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Using a Novel Statistical “Hazard Rate” Approach to Model Anxiety",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": "/publications/Varga_SfN_2024.pdf",
+   "legacy": [
+    "/erica-varga-society-for-neuroscience-2024.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 3,
+   "slugs": [
+    "kari-hanson-society-of-biological-psychiatry-2024"
+   ],
+   "page_dates": [
+    "2024-11-01"
+   ],
+   "authors": [
+    "Hanson K",
+    "Carlson E",
+    "Ander BP",
+    "Kamboj S",
+    "Murray KD",
+    "Van De Waters JA",
+    "Fox AS",
+    "Bauman MD",
+    "Schumann CM"
+   ],
+   "year": 2024,
+   "title": "Maternal immune activation alters synaptic development and neuroimmune profiles in the amygdala in a nonhuman primate model",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/kari-hanson-society-of-biological-psychiatry-2024.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 4,
+   "slugs": [
+    "lillian-jcampos-society-for-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-11-01"
+   ],
+   "authors": [
+    "Campos LJ",
+    "Tromp DPM",
+    "Drzewiecki CM",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2024,
+   "title": "Infant inhibited temperament is associated with sex-specific alterations in prefrontal white-matter in adult primates",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/lillian-jcampos-society-for-neuroscience-2024.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 5,
+   "slugs": [
+    "rani-purewal-society-for-neuroscience-2024"
+   ],
+   "page_dates": [
+    "2024-11-01"
+   ],
+   "authors": [
+    "Purewal R",
+    "Harvey L",
+    "Fox AS",
+    "Trainor BC"
+   ],
+   "year": 2024,
+   "title": "Elevated Neural Activity of Prelimbic Cortex During Threat Anticipation in California Mice",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": "/publications/Purewal_SfN_2024.pdf",
+   "legacy": [
+    "/rani-purewal-society-for-neuroscience-2024.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 6,
+   "slugs": [
+    "chuapoco-campos-et-al-society-of-biological-psychiatry-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Chuapoco M",
+    "Campos LJ",
+    "Flytzanis N",
+    "Goeden N",
+    "Man KNM",
+    "Sun J",
+    "Shaya T",
+    "Vendemiatti J",
+    "Jang M",
+    "Pickel J",
+    "Tian L",
+    "Gradinaru V",
+    "Fox AS"
+   ],
+   "year": 2023,
+   "title": "A Novel AAV for Systemic Delivery of Genetic Cargo to the Non-Human Primate Brain",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/chuapoco-campos-et-al-society-of-biological-psychiatry-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 7,
+   "slugs": [
+    "didier-et-al-society-of-biological-psychiatry-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Didier P",
+    "Cornwell B",
+    "Grogans SE",
+    "Anderson AS",
+    "Islam S",
+    "Kim HC",
+    "Tillman RM",
+    "Hur J",
+    "Fox AS",
+    "DeYoung KA",
+    "Smith JF",
+    "Shackman AJ"
+   ],
+   "year": 2023,
+   "title": "Decomposing the Neural Dynamics of Threat Anticipation",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/didier-et-al-society-of-biological-psychiatry-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 8,
+   "slugs": [
+    "drzewiecki-et-al-society-of-biological-psychiatry-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Drzewiecki CM",
+    "Campos LJ",
+    "Holley D",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2023,
+   "title": "Functional Connectivity between the Prefrontal Cortex and Bed Nucleus of the Stria Terminalis and Inhibited Temperament in Rhesus Macaques",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/drzewiecki-et-al-society-of-biological-psychiatry-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 9,
+   "slugs": [
+    "grogans-et-al-2-society-of-biological-psychiatry-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Grogans SE",
+    "Hur J",
+    "Barstead M",
+    "Anderson AS",
+    "Islam S",
+    "Kim HC",
+    "Kuhn M",
+    "Tillman RM",
+    "Fox AS",
+    "Smith JF",
+    "DeYoung KA",
+    "Shackman AJ"
+   ],
+   "year": 2023,
+   "title": "Neuroticism is Associated With Increased Reactivity to Uncertain Threat—but Not ‘Threat-Related’ Emotional Faces—in the Bed Nucleus of the Stria Terminalis",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/grogans-et-al-2-society-of-biological-psychiatry-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 10,
+   "slugs": [
+    "grogans-et-al-society-of-biological-psychiatry-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Grogans SE",
+    "Hur J",
+    "Kuhn M",
+    "Anderson AS",
+    "Islam S",
+    "Kim HC",
+    "Tillman RM",
+    "Fox AS",
+    "Smith JF",
+    "DeYoung KA",
+    "Shackman AJ"
+   ],
+   "year": 2023,
+   "title": "Attenuated Safety-Related vmPFC Activation is Associated With Pervasively Elevated Real-World Distress",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/grogans-et-al-society-of-biological-psychiatry-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 11,
+   "slugs": [
+    "kamboj-et-al-society-of-biological-psychiatry-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Kamboj S",
+    "Carlson E",
+    "Ander B",
+    "Fudge J",
+    "Schumann C",
+    "Fox AS"
+   ],
+   "year": 2023,
+   "title": "Identification of Neuropsychiatric Disorder-Relevant Cell Types in Amygdala Subnuclei From Human and Non-Human Primate",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/kamboj-et-al-society-of-biological-psychiatry-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 12,
+   "slugs": [
+    "scott-et-al-aligning-science-across-parkinsons-meeting-2023"
+   ],
+   "page_dates": [
+    "2023-05-01"
+   ],
+   "authors": [
+    "Scott E",
+    "Tjahjono N",
+    "Dalagin R",
+    "Sun J",
+    "Man KNM",
+    "Campos LJ",
+    "Drzewiecki CM",
+    "Chuapoco M",
+    "Andreoni A",
+    "Pal A",
+    "Chouinard J",
+    "Gradinaru V",
+    "Fox AS",
+    "Tian L"
+   ],
+   "year": 2023,
+   "title": "Shining a Light on Parkinson's Disease: Expanding the Tool Box for Parkinson's Research",
+   "meeting": "Aligning Science Across Parkinson's",
+   "acr": "asap",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/scott-et-al-aligning-science-across-parkinsons-meeting-2023.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 13,
+   "slugs": [
+    "campos-et-al-society-of-biological-psychiatry-meeting-2022",
+    "lillian-jcampos-society-of-biological-psychiatry-2022"
+   ],
+   "page_dates": [
+    "2022-05-01",
+    "2022-04-27"
+   ],
+   "authors": [
+    "Campos LJ",
+    "Drzewiecki CM",
+    "Tromp DPM",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2022,
+   "title": "Prefrontal Connections to the Extended Amygdala and Their Role in Early-Life Inhibited Temperament in Adolescent Rhesus Monkeys",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/Campos_SoBP_2022.pdf",
+   "legacy": [
+    "/campos-et-al-society-of-biological-psychiatry-meeting-2022.html",
+    "/lillian-jcampos-society-of-biological-psychiatry-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 14,
+   "slugs": [
+    "carlson-et-al-society-for-neuroscience-conference-2022"
+   ],
+   "page_dates": [
+    "2022-05-01"
+   ],
+   "authors": [
+    "Carlson EL",
+    "Kamboj S",
+    "Ander BP",
+    "Fudge J",
+    "Fox AS",
+    "Bauman MD",
+    "Schumann CM"
+   ],
+   "year": 2022,
+   "title": "Differential Transcriptomic Profiles in Amygdala are Nuclei-specific in a Nonhuman Primate Model of Maternal Immune Activation",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/carlson-et-al-society-for-neuroscience-conference-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 15,
+   "slugs": [
+    "chen-et-al-society-for-neuroscience-conference-2022"
+   ],
+   "page_dates": [
+    "2022-05-01"
+   ],
+   "authors": [
+    "Chen X",
+    "Sivadasan Bindu D",
+    "Wolfe DA",
+    "Zhang M",
+    "Goertsen D",
+    "Miles TF",
+    "Sullivan E",
+    "Kumar KR",
+    "Huang SF",
+    "Arokiaraj CM",
+    "Plattner V",
+    "Campos LJ",
+    "Ngo V",
+    "Ding X",
+    "Levi BP",
+    "Lein ES",
+    "Akrami A",
+    "Keller A",
+    "Miller CT",
+    "Ting JT",
+    "Fox AS",
+    "Eroglu C",
+    "Gradinaru V"
+   ],
+   "year": 2022,
+   "title": "Brain endothelial-specific cell targeting in rodent and broad CNS gene delivery from rodent to primate with engineered systemic AAVs",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/chen-et-al-society-for-neuroscience-conference-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 16,
+   "slugs": [
+    "chuapoco-et-al-society-for-neuroscience-conference-2022"
+   ],
+   "page_dates": [
+    "2022-05-01"
+   ],
+   "authors": [
+    "Chuapoco ME",
+    "Flytzanis N",
+    "Goeden N",
+    "Octeau JC",
+    "Roxas KM",
+    "Chan KY",
+    "Scherrer J",
+    "Winchester J",
+    "Blackburn RJ",
+    "Campos LJ",
+    "Miles TF",
+    "Sun J",
+    "Man K-NM",
+    "Lefevre A",
+    "Arokiaraj CM",
+    "Artiukhova M",
+    "Jang MJ",
+    "Vendemiatti J",
+    "Miller CT",
+    "Deverman BE",
+    "Pickel J",
+    "Tian L",
+    "Fox AS",
+    "Gradinaru V"
+   ],
+   "year": 2022,
+   "title": "Brainwide gene transfer in infant Old World primates via intravenous AAV",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/chuapoco-et-al-society-for-neuroscience-conference-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 17,
+   "slugs": [
+    "drzewiecki-et-al-society-for-neuroscience-conference-2022"
+   ],
+   "page_dates": [
+    "2022-05-01"
+   ],
+   "authors": [
+    "Drzewiecki CM",
+    "Campos LJ",
+    "Holley D",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2022,
+   "title": "Functional connectivity between the anterior cingulate cortex and bed nucleus of the stria terminalis and inhibited temperament in rhesus macaques",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/drzewiecki-et-al-society-for-neuroscience-conference-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 18,
+   "slugs": [
+    "gorgans-et-al-society-of-biological-psychiatry-meeting-2022"
+   ],
+   "page_dates": [
+    "2022-05-01"
+   ],
+   "authors": [
+    "Grogans S",
+    "Hur J",
+    "Kuhn M",
+    "Anderson AS",
+    "Islam S",
+    "Kim HC",
+    "Tillman RM",
+    "Fox AS",
+    "Smith JF",
+    "DeYoung KA",
+    "Shackman AJ"
+   ],
+   "year": 2022,
+   "title": "Diminished vmPFC Safety Signaling is Associated With Pervasively Elevated Real-World Negative Affect",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/gorgans-et-al-society-of-biological-psychiatry-meeting-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 19,
+   "slugs": [
+    "kenwood-et-al-society-of-biological-psychiatry-meeting-2022"
+   ],
+   "page_dates": [
+    "2022-05-01"
+   ],
+   "authors": [
+    "Kenwood M",
+    "Souaiaia T",
+    "Kovner R",
+    "Fox AS",
+    "French D",
+    "Oler JA",
+    "Roseboom P",
+    "Riedel M",
+    "Kalin NH"
+   ],
+   "year": 2022,
+   "title": "Anxious Temperament is Associated With Laminar- and Cell Type-Specific Transcriptional Alterations in the Primate Orbitofrontal Cortex",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/kenwood-et-al-society-of-biological-psychiatry-meeting-2022.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 21,
+   "slugs": [
+    "dan-holley-sobp-2019-2019"
+   ],
+   "page_dates": [
+    "2019-05-18"
+   ],
+   "authors": [
+    "Holley D",
+    "Campos LJ",
+    "Zhang YZ",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2019,
+   "title": "Investigating Anxiety-Related Behavior in Young Primates: A Novel, Computer-Automated Approach",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/Holley_SoBP_2019.pdf",
+   "legacy": [
+    "/dan-holley-sobp-2019-2019.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 22,
+   "slugs": [
+    "amanda-chu-society-of-biological-psychiatry-2019-2019"
+   ],
+   "page_dates": [
+    "2019-05-16"
+   ],
+   "authors": [
+    "Chu AMF",
+    "Williams AV",
+    "Fox SE",
+    "Trainor BC",
+    "Fox AS"
+   ],
+   "year": 2019,
+   "title": "An Initial Survey of Cell Types in the Central Nucleus of the Amygdala Using Single-Cell RNA-Sequencing to Understand Anxiety",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/Chu_SoBP_2019.pdf",
+   "legacy": [
+    "/amanda-chu-society-of-biological-psychiatry-2019-2019.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 23,
+   "slugs": [
+    "dan-holley-mechanisms-of-learning-2019-2019"
+   ],
+   "page_dates": [
+    "2019-03-28"
+   ],
+   "authors": [
+    "Holley D",
+    "Campos LJ",
+    "Zhang YZ",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2019,
+   "title": "Investigating Anxiety-Related Behavior in Young Primates: A Novel, Computer-Automated Approach",
+   "meeting": "Sixth Annual Mechanisms of Learning Forum",
+   "acr": "mol",
+   "type": "poster",
+   "pdf": "/publications/Holley_MoL_2019.pdf",
+   "legacy": [
+    "/dan-holley-mechanisms-of-learning-2019-2019.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 24,
+   "slugs": [
+    "lillian-jcampos-society-of-biological-psychiatry-2019-2019"
+   ],
+   "page_dates": [
+    "2019-03-16"
+   ],
+   "authors": [
+    "Campos LJ",
+    "Holley D",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2019,
+   "title": "Freezing is Associated with Higher Amygdala Metabolism in Female Adolescent Monkeys",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/Campos_SoBP_2019.pdf",
+   "legacy": [
+    "/lillian-jcampos-society-of-biological-psychiatry-2019-2019.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 25,
+   "slugs": [
+    "campos-sobp-2018"
+   ],
+   "page_dates": [
+    "2018-04-07"
+   ],
+   "authors": [
+    "Campos LJ",
+    "Tromp DPM",
+    "Capitanio JP",
+    "Fox AS"
+   ],
+   "year": 2018,
+   "title": "Early-life Inhibited Temperament is Associated with White-Matter Integrity in Emotion-Related Pathways of the Primate Brain in Adolescent Females",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/Campos_SOBP2018_final.pdf",
+   "legacy": [
+    "/campos-sobp-2018.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 26,
+   "slugs": [
+    "fox-cns-2018"
+   ],
+   "page_dates": [
+    "2014-04-07"
+   ],
+   "authors": [
+    "Fox AS",
+    "Vack NJ",
+    "Freeman AA",
+    "Davidson RJ"
+   ],
+   "year": 2018,
+   "title": "Neural correlates of individual differences in generous preferences",
+   "meeting": "Cognitive Neuroscience Society",
+   "acr": "cns",
+   "type": "poster",
+   "pdf": "/publications/cns_2014_poster_neuralCorrelatesOfIndividualDifferencesInGenerousPreferences.pdf",
+   "legacy": [
+    "/fox-cns-2018.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 27,
+   "slugs": [
+    "heller-sfn-2012"
+   ],
+   "page_dates": [
+    "2012-11-08"
+   ],
+   "authors": [
+    "Heller AS",
+    "Wing E",
+    "Mayer K",
+    "Fox AS",
+    "Vack NJ",
+    "Davidson RJ"
+   ],
+   "year": 2012,
+   "title": "Temporal dynamics of emotion and fMRI",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/heller-sfn-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 28,
+   "slugs": [
+    "rogers-ips-2012"
+   ],
+   "page_dates": [
+    "2012-01-08"
+   ],
+   "authors": [
+    "Rogers J",
+    "Fawcett GL",
+    "Raveendran M",
+    "Fox AS",
+    "Oler JA",
+    "Shelton SE",
+    "Cheverud J",
+    "Muzny DM",
+    "Gibbs RA",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "Behavior and brain metabolic activity in juvenile rhesus macaques associated with DNA sequence variation in receptors for corticotropin releasing hormone",
+   "meeting": "International Primatological Society",
+   "acr": "ips",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/rogers-ips-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 29,
+   "slugs": [
+    "fawcett-ips-2012"
+   ],
+   "page_dates": [
+    "2012-01-07"
+   ],
+   "authors": [
+    "Fawcett GL",
+    "Raveendran M",
+    "Oler JA",
+    "Fox AS",
+    "Shelton SE",
+    "Cheverud J",
+    "Muzny DM",
+    "Gibbs RA",
+    "Kalin NH",
+    "Rogers J"
+   ],
+   "year": 2012,
+   "title": "Discovery of putative functional SNPs via resequencing in CRHR2 provides a macaque model of genetic effects on anxious temperament and hippocampal metabolism",
+   "meeting": "International Primatological Society",
+   "acr": "ips",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/fawcett-ips-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 30,
+   "slugs": [
+    "fox-ispne-2012"
+   ],
+   "page_dates": [
+    "2012-01-06"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Tromp DPM",
+    "Shackman AJ",
+    "Alexander AL",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "Cortisol predicts decreased cerebral cortical volume in 592 young non-human primates",
+   "meeting": "International Society of Psychoneuroendocrinology",
+   "acr": "ispne",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/fox-ispne-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 31,
+   "slugs": [
+    "tromp-ispne-2012"
+   ],
+   "page_dates": [
+    "2012-01-05"
+   ],
+   "authors": [
+    "Tromp DPM",
+    "Fox AS",
+    "Oler JA",
+    "Adluru N",
+    "Davidson RJ",
+    "Alexander AL",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "Cortisol Predicts Increased Internal Capsule Integrity in a Large Sample of Non-Human Primates",
+   "meeting": "International Society of Psychoneuroendocrinology",
+   "acr": "ispne",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/tromp-ispne-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 32,
+   "slugs": [
+    "fox-neuroecon-2012"
+   ],
+   "page_dates": [
+    "2012-01-04"
+   ],
+   "authors": [
+    "Fox AS",
+    "Vack NJ",
+    "Freeman AA",
+    "Davidson RJ"
+   ],
+   "year": 2012,
+   "title": "The Neural Correlates of Individual Differences in Prosocial Valuation",
+   "meeting": "Society for Neuroeconomics",
+   "acr": "sne",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/fox-neuroecon-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 33,
+   "slugs": [
+    "tromp-sfn-2012"
+   ],
+   "page_dates": [
+    "2012-01-03"
+   ],
+   "authors": [
+    "Tromp DPM",
+    "Oler JA",
+    "Fox AS",
+    "Shackman AJ",
+    "Davidson RJ",
+    "Birn R",
+    "Alexander AL",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "Structural and Functional Connectivity of the Extended Amygdala in Newborn Monkeys",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/tromp-sfn-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 34,
+   "slugs": [
+    "shackman-sfn-2012"
+   ],
+   "page_dates": [
+    "2012-01-02"
+   ],
+   "authors": [
+    "Shackman AJ",
+    "Fox AS",
+    "Oler JA",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "A core neural phenotype underlies diversity in the expression of anxiety",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shackman-sfn-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 35,
+   "slugs": [
+    "fox-sfn-2012"
+   ],
+   "page_dates": [
+    "2012-01-01"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Shackman AJ",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2012,
+   "title": "The neural substrates of anxious temperament in 592 young rhesus monkeys",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/fox-sfn-2012.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 36,
+   "slugs": [
+    "fox-cns-2011"
+   ],
+   "page_dates": [
+    "2011-01-12"
+   ],
+   "authors": [
+    "Fox AS",
+    "Vack N",
+    "Vanderwerff L",
+    "Davidson RJ"
+   ],
+   "year": 2011,
+   "title": "Reliably quantifying the value an individual assigns to giving a stranger money",
+   "meeting": "Cognitive Neuroscience Society",
+   "acr": "cns",
+   "type": "poster",
+   "pdf": "/publications/foxAS_CNS_2011_reprint.pdf",
+   "legacy": [
+    "/fox-cns-2011.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 37,
+   "slugs": [
+    "fox-sobp-2011"
+   ],
+   "page_dates": [
+    "2011-01-11"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oler JA",
+    "Nanda SA",
+    "Roseboom PH",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2011,
+   "title": "RNA expression in the primate amygdala predicts anxious temperament and its intermediate neural phenotype",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/biologicalPsychiatry_2011_fox_copy.pdf",
+   "legacy": [
+    "/fox-sobp-2011.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 38,
+   "slugs": [
+    "oler-sfn-2011"
+   ],
+   "page_dates": [
+    "2011-01-10"
+   ],
+   "authors": [
+    "Oler JA",
+    "Fox AS",
+    "Shelton SE",
+    "Raveendran M",
+    "Fawcett GL",
+    "Dyer TD",
+    "Blangero J",
+    "Davidson RJ",
+    "Rogers J",
+    "Kalin NH"
+   ],
+   "year": 2011,
+   "title": "Variation in a primate-specific CRHR1 exon influences anxious temperament and its underlying neural circuit",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/oler-sfn-2011.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 39,
+   "slugs": [
+    "fox-sfn-2011"
+   ],
+   "page_dates": [
+    "2011-01-09"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Shelton SE",
+    "Nanda SA",
+    "Davidson RJ",
+    "Roseboom PH",
+    "Kalin NH"
+   ],
+   "year": 2011,
+   "title": "Gene expression patterns in the primate amygdala linked to anxious temperament and its neural substrate",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/fox-sfn-2011.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 40,
+   "slugs": [
+    "shelton-sobp-2010"
+   ],
+   "page_dates": [
+    "2010-01-18"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Oler JA",
+    "Fox AS",
+    "Oakes TR",
+    "Davidson RJ",
+    "Shelledy W",
+    "Dyer T",
+    "Blangero J",
+    "Rogers J",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Heritability of glucose metabolism in the rhesus monkey brain during exposure to potential threat",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sobp-2010.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 41,
+   "slugs": [
+    "oler-cns-2010"
+   ],
+   "page_dates": [
+    "2010-01-17"
+   ],
+   "authors": [
+    "Oler JA",
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TE",
+    "Shelledy W",
+    "Dyer TD",
+    "Blangero J",
+    "Rogers J",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Heritable and non-heritable brain metabolism during exposure to potential threat",
+   "meeting": "Cognitive Neuroscience Society",
+   "acr": "cns",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/oler-cns-2010.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 42,
+   "slugs": [
+    "fox-cns-2010"
+   ],
+   "page_dates": [
+    "2010-01-16"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oler JA",
+    "Shelton SE",
+    "Oakes TE",
+    "Shelledy W",
+    "Dyer TD",
+    "Blangero J",
+    "Rogers J",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Gray-matter probability in the amygdala predicts anxious temperament and is heritable",
+   "meeting": "Cognitive Neuroscience Society",
+   "acr": "cns",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/fox-cns-2010.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 43,
+   "slugs": [
+    "shelton-sfn-2010"
+   ],
+   "page_dates": [
+    "2010-01-15"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Oler JA",
+    "Fox AS",
+    "Shelledy W",
+    "Garcia R",
+    "Dyer TD",
+    "Blangero J",
+    "Christian BT",
+    "Davidson RJ",
+    "Rogers J",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "The serotonin transporter polymorphism, amygdala activity and anxious temperament",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sfn-2010.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 44,
+   "slugs": [
+    "birn-sfn-2010"
+   ],
+   "page_dates": [
+    "2010-01-14"
+   ],
+   "authors": [
+    "Birn RM",
+    "Shelton SE",
+    "Oler JA",
+    "Fox AS",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Resting functional connectivity between the amygdala and dlpfc predicts anxious temperament in the rhesus monkey",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/birn-sfn-2010.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 45,
+   "slugs": [
+    "fox-nyas-2010"
+   ],
+   "page_dates": [
+    "2010-01-13"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oler JA",
+    "Roseboom PH",
+    "Nanda SA",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2010,
+   "title": "Anxious Temperament Related Gene Expression in the Primate Amygdala",
+   "meeting": "New York Academy of Sciences meeting on Behavioral Epigenetics",
+   "acr": "nyas",
+   "type": "poster",
+   "pdf": "/publications/nyas_2010_fox_final.pdf",
+   "legacy": [
+    "/fox-nyas-2010.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 46,
+   "slugs": [
+    "shelton-sobp-2009"
+   ],
+   "page_dates": [
+    "2009-01-21"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Oler JA",
+    "Fox AS",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2009,
+   "title": "Activity of the primate amygdala central nucleus predicts anxious temperament",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sobp-2009.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 47,
+   "slugs": [
+    "fox-cns-2009"
+   ],
+   "page_dates": [
+    "2009-01-20"
+   ],
+   "authors": [
+    "Fox AS",
+    "Snozzi R",
+    "Schneider F",
+    "Davidson RJ",
+    "Singer T",
+    "Fehr E"
+   ],
+   "year": 2009,
+   "title": "Temporal Unpredictability Increases Amygdala Activation and Decreases Trust",
+   "meeting": "Cognitive Neuroscience Society",
+   "acr": "cns",
+   "type": "poster",
+   "pdf": "/publications/foxAS_CNS_2009_reprint.pdf",
+   "legacy": [
+    "/fox-cns-2009.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 48,
+   "slugs": [
+    "fox-hbm-2009"
+   ],
+   "page_dates": [
+    "2009-01-19"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Alexander AL",
+    "Oakes TR",
+    "Shackman AJ",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2009,
+   "title": "Diffusion Tensor Imaging",
+   "meeting": "Organization for Human Brain Mapping",
+   "acr": "hbm",
+   "type": "poster",
+   "pdf": "/publications/ASFox_dti_hbm_2009.pdf",
+   "legacy": [
+    "/fox-hbm-2009.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 49,
+   "slugs": [
+    "christian-snm-2008"
+   ],
+   "page_dates": [
+    "2008-01-25"
+   ],
+   "authors": [
+    "Christian BT",
+    "Murali D",
+    "Vandehey NT",
+    "Fox AS",
+    "Oakes TR",
+    "Nickles RJ",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2008,
+   "title": "Database of D2/D3 receptor binding in the adolescent rhesus monkey",
+   "meeting": "Society for Nuclear Medicine",
+   "acr": "snm",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/christian-snm-2008.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 50,
+   "slugs": [
+    "christian-sfn-2008"
+   ],
+   "page_dates": [
+    "2008-01-24"
+   ],
+   "authors": [
+    "Christian BT",
+    "Vandehey NT",
+    "Oler JA",
+    "Fox AS",
+    "Murali D",
+    "Rogers J",
+    "Oakes TR",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2008,
+   "title": "A PET investigation of 5-HTTLPR gene polymorphisms on serotonin transporter binding in the rhesus monkey",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/christian-sfn-2008.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 51,
+   "slugs": [
+    "shelton-sobp-2008"
+   ],
+   "page_dates": [
+    "2008-01-23"
+   ],
+   "authors": [
+    "Shelton S",
+    "Fox AS",
+    "Davidson R",
+    "Oakes T",
+    "Kalin N"
+   ],
+   "year": 2008,
+   "title": "Increased amygdala activity predicts anxious temperament in adolescent primates",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sobp-2008.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 52,
+   "slugs": [
+    "shelton-ispne-2008"
+   ],
+   "page_dates": [
+    "2008-01-22"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Fox AS",
+    "Oler JA",
+    "Oakes TR",
+    "Christian BT",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2008,
+   "title": "5-HTT Binding in the Bed Nucleus of the Stria Terminalis Predicts Individual Differences in Anxious Temperament",
+   "meeting": "International Society of Psychoneuroendocrinology",
+   "acr": "ispne",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-ispne-2008.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 53,
+   "slugs": [
+    "shelton-sobp-2007"
+   ],
+   "page_dates": [
+    "2007-01-28"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Fox AS",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2007,
+   "title": "Individual Differences in Subgenual Prefrontal Cortical Activity are Linked to Stress-Induced Cortisol",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sobp-2007.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 54,
+   "slugs": [
+    "fox-cns-2007"
+   ],
+   "page_dates": [
+    "2007-01-27"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TR",
+    "Converse AK",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2007,
+   "title": "Exploring the neural substrates for emotion regulation and psychopathology in non-human primates",
+   "meeting": "Cognitive Neuroscience Society",
+   "acr": "cns",
+   "type": "poster",
+   "pdf": "/publications/exploringTheNuralSubstratesForEmotionRegulationAndPsychopathologyInNonHumanPrimates_FoxAS_CNS2007.pdf",
+   "legacy": [
+    "/fox-cns-2007.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 55,
+   "slugs": [
+    "shelton-sfn-2007"
+   ],
+   "page_dates": [
+    "2007-01-26"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Fox AS",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2007,
+   "title": "Dysregulation of anxiety-related circuitry is associated with extreme behavioral inhibition",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sfn-2007.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 56,
+   "slugs": [
+    "fox-nyas-2007"
+   ],
+   "page_dates": [
+    "2007-01-02"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TR",
+    "Converse AK",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2007,
+   "title": "OFC LESIONS AFFECT MONKEYS NEURAL RESPONSES TO A HUMAN INTRUDER",
+   "meeting": "New York Academy of Sciences meeting: Linking Affect to Action: Critical Contributions of the Orbitofrontal Cortex",
+   "acr": "nyas",
+   "type": "poster",
+   "pdf": "/publications/ofcLesionsAffectMonkeysNeuralResponsesToAHumanIntruder_FoxAS_nycas2007.pdf",
+   "legacy": [
+    "/fox-nyas-2007.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 57,
+   "slugs": [
+    "fox-sobp-2007"
+   ],
+   "page_dates": [
+    "2007-01-01"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TR",
+    "Converse AK",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2007,
+   "title": "Studies in Rhesus Monkeys Reveal that 5-HTTP S-Carriers have Multiple Stress Associated Neural Vulnerabilities",
+   "meeting": "Society of Biological Psychiatry",
+   "acr": "sobp",
+   "type": "poster",
+   "pdf": "/publications/studiesInRhesusMonkeysRevealThat5httpSCarriersHaveMultipleStressAssociatedNeuralVulnerabilities_FoxAS_sobp2007.pdf",
+   "legacy": [
+    "/fox-sobp-2007.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 58,
+   "slugs": [
+    "oakes-hbm-a-2006"
+   ],
+   "page_dates": [
+    "2006-01-06"
+   ],
+   "authors": [
+    "Oakes TR",
+    "Kuo Y-F",
+    "Johnstone T",
+    "Alexander AL",
+    "Fox AS",
+    "Davidson RJ"
+   ],
+   "year": 2006,
+   "title": "Optimizing BET and FAST for suboptimal MRI data",
+   "meeting": "Organization for Human Brain Mapping",
+   "acr": "hbm",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/oakes-hbm-a-2006.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 59,
+   "slugs": [
+    "oakes-hbm-b-2006"
+   ],
+   "page_dates": [
+    "2006-01-05"
+   ],
+   "authors": [
+    "Oakes TR",
+    "Christian BT",
+    "Alexander AL",
+    "Fox AS",
+    "Stone CK",
+    "Davidson RJ"
+   ],
+   "year": 2006,
+   "title": "RGB Color Maps: Why should those DTI folks have all the fun?",
+   "meeting": "Organization for Human Brain Mapping",
+   "acr": "hbm",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/oakes-hbm-b-2006.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 60,
+   "slugs": [
+    "shelton-sfn-2006"
+   ],
+   "page_dates": [
+    "2006-01-04"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Fox AS",
+    "Oakes TR",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2006,
+   "title": "Patterns of brain activity in monkeys that display high and stable levels of behavioral inhibition",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-sfn-2006.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 61,
+   "slugs": [
+    "fox-sfn-2006"
+   ],
+   "page_dates": [
+    "2006-01-03"
+   ],
+   "authors": [
+    "Fox AS",
+    "Shelton SE",
+    "Oakes TR",
+    "Converse AK",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2006,
+   "title": "Behaviorally inhibited monkeys demonstrate less coo calls and more amygdala activation during separation",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": "/publications/asfox_sfn06_poster.pdf",
+   "legacy": [
+    "/fox-sfn-2006.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 62,
+   "slugs": [
+    "fox-hbm-2005"
+   ],
+   "page_dates": [
+    "2005-01-08"
+   ],
+   "authors": [
+    "Fox AS",
+    "Farrellee M",
+    "Roy A",
+    "Davidson RJ",
+    "Oakes TR"
+   ],
+   "year": 2005,
+   "title": "Condor: Managing Computationally Intensive Jobs from a Computer Science Perspective",
+   "meeting": "Organization for Human Brain Mapping",
+   "acr": "hbm",
+   "type": "poster",
+   "pdf": "/publications/HBM_2005_Condor_poster.pdf",
+   "legacy": [
+    "/fox-hbm-2005.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 63,
+   "slugs": [
+    "fox-sfn-2005"
+   ],
+   "page_dates": [
+    "2005-01-07"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oakes TR",
+    "Shelton SE",
+    "Converse AK",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2005,
+   "title": "Threat-Related Modulation of Functional Relations Between Limbic and Prefrontal Regions",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": "/publications/SFN_2005_poster_final.pdf",
+   "legacy": [
+    "/fox-sfn-2005.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 64,
+   "slugs": [
+    "ores-hbm-2004"
+   ],
+   "page_dates": [
+    "2004-01-12"
+   ],
+   "authors": [
+    "Ores KS",
+    "Oakes TR",
+    "Johnstone T",
+    "Alexander AL",
+    "Fox AS",
+    "Davidson RJ"
+   ],
+   "year": 2004,
+   "title": "Comparison of Motion Correction Tools for fMRI ER Data",
+   "meeting": "Organization for Human Brain Mapping",
+   "acr": "hbm",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/ores-hbm-2004.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 65,
+   "slugs": [
+    "shelton-ispne-2004"
+   ],
+   "page_dates": [
+    "2004-01-11"
+   ],
+   "authors": [
+    "Shelton SE",
+    "Fox AS",
+    "Oakes TR",
+    "Kalin NH"
+   ],
+   "year": 2004,
+   "title": "Neural Correlates of the Anxious Endophenotype: F18-FDG microPET Imaging in Monkeys",
+   "meeting": "International Society of Psychoneuroendocrinology",
+   "acr": "ispne",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/shelton-ispne-2004.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 66,
+   "slugs": [
+    "oakes-mic-2004"
+   ],
+   "page_dates": [
+    "2004-01-10"
+   ],
+   "authors": [
+    "Oakes TR",
+    "Fox AS",
+    "Converse AK",
+    "Barnhart TE",
+    "Vandehey NT",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2004,
+   "title": "Considerations in the Analysis of microPET FDG Data in Awake Rhesus",
+   "meeting": "Medical Imaging Conference",
+   "acr": "mic",
+   "type": "poster",
+   "pdf": null,
+   "legacy": [
+    "/oakes-mic-2004.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 67,
+   "slugs": [
+    "fox-sfn-2004"
+   ],
+   "page_dates": [
+    "2004-01-09"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oakes TR",
+    "Shelton SE",
+    "Davidson RJ",
+    "Kalin NH"
+   ],
+   "year": 2004,
+   "title": "Patterns of Brain Activation Associated with Attachment Bond Disruption and Affiliative Vocalizations in Rhesus Monkeys: A FDG MicroPET Study",
+   "meeting": "Society for Neuroscience",
+   "acr": "sfn",
+   "type": "poster",
+   "pdf": "/publications/Coo_SFN_poster.pdf",
+   "legacy": [
+    "/fox-sfn-2004.html"
+   ]
+  },
+  {
+   "src": "post",
+   "idx": 68,
+   "slugs": [
+    "fox-hbm-2003"
+   ],
+   "page_dates": [
+    "2003-01-13"
+   ],
+   "authors": [
+    "Fox AS",
+    "Oakes TR",
+    "Dalton K",
+    "Nacewicz B",
+    "Chung MK",
+    "Alexander AL",
+    "Davidson RJ"
+   ],
+   "year": 2003,
+   "title": "Preserving Individual Differences for Voxel-Based Morphometry",
+   "meeting": "Organization for Human Brain Mapping",
+   "acr": "hbm",
+   "type": "poster",
+   "pdf": "/publications/BRAIN-MASK_poster.pdf",
+   "legacy": [
+    "/fox-hbm-2003.html"
+   ]
+  }
+ ],
+ "log": [
+  [
+   "REVIEW",
+   "ding-chen-boehm-carretero-cerdan-et-al-nature-chemical-biology-2026",
+   "old citation gives only \"26 August\" (looks like an online-publication date); no volume/issue/pages recorded"
+  ],
+  [
+   "info",
+   "campos-drzewiecki-fox-springer-series-in-behavioral-neuroscience-new-discoveries-in-the-brain-sciences-of-fear-and-anxiety-from-basic-to-clinical-neuroscience-2025",
+   "chapter: publisher \"Springer\" taken from the series name \"Springer Series in Behavioral Neuroscience\"; no pages printed"
+  ],
+  [
+   "info",
+   "fox-shackman-ajp-2024",
+   "\"181:12\": single number after volume is ambiguous (issue or article number); recorded as pages, may be re-labelled from Crossref"
+  ],
+  [
+   "author",
+   "kamboj-et-al-american-journal-of-psychiatry-2024",
+   "\"Calrson EL\" -> \"Carlson EL\" (typo; \"Carlson EL\" in the same research group papers)"
+  ],
+  [
+   "info",
+   "kamboj-et-al-american-journal-of-psychiatry-2024",
+   "\"181:12\": single number after volume is ambiguous (issue or article number); recorded as pages, may be re-labelled from Crossref"
+  ],
+  [
+   "info",
+   "grogans-et-al-nature-reviews-neuroscience-2024",
+   "DOI printed in the old citation: 10.1038/s41583-024-00832-y"
+  ],
+  [
+   "info",
+   "holley-campos-et-al-translational-psychiatry-2024",
+   "\"14:148\": single number after volume is ambiguous (issue or article number); recorded as pages, may be re-labelled from Crossref"
+  ],
+  [
+   "author",
+   "chen-et-al-nature-communications-2023",
+   "\"Dhanesh Sivadasan Bindu DS\" -> \"Sivadasan Bindu DS\" (first name printed in front of surname+initials)"
+  ],
+  [
+   "author",
+   "chen-et-al-nature-communications-2023",
+   "\"Naz Taskin N\" -> \"Taskin N\" (first name printed in front of surname+initials)"
+  ],
+  [
+   "author",
+   "chen-et-al-nature-communications-2023",
+   "\"David Goertsen D\" -> \"Goertsen D\" (first name printed in front of surname+initials)"
+  ],
+  [
+   "author",
+   "chen-et-al-nature-communications-2023",
+   "\"Viktor M. Plattner VM\" -> \"Plattner VM\" (first name printed in front of surname+initials)"
+  ],
+  [
+   "author",
+   "chen-et-al-nature-communications-2023",
+   "\"Lillian J. Campos LJ\" -> \"Campos LJ\" (first name printed in front of surname+initials)"
+  ],
+  [
+   "typo",
+   "chen-et-al-nature-communications-2023",
+   "title: \"to adn across\" -> \"to and across\" (in: \"Functional gene delivery to adn across brain vasculature of systemic A...\")"
+  ],
+  [
+   "typo",
+   "chen-et-al-nature-communications-2023",
+   "venue: \"Nature Communicatoins\" -> \"Nature Communications\""
+  ],
+  [
+   "typo",
+   "wang-et-al-neuroimage-2021",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "typo",
+   "klink-et-al-neuroimage-2021",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "typo",
+   "poirier-et-al-neuroimage-2021",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "typo",
+   "fox-et-al-neuroimage-2021",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "info",
+   "hur-et-al-scientific-reports-2018-2018",
+   "dropped leading \"12;\" (a day-of-month) from \"12;8(1):16702\""
+  ],
+  [
+   "info",
+   "fox-oler-et-al-2018",
+   "dropped leading \"29;\" (a day-of-month) from \"29;38(35):7611-7621\""
+  ],
+  [
+   "info",
+   "oler-tromp-et-al-bsf-2017-2017",
+   "old page has title and venue swapped (title printed as \"Brain Structure and Function\", no venue); merged with its twin"
+  ],
+  [
+   "typo",
+   "heller-as-et-al-2015",
+   "venue: \"The Journal of Neuroscience\" -> \"Journal of Neuroscience\""
+  ],
+  [
+   "typo",
+   "shackman-aj-et-al-2015",
+   "title: \"Opportunitvnies\" -> \"Opportunities\" (in: \"The cognitive-emotional brain: Opportunitvnies and challenges for unde...\")"
+  ],
+  [
+   "info",
+   "shackman-aj-et-al-2015",
+   "trailing text \"2015\" is only a year; no volume/pages recorded"
+  ],
+  [
+   "REVIEW",
+   "birn-shackman-et-al-2014",
+   "old citation \"1-8\": no volume given (advance online / ahead of print); pages recorded as \"1-8\""
+  ],
+  [
+   "typo",
+   "oler-et-al-2012",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "author",
+   "slagter-et-al-2012",
+   "\"Fox AS Colzato LS\" -> \"Fox AS, Colzato LS\" (missing comma between two authors)"
+  ],
+  [
+   "REVIEW",
+   "rogers-et-al-2012",
+   "old citation \"Advance Online Publication: 1–8\": no volume given (advance online / ahead of print); pages recorded as \"1–8\""
+  ],
+  [
+   "typo",
+   "adluru-et-al-2011",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "typo",
+   "adluru-et-al-2011",
+   "pages \"306:318\" -> \"306-318\" (colon typed instead of hyphen)"
+  ],
+  [
+   "typo",
+   "christian-et-al-fallypride-2009",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "typo",
+   "christian-et-al-dasb-2009",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "info",
+   "davidson-et-al-2007",
+   "chapter: editors kept as printed (\"Gross and Gotlib\"); the printed publisher \"Guildford Press\" corrected to Guilford"
+  ],
+  [
+   "typo",
+   "davidson-et-al-2007",
+   "publisher: \"Guildford Press\" -> \"Guilford Press\""
+  ],
+  [
+   "typo",
+   "oakes-et-al-2005",
+   "venue: \"Neuroimage\" -> \"NeuroImage\""
+  ],
+  [
+   "merge",
+   "oler-tromp",
+   "oler-tromp-et-al-2016 (year printed 2016, full title) + oler-tromp-et-al-bsf-2017-2017 (year printed 2017, title field holds only the journal name, no venue): same authors, same PDF, 222(1):21-39. Merged into one entry with the full title; both legacy paths kept. Year set to 2017 because the volume/issue (222(1), January 2017) is the print year; the two pages disagree (2016 vs 2017) and Crossref is checked as well (see DOI section)."
+  ],
+  [
+   "legacy",
+   "ander-et-al-molecular-psychiatry-2026",
+   "added /ander-et-al-molecular-psychiatry-2025.html (stale twin; same title/PDF, printed year 2025 vs live 2026)"
+  ],
+  [
+   "legacy",
+   "campos-drzewiecki-fox-springer-series-in-behavioral-neuroscience-new-discoveries-in-the-brain-sciences-of-fear-and-anxiety-from-basic-to-clinical-neuroscience-2025",
+   "added /campos-drzewiecki-fox-springer-series-in-behavioral-neuroscience-new-discoveries-in-the-brain-sciences-of-fear-and-anxiety-from-basic-to-clinical-neuroscience-2024.html (stale twin; printed year 2024 vs live 2025)"
+  ],
+  [
+   "legacy",
+   "holley-fox-neurobehavioral-individual-differences-2025",
+   "added /holley-fox-neurobehavioral-individual-differences-2022.html (stale twin; \"In Press\" 2022 vs live 2025)"
+  ],
+  [
+   "legacy",
+   "davidson-et-al-2007",
+   "added /davidson-et-al-2006.html (stale twin; printed year 2006 vs live 2007)"
+  ],
+  [
+   "legacy",
+   "shackman-et-al-molecular-psychiatry-2017-2017",
+   "added /shackman-et-al-2016.html (stale twin; same title/PDF, printed year 2016 vs live 2017)"
+  ],
+  [
+   "meeting",
+   "carly-m-drzewiecki-society-for-neuroscience-2024",
+   "\"Meeting of the Society for Neuroscience\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "carly-m-drzewiecki-society-of-biological-psychiatry-2024",
+   "\"Meeting of the Society of Biological Psychiatry Annual Meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "erica-varga-society-for-neuroscience-2024",
+   "\"Meeting for the Society for Neuroscience\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "kari-hanson-society-of-biological-psychiatry-2024",
+   "\"Meeting of the Society for Neuroscience\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "lillian-jcampos-society-for-neuroscience-2024",
+   "\"Meeting of the Society for Neuroscience\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "rani-purewal-society-for-neuroscience-2024",
+   "\"Meeting for the Society for Neuroscience\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "author",
+   "chuapoco-campos-et-al-society-of-biological-psychiatry-meeting-2023",
+   "\"Goede N\" -> \"Goeden N\" (typo; \"Goeden N\" in the preprint and other posters)"
+  ],
+  [
+   "meeting",
+   "chuapoco-campos-et-al-society-of-biological-psychiatry-meeting-2023",
+   "\"Presented at the Society of Biological Psychiatry Annual Meeting 2023.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "didier-et-al-society-of-biological-psychiatry-meeting-2023",
+   "\"Presented at the Society of Biological Psychiatry Annual Meeting 2023.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "drzewiecki-et-al-society-of-biological-psychiatry-meeting-2023",
+   "\"Presented at the Society of Biological Psychiatry Annual Meeting 2023.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "grogans-et-al-2-society-of-biological-psychiatry-meeting-2023",
+   "\"Presented at the Society of Biological Psychiatry Annual Meeting 2023.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "grogans-et-al-society-of-biological-psychiatry-meeting-2023",
+   "\"Presented at the Society of Biological Psychiatry Annual Meeting 2023.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "kamboj-et-al-society-of-biological-psychiatry-meeting-2023",
+   "\"Presented at the Society of Biological Psychiatry Annual Meeting 2023.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "scott-et-al-aligning-science-across-parkinsons-meeting-2023",
+   "\"Presented at the Aligning Science Across Parkinson's Meeting 2023.\" -> \"Aligning Science Across Parkinson's\""
+  ],
+  [
+   "meeting",
+   "campos-et-al-society-of-biological-psychiatry-meeting-2022",
+   "\"Presented at the Society of Biological Psychiatry meeting in 2022.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "carlson-et-al-society-for-neuroscience-conference-2022",
+   "\"Presented at the Society for Neuroscience Conference in 2022.\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "author",
+   "chen-et-al-society-for-neuroscience-conference-2022",
+   "\"Goersten D\" -> \"Goertsen D\" (typo; \"Goertsen D\" in Nature Communications 2023 author list)"
+  ],
+  [
+   "meeting",
+   "chen-et-al-society-for-neuroscience-conference-2022",
+   "\"Presented at the Society for Neuroscience Conference in 2022.\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "author",
+   "chuapoco-et-al-society-for-neuroscience-conference-2022",
+   "\"Roxa KM\" -> \"Roxas KM\" (typo; \"Roxas KM\" in the bioRxiv preprint)"
+  ],
+  [
+   "meeting",
+   "chuapoco-et-al-society-for-neuroscience-conference-2022",
+   "\"Presented at the Society for Neuroscience Conference in 2022.\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "drzewiecki-et-al-society-for-neuroscience-conference-2022",
+   "\"Presented at the Society for Neuroscience Conference in 2022.\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "author",
+   "gorgans-et-al-society-of-biological-psychiatry-meeting-2022",
+   "\"Gorgans S\" -> \"Grogans S\" (known typo (audit 3.2))"
+  ],
+  [
+   "author",
+   "gorgans-et-al-society-of-biological-psychiatry-meeting-2022",
+   "\"DeYong KA\" -> \"DeYoung KA\" (typo; \"DeYoung KA\" in the other papers)"
+  ],
+  [
+   "author",
+   "gorgans-et-al-society-of-biological-psychiatry-meeting-2022",
+   "\"Shackman AS\" -> \"Shackman AJ\" (wrong initials; \"Shackman AJ\" everywhere else)"
+  ],
+  [
+   "meeting",
+   "gorgans-et-al-society-of-biological-psychiatry-meeting-2022",
+   "\"Presented at the Society of Biological Psychiatry meeting in 2022.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "kenwood-et-al-society-of-biological-psychiatry-meeting-2022",
+   "\"Presented at the Society of Biological Psychiatry meeting in 2022.\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "lillian-jcampos-society-of-biological-psychiatry-2022",
+   "\"Meeting for the Society of Biological Psychiatry\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "dan-holley-sobp-2019-2019",
+   "\"Meeting for the Society of Biological Psychiatry\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "amanda-chu-society-of-biological-psychiatry-2019-2019",
+   "\"Meeting for the Society of Biological Psychiatry\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "author",
+   "dan-holley-mechanisms-of-learning-2019-2019",
+   "\"Holley, D., Campos, L. J., Zhang, Y. Z., Capitanio, J. P., & Fox, A. S\" -> \"Holley D, Campos LJ, Zhang YZ, Capitanio JP, Fox AS\" (full-stop style reformatted to \"Surname INITIALS\")"
+  ],
+  [
+   "meeting",
+   "lillian-jcampos-society-of-biological-psychiatry-2019-2019",
+   "\"Meeting for the Society of Biological Psychiatry\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "author",
+   "campos-sobp-2018",
+   "\"LJ Campos, DPM Tromp, JP Capitanio\" -> \"Campos LJ, Tromp DPM, Capitanio JP\" (initials printed before surname)"
+  ],
+  [
+   "meeting",
+   "campos-sobp-2018",
+   "\"Meeting for the Society of Biological Psychiatry\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "fox-cns-2018",
+   "\"Meeting for the Cognitive Neuroscience Society\" -> \"Cognitive Neuroscience Society\""
+  ],
+  [
+   "meeting",
+   "heller-sfn-2012",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "rogers-ips-2012",
+   "\"International Primatological Society meeting\" -> \"International Primatological Society\""
+  ],
+  [
+   "meeting",
+   "fawcett-ips-2012",
+   "\"International Primatological Society meeting\" -> \"International Primatological Society\""
+  ],
+  [
+   "meeting",
+   "fox-ispne-2012",
+   "\"International Society of Psychoneuroendocrinology meeting\" -> \"International Society of Psychoneuroendocrinology\""
+  ],
+  [
+   "meeting",
+   "tromp-ispne-2012",
+   "\"International Society of Psychoneuroendocrinology meeting\" -> \"International Society of Psychoneuroendocrinology\""
+  ],
+  [
+   "meeting",
+   "fox-neuroecon-2012",
+   "\"Society for Neuroeconomics meeting\" -> \"Society for Neuroeconomics\""
+  ],
+  [
+   "meeting",
+   "tromp-sfn-2012",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "shackman-sfn-2012",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-sfn-2012",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-cns-2011",
+   "\"Cognitive Neuroscience Meeting\" -> \"Cognitive Neuroscience Society\""
+  ],
+  [
+   "meeting",
+   "fox-sobp-2011",
+   "\"Society for Biological Psychiatry Meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "oler-sfn-2011",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-sfn-2011",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "shelton-sobp-2010",
+   "\"Society of Biological Psychiatry meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "oler-cns-2010",
+   "\"Cognitive Neuroscience Society meeting\" -> \"Cognitive Neuroscience Society\""
+  ],
+  [
+   "typo",
+   "oler-cns-2010",
+   "title: \"Heritable and non-heritable brain metabolism durin gexposure to potential threat\" -> \"Heritable and non-heritable brain metabolism during exposure to potential threat\""
+  ],
+  [
+   "meeting",
+   "fox-cns-2010",
+   "\"Cognitive Neuroscience Society meeting\" -> \"Cognitive Neuroscience Society\""
+  ],
+  [
+   "meeting",
+   "shelton-sfn-2010",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "birn-sfn-2010",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "shelton-sobp-2009",
+   "\"Society of Biological Psychiatry meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "typo",
+   "shelton-sobp-2009",
+   "title: \"Activity of the primate amygdale central nucleus predicts anxious temperament\" -> \"Activity of the primate amygdala central nucleus predicts anxious temperament\""
+  ],
+  [
+   "meeting",
+   "fox-cns-2009",
+   "\"Cognitive Neuroscience Society meeting\" -> \"Cognitive Neuroscience Society\""
+  ],
+  [
+   "meeting",
+   "fox-hbm-2009",
+   "\"Human Brain Mapping meeting\" -> \"Organization for Human Brain Mapping\""
+  ],
+  [
+   "meeting",
+   "shelton-sobp-2008",
+   "\"Society of Biological Psychiatry meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "shelton-ispne-2008",
+   "\"International Society of Psychoneuroendocrinology meeting\" -> \"International Society of Psychoneuroendocrinology\""
+  ],
+  [
+   "meeting",
+   "shelton-sobp-2007",
+   "\"Society of Biological Psychiatry meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "fox-cns-2007",
+   "\"Cognitive Neuroscience Society meeting\" -> \"Cognitive Neuroscience Society\""
+  ],
+  [
+   "meeting",
+   "shelton-sfn-2007",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-nyas-2007",
+   "\"New York Academy of Sciences meeting, Linking Affect to Action: Critical Contributions of the Orbitofrontal Cortex\" -> \"New York Academy of Sciences meeting: Linking Affect to Action: Critical Contributions of the Orbitofrontal Cortex\""
+  ],
+  [
+   "meeting",
+   "fox-sobp-2007",
+   "\"Society of Biological Psychiatry meeting\" -> \"Society of Biological Psychiatry\""
+  ],
+  [
+   "meeting",
+   "oakes-hbm-a-2006",
+   "\"Human Brain Mapping meeting\" -> \"Organization for Human Brain Mapping\""
+  ],
+  [
+   "meeting",
+   "oakes-hbm-b-2006",
+   "\"Human Brain Mapping meeting\" -> \"Organization for Human Brain Mapping\""
+  ],
+  [
+   "author",
+   "shelton-sfn-2006",
+   "\"Shelton SE. Fox AS\" -> \"Shelton SE, Fox AS\" (period instead of comma between authors)"
+  ],
+  [
+   "meeting",
+   "shelton-sfn-2006",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-sfn-2006",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-hbm-2005",
+   "\"Human Brain Mapping meeting\" -> \"Organization for Human Brain Mapping\""
+  ],
+  [
+   "meeting",
+   "fox-sfn-2005",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "ores-hbm-2004",
+   "\"Human Brain Mapping meeting\" -> \"Organization for Human Brain Mapping\""
+  ],
+  [
+   "meeting",
+   "shelton-ispne-2004",
+   "\"International Society of Psychoneuroendocrinology meeting\" -> \"International Society of Psychoneuroendocrinology\""
+  ],
+  [
+   "meeting",
+   "fox-sfn-2004",
+   "\"Society for Neuroscience meeting\" -> \"Society for Neuroscience\""
+  ],
+  [
+   "meeting",
+   "fox-hbm-2003",
+   "\"Human Brain Mapping meeting\" -> \"Organization for Human Brain Mapping\""
+  ],
+  [
+   "merge",
+   "campos-sobp-2022",
+   "campos-et-al-society-of-biological-psychiatry-meeting-2022 (authors incl. Tromp DPM, no PDF) + lillian-jcampos-society-of-biological-psychiatry-2022 (authors without Tromp DPM, with PDF). The authors differ; the PDF itself (publications/Campos_SoBP_2022.pdf, pdftotext page 1) lists Lillian J. Campos, Carly M. Drzewiecki, Do P.M. Tromp, John P. Capitanio, Andrew S. Fox, so the longer list was kept. PDF kept; both legacy paths kept."
+  ]
+ ]
+}

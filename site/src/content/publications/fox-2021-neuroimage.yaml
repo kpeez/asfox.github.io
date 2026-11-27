@@ -1,0 +1,30 @@
+title: Sharing voxelwise neuroimaging results from rhesus monkeys and other species with Neurovault
+authors:
+- Fox AS
+- Holley D
+- Klink PC
+- Arbuckle SA
+- Barnes CA
+- Diedrichsen J
+- Kwok SC
+- Kyle C
+- Pruszynski JA
+- Seidlitz J
+- Zhou X
+- Poldrack RA
+- Gorgolewski KJ
+year: 2021
+date: 2021-01-15
+type: journal
+venue: NeuroImage
+volume: '225'
+pages: '117518'
+doi: 10.1016/j.neuroimage.2020.117518
+pdf: /publications/Fox_Neuroimage_2020.pdf
+themes: []
+lab_authors:
+- andrew-fox
+- dan-holley
+featured: false
+legacy:
+- /fox-et-al-neuroimage-2021.html

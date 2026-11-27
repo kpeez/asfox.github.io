@@ -1,0 +1,29 @@
+title: A Diffusion Tensor Brain Template for Rhesus Macaques
+authors:
+- Adluru N
+- Zhang H
+- Fox AS
+- Shelton SE
+- Ennis CM
+- Bartosic AM
+- Oler JA
+- Tromp DPM
+- Zakszewski E
+- Gee JC
+- Kalin NH
+- Alexander AL
+year: 2011
+date: 2011-01-08
+type: journal
+venue: NeuroImage
+volume: '59'
+issue: '1'
+pages: 306-318
+doi: 10.1016/j.neuroimage.2011.07.029
+pdf: /publications/ADiffusionTensorBrainTemplateForRhesusMacaques_Adluru.pdf
+themes: []
+lab_authors:
+- andrew-fox
+featured: false
+legacy:
+- /adluru-et-al-2011.html

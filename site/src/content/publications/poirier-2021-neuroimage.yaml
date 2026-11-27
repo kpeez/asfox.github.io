@@ -1,0 +1,25 @@
+title: 'Beyond MRI: on the scientific value of combining non-human primate neuroimaging with metadata'
+authors:
+- Poirier C
+- Hamed SB
+- Garcia-Saldivar P
+- Kwok SC
+- Meguerditchian A
+- Merchant H
+- Rogers J
+- Wells S
+- Fox AS
+year: 2021
+date: 2021-03-01
+type: journal
+venue: NeuroImage
+volume: '228'
+pages: '117679'
+doi: 10.1016/j.neuroimage.2020.117679
+pdf: /publications/PoirierEtAl_Neuroimage_2020.pdf
+themes: []
+lab_authors:
+- andrew-fox
+featured: false
+legacy:
+- /poirier-et-al-neuroimage-2021.html

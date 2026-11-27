@@ -1,0 +1,24 @@
+title: Motion correction and the use of motion covariates in multiple-subject fMRI analysis
+authors:
+- Johnstone T
+- Ores-Walsh KS
+- Greischar LL
+- Alexander AL
+- Fox AS
+- Davidson RJ
+- Oakes TR
+year: 2006
+date: 2006-01-19
+type: journal
+venue: Human Brain Mapping
+volume: '27'
+issue: '10'
+pages: 779-788
+doi: 10.1002/hbm.20219
+pdf: /publications/motionCorrectionAndTheUseOfMotionCovariatesInMultipleSubjectfMRIAnalysis_JohnstoneOreswalshGreischarAlexanderFoxDavidsonOakes.pdf
+themes: []
+lab_authors:
+- andrew-fox
+featured: false
+legacy:
+- /johnstone-et-al-2006.html
