@@ -1,0 +1,5 @@
+---
+import { getCollection } from 'astro:content';
+const pubs = await getCollection('publications');
+---
+<html lang="en"><body><p>{pubs.length} publications</p></body></html>
