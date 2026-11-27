@@ -8,8 +8,10 @@ interface Props {
   sizes: string;
   eager?: boolean;
   class?: string;
+  /** Empty alt when the name is printed right beside the photo. */
+  decorative?: boolean;
 }
-const { person, widths, sizes, eager = false, class: cls = '' } = Astro.props;
+const { person, widths, sizes, eager = false, class: cls = '', decorative = false } = Astro.props;
 const d = person.data;
 const initials = d.name
   .split(/\s+/)
@@ -22,7 +24,7 @@ const initials = d.name
   d.photo ? (
     <Picture
       src={d.photo}
-      alt={d.photo_alt ?? `Portrait of ${d.name}`}
+      alt={decorative ? '' : (d.photo_alt ?? `Portrait of ${d.name}`)}
       widths={widths}
       sizes={sizes}
       formats={['avif', 'webp']}

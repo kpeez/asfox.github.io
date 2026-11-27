@@ -1,0 +1,88 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import PubEntry from '../../components/PubEntry.astro';
+import ThemeIcon from '../../components/ThemeIcon.astro';
+import { getPeople, getPublications, getThemes } from '../../lib/data';
+
+const themes = await getThemes();
+const rendered = await Promise.all(themes.map((t) => render(t)));
+const pubs = await getPublications();
+const { byId } = await getPeople();
+const mission = await getEntry('pages', 'mission');
+const funding = await getEntry('pages', 'funding');
+const anyDraft = themes.some((t) => t.data.draft);
+---
+<Base title="Research" description={mission?.data.description ?? 'Research themes of the Fox Lab at UC Davis.'}>
+  <PageHeader title="Research" intro={mission?.data.description}>
+    <p class="mt-4 flex flex-wrap gap-x-6 gap-y-1 text-[0.95rem]">
+      {mission && <a class="link" href="/mission/">Read the lab mission</a>}
+      {funding && <a class="link" href="/funding/">Current funding</a>}
+    </p>
+  </PageHeader>
+
+  <div class="wrap">
+    {
+      themes.length > 0 && (
+        <nav aria-label="Research themes" class="mt-10">
+          <ol class="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+            {themes.map((t, i) => (
+              <li>
+                <a href={`#${t.id}`} class="flex h-full items-center gap-3 rounded-lg border border-line p-4 no-underline transition-colors hover:border-line-strong hover:bg-paper-2">
+                  <ThemeIcon id={t.id} n={i + 1} class="size-10 shrink-0" />
+                  <span class="text-[0.95rem] font-medium leading-snug">{t.data.title}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+          {anyDraft && (
+            <p class="mt-4 text-sm text-ink-2">
+              Themes marked <span class="draft-tag">Draft</span> are summaries awaiting review by the PI.
+            </p>
+          )}
+        </nav>
+      )
+    }
+
+    {
+      themes.map((t, i) => {
+        const { Content } = rendered[i];
+        const papers = pubs.filter((p) => p.data.themes.includes(t.id));
+        return (
+          <section id={t.id} aria-labelledby={`h-${t.id}`} class="mt-16 grid gap-x-12 border-t border-line-strong pt-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,22rem)]">
+            <div class="min-w-0">
+              <ThemeIcon id={t.id} n={i + 1} class="size-16" />
+              <h2 id={`h-${t.id}`} class="mt-4 font-display text-[2rem] leading-tight sm:text-[2.4rem]">
+                {t.data.title}
+                {t.data.draft && <span class="draft-tag ml-2 align-middle">Draft</span>}
+              </h2>
+              <p class="mt-3 max-w-[60ch] text-lg text-ink-2">{t.data.short}</p>
+              <div class="prose prose-fox mt-6">
+                <Content />
+              </div>
+            </div>
+            {t.data.grants.length > 0 && (
+              <div class="mt-8 self-start rounded-lg bg-paper-2 p-5 lg:mt-14">
+                <h3 id={`g-${t.id}`} class="font-sans text-sm font-semibold text-ink">Funding</h3>
+                <ul class="mt-2 grid gap-1.5 text-[0.95rem] text-ink-2">
+                  {t.data.grants.map((g) => <li>{g}</li>)}
+                </ul>
+              </div>
+            )}
+            {papers.length > 0 && (
+              <div class="lg:col-span-2 mt-8">
+                <h3 class="font-sans text-sm font-semibold text-ink">Selected papers</h3>
+                <ul class="mt-1 max-w-4xl">
+                  {papers.slice(0, 6).map((p) => <PubEntry pub={p} byId={byId} level="h4" showYear cite={false} />)}
+                </ul>
+                {papers.length > 6 && <p class="mt-2"><a class="link text-[0.95rem]" href="/publications/">All publications</a></p>}
+              </div>
+            )}
+          </section>
+        );
+      })
+    }
+    {themes.length === 0 && <p class="py-12 text-ink-2">Research themes will appear here soon. Meanwhile, see the <a class="link" href="/mission/">lab mission</a>.</p>}
+  </div>
+</Base>

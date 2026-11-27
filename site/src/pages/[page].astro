@@ -1,0 +1,31 @@
+---
+// Free-standing pages from src/content/pages: /join/, /mission/, /funding/, /cv/ ...
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Article from '../components/Article.astro';
+import { SITE } from '../site';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((entry) => ({ params: { page: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const isJoin = entry.id === 'join';
+---
+<Base title={d.title} description={d.description}>
+  <Article title={d.title}>
+    <Content />
+    {
+      isJoin && (
+        <div slot="after" class="mt-12 rounded-xl bg-navy-900 p-7 text-white sm:p-9">
+          <h2 class="font-display text-[1.6rem] leading-tight">Get in touch</h2>
+          <a class="btn btn-gold mt-5" href={`mailto:${SITE.email}`}>
+            Email {SITE.email}
+          </a>
+        </div>
+      )
+    }
+  </Article>
+</Base>

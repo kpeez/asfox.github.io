@@ -1,0 +1,21 @@
+---
+import { render } from 'astro:content';
+import { getImage } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import Article from '../../components/Article.astro';
+import { fmtDate, getNews, isoDate } from '../../lib/data';
+
+export async function getStaticPaths() {
+  const news = await getNews();
+  return news.map((entry) => ({ params: { id: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const og = d.image ? (await getImage({ src: d.image, width: 1200, format: 'jpeg' })).src : undefined;
+---
+<Base title={d.title} description={d.summary} type="article" image={og}>
+  <Article title={d.title} kicker={{ href: '/news/', label: 'News' }} meta={fmtDate(d.date)} datetime={isoDate(d.date)}>
+    <Content />
+  </Article>
+</Base>

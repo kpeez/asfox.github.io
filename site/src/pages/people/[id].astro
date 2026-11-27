@@ -1,0 +1,116 @@
+---
+import { render } from 'astro:content';
+import { getImage } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import PersonPhoto from '../../components/PersonPhoto.astro';
+import PubEntry from '../../components/PubEntry.astro';
+import PresEntry from '../../components/PresEntry.astro';
+import Icon from '../../components/Icon.astro';
+import { getPeople, getPresentations, getPublications, years, type Person } from '../../lib/data';
+import { SITE } from '../../site';
+
+export async function getStaticPaths() {
+  const { all } = await getPeople();
+  return all.map((person) => ({ params: { id: person.id }, props: { person } }));
+}
+const { person } = Astro.props as { person: Person };
+const d = person.data;
+const { Content } = await render(person);
+const { byId } = await getPeople();
+const pubs = (await getPublications()).filter((p) => p.data.lab_authors.includes(person.id));
+const pres = (await getPresentations()).filter((p) => p.data.lab_authors.includes(person.id));
+const current = d.status === 'current';
+const span = years(d.start, d.end, current);
+
+const links = [
+  d.email && { href: `mailto:${d.email}`, label: d.email, icon: 'mail' as const },
+  d.links.website && { href: d.links.website, label: 'Website', icon: 'web' as const },
+  d.links.scholar && { href: d.links.scholar, label: 'Google Scholar', icon: 'scholar' as const },
+  d.links.orcid && { href: d.links.orcid, label: 'ORCID', icon: 'orcid' as const },
+  d.links.github && { href: d.links.github, label: 'GitHub', icon: 'github' as const },
+  d.links.cv && { href: d.links.cv, label: 'CV', icon: 'cv' as const },
+].filter(Boolean) as { href: string; label: string; icon: 'mail' | 'web' | 'scholar' | 'orcid' | 'github' | 'cv' }[];
+
+const og = d.photo ? (await getImage({ src: d.photo, width: 600, format: 'jpeg' })).src : undefined;
+const sameAs = [d.links.website, d.links.scholar, d.links.orcid, d.links.github].filter(Boolean);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: d.name,
+  jobTitle: d.role,
+  url: new URL(`/people/${person.id}/`, SITE.url).href,
+  ...(d.email ? { email: `mailto:${d.email}` } : {}),
+  ...(og ? { image: new URL(og, SITE.url).href } : {}),
+  ...(sameAs.length ? { sameAs } : {}),
+  ...(current
+    ? { affiliation: { '@type': 'Organization', name: `${SITE.longName}, ${SITE.university}`, url: SITE.url } }
+    : { alumniOf: { '@type': 'Organization', name: `${SITE.longName}, ${SITE.university}`, url: SITE.url } }),
+};
+const firstPara = (person.body ?? '').split(/\n\s*\n/).find((s) => s.trim() && !s.startsWith('#'))?.replace(/[*_\[\]]|\(.*?\)/g, '').trim();
+const description = firstPara && firstPara.length > 40 ? firstPara.slice(0, 155).replace(/\s+\S*$/, '') + '…' : `${d.name}, ${d.role}, ${SITE.longName} at UC Davis.`;
+---
+<Base title={d.name} description={description} type="profile" image={og} jsonLd={jsonLd}>
+  <div class="wrap grid gap-8 pt-10 sm:pt-14 md:grid-cols-[minmax(0,17rem)_minmax(0,1fr)] md:gap-14 lg:gap-20">
+    <aside class="flex items-center gap-5 md:block md:pt-2">
+      <div class="aspect-square w-28 shrink-0 overflow-hidden rounded-full bg-paper-2 ring-1 ring-line xs:w-36 md:w-full">
+        <PersonPhoto person={person} widths={[144, 288, 544]} sizes="(min-width: 768px) 272px, 144px" eager />
+      </div>
+      {
+        links.length > 0 && (
+          <ul class="grid min-w-0 gap-0.5 text-[0.95rem] md:mt-6">
+            {links.map((l) => (
+              <li class="min-w-0">
+                <a class="inline-flex min-h-9 max-w-full items-center gap-2.5 text-accent hover:underline" href={l.href}>
+                  <Icon name={l.icon} class="size-4 shrink-0" />
+                  <span class="truncate">{l.label}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
+    </aside>
+
+    <div class="min-w-0">
+      <p class="text-[0.95rem] text-ink-2">
+        <a class="link !text-ink-2" href="/people/">People</a>
+        <span aria-hidden="true"> / </span>{current ? 'Current' : 'Alumni'}
+      </p>
+      <h1 class="mt-3 font-display text-[2.5rem] leading-[1.05] font-medium tracking-tight sm:text-[3.25rem]">{d.name}</h1>
+      <p class="mt-3 text-lg text-ink-2">
+        {d.role}{span && <span> · {span}</span>}
+      </p>
+      {d.now_at && <p class="mt-1 text-lg text-ink-2">Now: {d.now_at}</p>}
+      <span class="rule-gold mt-6" aria-hidden="true"></span>
+
+      <div class="prose prose-fox mt-6">
+        <Content />
+      </div>
+
+      {
+        pubs.length > 0 && (
+          <section class="mt-14" aria-labelledby="pubs">
+            <h2 id="pubs" class="section-title">
+              Publications <span class="font-sans text-base font-normal text-ink-2 tabular-nums">({pubs.length})</span>
+            </h2>
+            <ul class="mt-2">
+              {pubs.map((p) => <PubEntry pub={p} byId={byId} showYear cite={false} />)}
+            </ul>
+          </section>
+        )
+      }
+      {
+        pres.length > 0 && (
+          <section class="mt-14" aria-labelledby="pres">
+            <h2 id="pres" class="section-title">
+              Presentations <span class="font-sans text-base font-normal text-ink-2 tabular-nums">({pres.length})</span>
+            </h2>
+            <ul class="mt-2">
+              {pres.map((p) => <PresEntry pres={p} byId={byId} showYear />)}
+            </ul>
+          </section>
+        )
+      }
+    </div>
+  </div>
+</Base>

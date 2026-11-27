@@ -17,7 +17,7 @@ const { facets, total, noun, searchLabel } = Astro.props;
     {
       facets.map((f) => (
         <div class="flex flex-wrap items-center gap-2" role="group" aria-labelledby={`facet-${f.name}`}>
-          <span id={`facet-${f.name}`} class="w-full text-sm font-medium text-ink-2 sm:w-24 sm:shrink-0">
+          <span id={`facet-${f.name}`} class="mr-1 text-sm font-medium text-ink-2 sm:mr-0 sm:w-24 sm:shrink-0">
             {f.label}
           </span>
           <button type="button" class="chip" data-facet={f.name} data-value="" aria-pressed="true">

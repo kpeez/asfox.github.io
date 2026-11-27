@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import { getResources, isoDate } from '../../lib/data';
+const all = await getResources();
+const sections = [
+  { id: 'tutorials', title: 'Tutorials', items: all.filter((r) => r.data.kind === 'tutorial') },
+  { id: 'essays', title: 'Essays', items: all.filter((r) => r.data.kind === 'essay') },
+].filter((s) => s.items.length);
+---
+<Base title="Resources" description="Neuroimaging tutorials and short essays from the Fox Lab at UC Davis.">
+  <PageHeader title="Resources" intro="Neuroimaging tutorials and short essays from the lab." />
+  <div class="wrap">
+    {
+      sections.map((s) => (
+        <section aria-labelledby={s.id} class="mt-14">
+          <h2 id={s.id} class="section-title">{s.title}</h2>
+          <span class="rule-gold mt-3" aria-hidden="true" />
+          <ul class="mt-4 grid border-t border-line md:grid-cols-2 md:gap-x-12">
+            {s.items.map((r) => (
+              <li class="group relative border-b border-line py-6">
+                <h3 class="font-display text-[1.35rem] leading-snug">
+                  <a href={`/resources/${r.id}/`} class="no-underline after:absolute after:inset-0 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4">
+                    {r.data.title}
+                  </a>
+                </h3>
+                <p class="mt-2 text-[0.975rem] text-ink-2">{r.data.summary}</p>
+                <p class="mt-2 text-sm tabular-nums text-ink-2">
+                  <time datetime={isoDate(r.data.date)}>{r.data.date.getUTCFullYear()}</time>
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+  </div>
+</Base>

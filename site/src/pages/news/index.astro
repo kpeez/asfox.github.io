@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import { fmtMonth, getNews, isoDate } from '../../lib/data';
+const news = await getNews();
+---
+<Base title="News" description="News, press coverage and announcements from the Fox Lab at UC Davis.">
+  <PageHeader title="News" intro="Press coverage, journal covers and other news from the lab." />
+  <div class="wrap max-w-4xl">
+    <ul class="mt-6">
+      {
+        news.map((n) => (
+          <li class="group relative grid gap-1 border-b border-line py-7 sm:grid-cols-[8.5rem_1fr] sm:gap-8">
+            <time class="pt-1 text-[0.95rem] tabular-nums text-ink-2" datetime={isoDate(n.data.date)}>
+              {fmtMonth(n.data.date)}
+            </time>
+            <div>
+              <h2 class="font-display text-[1.5rem] leading-snug">
+                <a href={`/news/${n.id}/`} class="no-underline after:absolute after:inset-0 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4">
+                  {n.data.title}
+                </a>
+              </h2>
+              <p class="mt-2 max-w-[62ch] text-ink-2">{n.data.summary}</p>
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+    {news.length === 0 && <p class="py-12 text-ink-2">No news yet.</p>}
+  </div>
+</Base>

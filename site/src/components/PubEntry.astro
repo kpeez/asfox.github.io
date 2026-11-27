@@ -14,6 +14,7 @@ interface Props {
 const { pub, byId, level = 'h3', showYear = false, cite = true } = Astro.props;
 const d = pub.data;
 const Title = level;
+const pdf = pdfHref(d.pdf);
 const authors = markAuthors(d.authors, d.lab_authors, byId);
 const detail = venueDetail(d);
 const link = d.doi ? `https://doi.org/${d.doi}` : d.url;
@@ -47,8 +48,8 @@ const link = d.doi ? `https://doi.org/${d.doi}` : d.url;
       )
     }
     {
-      d.pdf && (
-        <a class="chip-link" href={pdfHref(d.pdf)}>
+      pdf && (
+        <a class="chip-link" href={pdf}>
           <Icon name="pdf" />
           PDF<span class="sr-only">: {d.title}</span>
         </a>

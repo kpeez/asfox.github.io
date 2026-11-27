@@ -22,15 +22,15 @@ import { NAV, SITE } from '../site';
       </p>
     </div>
     <nav aria-label="Footer">
-      <ul class="grid grid-cols-2 gap-x-6 gap-y-1 text-[0.95rem]">
+      <ul class="grid grid-cols-2 gap-x-6 text-[0.95rem]">
         {NAV.map((item) => <li><a class="inline-flex min-h-10 items-center text-ink-2 hover:text-ink" href={item.href}>{item.label}</a></li>)}
         <li><a class="inline-flex min-h-10 items-center text-ink-2 hover:text-ink" href="/mission/">Mission</a></li>
         <li><a class="inline-flex min-h-10 items-center text-ink-2 hover:text-ink" href="/cv/">PI CV</a></li>
       </ul>
     </nav>
   </div>
-  <div class="wrap flex flex-wrap justify-between gap-2 border-t border-line py-5 text-sm text-ink-2">
+  <div class="wrap"><div class="flex flex-wrap justify-between gap-2 border-t border-line py-5 text-sm text-ink-2">
     <p>© {new Date().getFullYear()} {SITE.longName}, {SITE.university}</p>
     <p><a class="link !text-ink-2" href="https://github.com/asfox/asfox.github.io">Site source on GitHub</a></p>
-  </div>
+  </div></div>
 </footer>

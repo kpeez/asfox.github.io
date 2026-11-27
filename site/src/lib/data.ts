@@ -1,4 +1,6 @@
 // Collection queries and formatting shared by the pages.
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export type Pub = CollectionEntry<'publications'>;
@@ -70,13 +72,14 @@ export const fmtDate = (d: Date) =>
 export const fmtMonth = (d: Date) => d.toLocaleDateString('en-US', { ...UTC, year: 'numeric', month: 'short' });
 export const isoDate = (d: Date) => d.toISOString().slice(0, 10);
 
-/** "2018-01" + "2021-06" -> "2018–2021"; current: "Since 2022". */
+/** "2018-01" + "2021-06" -> "2018–2021"; current: "Since 2022"; alumni without an end: "Joined 2017". */
 export function years(start?: string, end?: string, current = false) {
-  const s = start?.slice(0, 4);
-  const e = end?.slice(0, 4);
+  const s = start ? String(start).slice(0, 4) : undefined;
+  const e = end ? String(end).slice(0, 4) : undefined;
   if (current) return s ? `Since ${s}` : '';
   if (s && e) return s === e ? s : `${s}–${e}`;
-  return s ?? e ?? '';
+  if (s) return `Joined ${s}`;
+  return e ? `Until ${e}` : '';
 }
 
 export const typeLabel = { journal: 'Journal article', chapter: 'Chapter', preprint: 'Preprint' } as const;
@@ -132,8 +135,20 @@ export function bibtex(p: Pub) {
   return `@${kind}{${key},\n${body}\n}`;
 }
 
-/** Resolve a PDF path: absolute URLs and site paths pass through. */
-export const pdfHref = (pdf: string) => (/^(https?:)?\//.test(pdf) ? pdf : `/${pdf.replace(/^\.?\//, '')}`);
+/** Resolve a PDF path. URLs pass through. A site path ("/publications/x.pdf") is used only if the
+ *  file is in public/, so the site never links to a PDF it does not ship; missing ones are logged. */
+const missingPdfs = new Set<string>();
+export function pdfHref(pdf: string | undefined): string | undefined {
+  if (!pdf) return undefined;
+  if (/^https?:\/\//.test(pdf)) return pdf;
+  const path = `/${pdf.replace(/^\.?\/+/, '')}`;
+  if (existsSync(join(process.cwd(), 'public', decodeURI(path)))) return path;
+  if (!missingPdfs.has(path)) {
+    missingPdfs.add(path);
+    console.warn(`[pdf] not in public/, button omitted: ${path}`);
+  }
+  return undefined;
+}
 
 /** "Society for Neuroscience" -> "society-for-neuroscience" (filter key). */
 export const meetingKey = (m: string) =>

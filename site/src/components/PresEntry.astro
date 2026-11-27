@@ -6,13 +6,16 @@ interface Props {
   byId: Map<string, Person>;
   level?: 'h3' | 'h4';
   showYear?: boolean;
+  /** Also tag the entry as "other" for the meeting filter. */
+  other?: boolean;
 }
-const { pres, byId, level = 'h3', showYear = false } = Astro.props;
+const { pres, byId, level = 'h3', showYear = false, other = false } = Astro.props;
 const d = pres.data;
 const Title = level;
+const pdf = pdfHref(d.pdf);
 const authors = markAuthors(d.authors, d.lab_authors, byId);
 ---
-<li id={pres.id} class="entry" data-entry data-meeting={meetingKey(d.meeting)} data-author={d.lab_authors.join(' ')}>
+<li id={pres.id} class="entry" data-entry data-meeting={meetingKey(d.meeting) + (other ? ' other' : '')} data-author={d.lab_authors.join(' ')}>
   <Title class="entry-title">{d.title}</Title>
   <p class="entry-authors">
     {
@@ -26,12 +29,12 @@ const authors = markAuthors(d.authors, d.lab_authors, byId);
   </p>
   <p class="entry-venue">
     {d.meeting}{showYear && <span> · {d.year}</span>}
-    <span class="entry-kind">{d.type === 'talk' ? 'Talk' : 'Poster'}</span>
+    {d.type === 'talk' && <span class="entry-kind">Talk</span>}
   </p>
   {
-    d.pdf && (
+    pdf && (
       <div class="entry-actions">
-        <a class="chip-link" href={pdfHref(d.pdf)}>
+        <a class="chip-link" href={pdf}>
           <Icon name="pdf" />
           PDF<span class="sr-only">: {d.title}</span>
         </a>

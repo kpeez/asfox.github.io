@@ -1,0 +1,16 @@
+---
+// Section heading with a short gold rule, and an optional "see all" link on the right.
+interface Props {
+  id: string;
+  title: string;
+  href?: string;
+  linkLabel?: string;
+}
+const { id, title, href, linkLabel } = Astro.props;
+---
+<div class="flex items-end justify-between gap-4 border-b border-line-strong pb-4">
+  <h2 id={id} class="section-title relative after:absolute after:-bottom-[1.0625rem] after:left-0 after:h-[3px] after:w-10 after:rounded-full after:bg-gold-400">
+    {title}
+  </h2>
+  {href && <a class="link mb-1 shrink-0 text-[0.95rem]" href={href}>{linkLabel}</a>}
+</div>

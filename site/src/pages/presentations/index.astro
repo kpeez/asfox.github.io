@@ -16,21 +16,21 @@ for (const p of items) {
   m.count++;
   meetings.set(k, m);
 }
-const facets: Facet[] = [
-  {
-    name: 'meeting',
-    label: 'Meeting',
-    options: [...meetings.entries()]
-      .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
-      .map(([value, m]) => ({ value, ...m })),
-  },
-];
+// Meetings with a single presentation share one "Other meetings" chip.
+const rare = new Set([...meetings.entries()].filter(([, m]) => m.count < 2).map(([k]) => k));
+const options = [...meetings.entries()]
+  .filter(([k]) => !rare.has(k))
+  .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
+  .map(([value, m]) => ({ value, ...m }));
+if (rare.size) options.push({ value: 'other', label: 'Other meetings', count: rare.size });
+const facets: Facet[] = [{ name: 'meeting', label: 'Meeting', options }];
 const range = groups.length ? `${groups.at(-1)![0]}–${groups[0][0]}` : '';
 const posters = items.filter((p) => p.data.type === 'poster').length;
 const talks = items.length - posters;
 ---
 <Base title="Presentations" description={`Conference posters and talks from the Fox Lab at UC Davis${range ? `, ${range}` : ''}.`}>
   <PageHeader
+    border={false}
     title="Presentations"
     intro={items.length
       ? `${posters} posters${talks ? ` and ${talks} talks` : ''} at scientific meetings${range ? `, ${range}` : ''}. Lab members are in bold.`
@@ -46,7 +46,7 @@ const talks = items.length - posters;
           <section class="year-group" data-group aria-labelledby={`y-${year}`}>
             <h2 id={`y-${year}`}>{year}</h2>
             <ul data-group-items>
-              {list.map((p) => <PresEntry pres={p} byId={byId} />)}
+              {list.map((p) => <PresEntry pres={p} byId={byId} other={rare.has(meetingKey(p.data.meeting))} />)}
             </ul>
           </section>
         ))

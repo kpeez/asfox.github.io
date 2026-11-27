@@ -7,7 +7,6 @@ interface Props {
   class?: string;
 }
 const { class: cls = '' } = Astro.props;
-const n = trace.paths.length;
 const maxX = Math.max(...trace.paths.map((p) => p.x));
 ---
 <svg class:list={['brain-hero', cls]} viewBox={`0 0 ${trace.w} ${trace.h}`} aria-hidden="true" focusable="false">

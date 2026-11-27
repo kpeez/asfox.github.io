@@ -22,6 +22,13 @@ const authors = current
   .filter((o) => o.count > 0);
 const facets: Facet[] = [{ name: 'type', label: 'Type', options: types }];
 if (authors.length) facets.push({ name: 'author', label: 'Lab author', options: authors });
+const n = (t: 'journal' | 'chapter' | 'preprint') => pubs.filter((p) => p.data.type === t).length;
+const parts = [
+  n('journal') && `${n('journal')} journal articles`,
+  n('chapter') && `${n('chapter')} chapters`,
+  n('preprint') && `${n('preprint')} preprints`,
+].filter(Boolean) as string[];
+const summary = parts.length > 1 ? `${parts.slice(0, -1).join(', ')} and ${parts.at(-1)}` : (parts[0] ?? '');
 const range = groups.length ? `${groups.at(-1)![0]}–${groups[0][0]}` : '';
 ---
 <Base
@@ -29,9 +36,10 @@ const range = groups.length ? `${groups.at(-1)![0]}–${groups[0][0]}` : '';
   description={`Journal articles, book chapters and preprints from the Fox Lab at UC Davis${range ? `, ${range}` : ''}.`}
 >
   <PageHeader
+    border={false}
     title="Publications"
     intro={pubs.length
-      ? `${pubs.length} journal articles, chapters and preprints${range ? ` from ${range}` : ''}. Lab members are in bold.`
+      ? `${summary}${range ? `, ${range}` : ''}. Lab members are in bold.`
       : undefined}
   >
     {pubs.length > 0 && <ListFilter facets={facets} total={pubs.length} noun="publications" searchLabel="Search titles, authors, journals" />}
