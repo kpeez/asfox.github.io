@@ -1,0 +1,38 @@
+---
+// Headshot with responsive widths; a monogram tile when there is no photo.
+import { Picture } from 'astro:assets';
+import type { Person } from '../lib/data';
+interface Props {
+  person: Person;
+  widths: number[];
+  sizes: string;
+  eager?: boolean;
+  class?: string;
+}
+const { person, widths, sizes, eager = false, class: cls = '' } = Astro.props;
+const d = person.data;
+const initials = d.name
+  .split(/\s+/)
+  .filter((w) => /^[A-Z]/.test(w))
+  .map((w) => w[0])
+  .slice(0, 2)
+  .join('');
+---
+{
+  d.photo ? (
+    <Picture
+      src={d.photo}
+      alt={d.photo_alt ?? `Portrait of ${d.name}`}
+      widths={widths}
+      sizes={sizes}
+      formats={['avif', 'webp']}
+      loading={eager ? 'eager' : 'lazy'}
+      fetchpriority={eager ? 'high' : undefined}
+      class:list={['block h-full w-full object-cover', cls]}
+    />
+  ) : (
+    <div class:list={['grid h-full w-full place-items-center bg-navy-900 font-display text-gold-300', cls]} aria-hidden="true">
+      <span class="text-[clamp(1.5rem,6vw,3rem)]">{initials}</span>
+    </div>
+  )
+}

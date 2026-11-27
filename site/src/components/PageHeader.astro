@@ -1,0 +1,17 @@
+---
+interface Props {
+  title: string;
+  intro?: string;
+  narrow?: boolean;
+}
+const { title, intro, narrow = false } = Astro.props;
+---
+<div class="border-b border-line">
+  <div class:list={['wrap pb-10 pt-12 sm:pb-12 sm:pt-16', narrow && 'max-w-4xl']}>
+    <slot name="before" />
+    <h1 class="font-display text-[2.5rem] leading-[1.05] font-medium tracking-tight sm:text-[3.25rem]">{title}</h1>
+    <span class="rule-gold mt-5" aria-hidden="true"></span>
+    {intro && <p class="mt-5 max-w-[60ch] text-lg text-ink-2">{intro}</p>}
+    <slot />
+  </div>
+</div>

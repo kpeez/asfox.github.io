@@ -1,0 +1,175 @@
+---
+// Filter controls for a server-rendered list. The list works without JS (everything is shown);
+// this script only hides and shows entries, and keeps the state in the query string.
+// List markup contract:
+//   [data-filter-list]  > [data-group] (one per year) > [data-entry data-<facet>="v1 v2"]
+import type { Facet } from '../lib/data';
+interface Props {
+  facets: Facet[];
+  total: number;
+  noun: string; // "publications"
+  searchLabel: string;
+}
+const { facets, total, noun, searchLabel } = Astro.props;
+---
+<div class="list-filter" data-filter data-noun={noun} hidden>
+  <div class="grid gap-4">
+    {
+      facets.map((f) => (
+        <div class="flex flex-wrap items-center gap-2" role="group" aria-labelledby={`facet-${f.name}`}>
+          <span id={`facet-${f.name}`} class="w-full text-sm font-medium text-ink-2 sm:w-24 sm:shrink-0">
+            {f.label}
+          </span>
+          <button type="button" class="chip" data-facet={f.name} data-value="" aria-pressed="true">
+            All <span class="count">{total}</span>
+          </button>
+          {f.options.map((o) => (
+            <button type="button" class="chip" data-facet={f.name} data-value={o.value} aria-pressed="false">
+              {o.label} <span class="count">{o.count}</span>
+            </button>
+          ))}
+        </div>
+      ))
+    }
+  </div>
+  <div class="mt-5 flex flex-wrap items-center gap-3">
+    <div class="relative min-w-0 flex-1 basis-64">
+      <label for="list-search" class="sr-only">{searchLabel}</label>
+      <svg class="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-ink-2" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M7 2.5a4.5 4.5 0 110 9 4.5 4.5 0 010-9zM10.25 10.25l3.25 3.25"></path></svg>
+      <input
+        id="list-search"
+        type="search"
+        data-search
+        placeholder={searchLabel}
+        autocomplete="off"
+        class="h-11 w-full rounded-full border border-line-strong bg-paper pl-10 pr-4 text-[0.95rem] text-ink placeholder:text-ink-2 focus:border-accent focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-1"
+      />
+    </div>
+    <div class="flex items-center gap-2" role="group" aria-labelledby="sort-label">
+      <span id="sort-label" class="text-sm font-medium text-ink-2">Sort</span>
+      <button type="button" class="chip" data-sort="newest" aria-pressed="true">Newest</button>
+      <button type="button" class="chip" data-sort="oldest" aria-pressed="false">Oldest</button>
+    </div>
+  </div>
+  <div class="mt-5 flex min-h-9 flex-wrap items-center gap-x-4 gap-y-2 border-t border-line pt-4 text-sm">
+    <p class="tabular-nums text-ink-2" data-count aria-live="polite" aria-atomic="true">
+      {total} of {total} {noun}
+    </p>
+    <button type="button" class="link text-sm" data-clear hidden>Clear filters</button>
+  </div>
+</div>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-filter]');
+  const list = document.querySelector<HTMLElement>('[data-filter-list]');
+  if (root && list) {
+    root.hidden = false;
+    const noun = root.dataset.noun ?? '';
+    const entries = [...list.querySelectorAll<HTMLElement>('[data-entry]')];
+    const text = entries.map((e) => (e.textContent ?? '').toLowerCase().replace(/\s+/g, ' '));
+    const chips = [...root.querySelectorAll<HTMLButtonElement>('[data-facet]')];
+    const sorts = [...root.querySelectorAll<HTMLButtonElement>('[data-sort]')];
+    const search = root.querySelector<HTMLInputElement>('[data-search]')!;
+    const count = root.querySelector<HTMLElement>('[data-count]')!;
+    const clear = root.querySelector<HTMLButtonElement>('[data-clear]')!;
+    const facetNames = [...new Set(chips.map((c) => c.dataset.facet!))];
+    let order = 'newest';
+
+    const params = new URLSearchParams(location.search);
+    const state: Record<string, string> = {};
+    for (const f of facetNames) {
+      const v = params.get(f) ?? '';
+      state[f] = chips.some((c) => c.dataset.facet === f && c.dataset.value === v) ? v : '';
+    }
+    search.value = params.get('q') ?? '';
+    const wantSort = params.get('sort') === 'oldest' ? 'oldest' : 'newest';
+
+    const reorder = (to: string) => {
+      if (to === order) return;
+      for (const parent of [list, ...list.querySelectorAll<HTMLElement>('[data-group-items]')]) {
+        const kids = [...parent.children].filter((k) => k.matches('[data-group],[data-entry]'));
+        kids.reverse().forEach((k) => parent.appendChild(k));
+      }
+      order = to;
+    };
+
+    const apply = (push = true) => {
+      const terms = search.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+      let shown = 0;
+      entries.forEach((e, i) => {
+        const ok =
+          facetNames.every((f) => !state[f] || (e.dataset[f] ?? '').split(' ').includes(state[f])) &&
+          terms.every((t) => text[i].includes(t));
+        e.hidden = !ok;
+        if (ok) shown++;
+      });
+      list.querySelectorAll<HTMLElement>('[data-group]').forEach((g) => {
+        g.hidden = !g.querySelector('[data-entry]:not([hidden])');
+      });
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(state[c.dataset.facet!] === c.dataset.value)));
+      sorts.forEach((s) => s.setAttribute('aria-pressed', String(s.dataset.sort === order)));
+      count.textContent = `${shown} of ${entries.length} ${noun}`;
+      const filtered = terms.length > 0 || facetNames.some((f) => state[f]);
+      clear.hidden = !filtered;
+      list.toggleAttribute('data-empty', shown === 0);
+      if (push) {
+        const q = new URLSearchParams();
+        for (const f of facetNames) if (state[f]) q.set(f, state[f]);
+        if (search.value.trim()) q.set('q', search.value.trim());
+        if (order === 'oldest') q.set('sort', 'oldest');
+        const qs = q.toString();
+        history.replaceState(null, '', (qs ? `?${qs}` : location.pathname) + location.hash);
+      }
+    };
+
+    chips.forEach((c) =>
+      c.addEventListener('click', () => {
+        state[c.dataset.facet!] = c.dataset.value!;
+        apply();
+      }),
+    );
+    sorts.forEach((s) =>
+      s.addEventListener('click', () => {
+        reorder(s.dataset.sort!);
+        apply();
+      }),
+    );
+    let timer: number | undefined;
+    search.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = window.setTimeout(apply, 120);
+    });
+    clear.addEventListener('click', () => {
+      for (const f of facetNames) state[f] = '';
+      search.value = '';
+      apply();
+      search.focus();
+    });
+
+    // Copy BibTeX
+    const status = document.getElementById('copy-status');
+    list.querySelectorAll<HTMLButtonElement>('[data-bib]').forEach((b) => {
+      b.hidden = false;
+      b.addEventListener('click', async () => {
+        const label = b.querySelector('[data-label]')!;
+        try {
+          await navigator.clipboard.writeText(b.dataset.bib!);
+          label.textContent = 'Copied';
+          if (status) status.textContent = 'BibTeX copied to the clipboard.';
+        } catch {
+          label.textContent = 'Copy failed';
+        }
+        setTimeout(() => (label.textContent = 'Cite'), 2000);
+      });
+    });
+
+    reorder(wantSort);
+    apply(false);
+  }
+</script>
+
+<style>
+  .list-filter {
+    padding-block: 1.75rem 0.25rem;
+  }
+</style>

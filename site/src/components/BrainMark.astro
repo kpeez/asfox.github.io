@@ -1,0 +1,27 @@
+---
+// The lab mark: a simplified brain (outline traced from the old hero art, plus five sulci),
+// drawn in gold strokes. Decorative unless a title is given.
+import mark from '../assets/brand/brain-mark.json';
+interface Props {
+  class?: string;
+  strokeWidth?: number;
+  title?: string;
+}
+const { class: cls = '', strokeWidth = 30, title } = Astro.props;
+---
+<svg
+  class={cls}
+  viewBox={mark.viewBox}
+  fill="none"
+  stroke="currentColor"
+  stroke-width={strokeWidth}
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  role={title ? 'img' : undefined}
+  aria-hidden={title ? undefined : 'true'}
+  focusable="false"
+>
+  {title && <title>{title}</title>}
+  <path d={mark.outline}></path>
+  <path d={mark.sulci}></path>
+</svg>

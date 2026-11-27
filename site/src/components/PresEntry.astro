@@ -1,0 +1,41 @@
+---
+import Icon from './Icon.astro';
+import { markAuthors, meetingKey, pdfHref, type Person, type Pres } from '../lib/data';
+interface Props {
+  pres: Pres;
+  byId: Map<string, Person>;
+  level?: 'h3' | 'h4';
+  showYear?: boolean;
+}
+const { pres, byId, level = 'h3', showYear = false } = Astro.props;
+const d = pres.data;
+const Title = level;
+const authors = markAuthors(d.authors, d.lab_authors, byId);
+---
+<li id={pres.id} class="entry" data-entry data-meeting={meetingKey(d.meeting)} data-author={d.lab_authors.join(' ')}>
+  <Title class="entry-title">{d.title}</Title>
+  <p class="entry-authors">
+    {
+      authors.map((a, i) => (
+        <>
+          {a.lab ? <strong>{a.name}</strong> : a.name}
+          {i < authors.length - 1 ? ', ' : ''}
+        </>
+      ))
+    }
+  </p>
+  <p class="entry-venue">
+    {d.meeting}{showYear && <span> · {d.year}</span>}
+    <span class="entry-kind">{d.type === 'talk' ? 'Talk' : 'Poster'}</span>
+  </p>
+  {
+    d.pdf && (
+      <div class="entry-actions">
+        <a class="chip-link" href={pdfHref(d.pdf)}>
+          <Icon name="pdf" />
+          PDF<span class="sr-only">: {d.title}</span>
+        </a>
+      </div>
+    )
+  }
+</li>

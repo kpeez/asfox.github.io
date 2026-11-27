@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import ListFilter from '../../components/ListFilter.astro';
+import PresEntry from '../../components/PresEntry.astro';
+import { getPeople, getPresentations, groupByYear, meetingKey, type Facet } from '../../lib/data';
+
+const items = await getPresentations();
+const { byId } = await getPeople();
+const groups = groupByYear(items);
+
+const meetings = new Map<string, { label: string; count: number }>();
+for (const p of items) {
+  const k = meetingKey(p.data.meeting);
+  const m = meetings.get(k) ?? { label: p.data.meeting, count: 0 };
+  m.count++;
+  meetings.set(k, m);
+}
+const facets: Facet[] = [
+  {
+    name: 'meeting',
+    label: 'Meeting',
+    options: [...meetings.entries()]
+      .sort((a, b) => b[1].count - a[1].count || a[1].label.localeCompare(b[1].label))
+      .map(([value, m]) => ({ value, ...m })),
+  },
+];
+const range = groups.length ? `${groups.at(-1)![0]}–${groups[0][0]}` : '';
+const posters = items.filter((p) => p.data.type === 'poster').length;
+const talks = items.length - posters;
+---
+<Base title="Presentations" description={`Conference posters and talks from the Fox Lab at UC Davis${range ? `, ${range}` : ''}.`}>
+  <PageHeader
+    title="Presentations"
+    intro={items.length
+      ? `${posters} posters${talks ? ` and ${talks} talks` : ''} at scientific meetings${range ? `, ${range}` : ''}. Lab members are in bold.`
+      : undefined}
+  >
+    {items.length > 0 && <ListFilter facets={facets} total={items.length} noun="presentations" searchLabel="Search titles, authors, meetings" />}
+  </PageHeader>
+  <div class="wrap pt-4">
+    {items.length === 0 && <p class="py-12 text-ink-2">Presentations will appear here soon.</p>}
+    <div data-filter-list class="grid">
+      {
+        groups.map(([year, list]) => (
+          <section class="year-group" data-group aria-labelledby={`y-${year}`}>
+            <h2 id={`y-${year}`}>{year}</h2>
+            <ul data-group-items>
+              {list.map((p) => <PresEntry pres={p} byId={byId} />)}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </div>
+</Base>

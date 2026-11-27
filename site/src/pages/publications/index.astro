@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import ListFilter from '../../components/ListFilter.astro';
+import PubEntry from '../../components/PubEntry.astro';
+import { getPeople, getPublications, groupByYear, typePlural, type Facet } from '../../lib/data';
+
+const pubs = await getPublications();
+const { current, byId } = await getPeople();
+const groups = groupByYear(pubs);
+
+const types = (['journal', 'chapter', 'preprint'] as const)
+  .map((t) => ({ value: t, label: typePlural[t], count: pubs.filter((p) => p.data.type === t).length }))
+  .filter((o) => o.count > 0);
+// Lab author chips: current members (PI first by order) with at least one paper.
+const authors = current
+  .map((p) => ({
+    value: p.id,
+    label: p.data.name,
+    count: pubs.filter((x) => x.data.lab_authors.includes(p.id)).length,
+  }))
+  .filter((o) => o.count > 0);
+const facets: Facet[] = [{ name: 'type', label: 'Type', options: types }];
+if (authors.length) facets.push({ name: 'author', label: 'Lab author', options: authors });
+const range = groups.length ? `${groups.at(-1)![0]}–${groups[0][0]}` : '';
+---
+<Base
+  title="Publications"
+  description={`Journal articles, book chapters and preprints from the Fox Lab at UC Davis${range ? `, ${range}` : ''}.`}
+>
+  <PageHeader
+    title="Publications"
+    intro={pubs.length
+      ? `${pubs.length} journal articles, chapters and preprints${range ? ` from ${range}` : ''}. Lab members are in bold.`
+      : undefined}
+  >
+    {pubs.length > 0 && <ListFilter facets={facets} total={pubs.length} noun="publications" searchLabel="Search titles, authors, journals" />}
+  </PageHeader>
+
+  <div class="wrap pt-4">
+    {pubs.length === 0 && <p class="py-12 text-ink-2">Publications will appear here soon.</p>}
+    <div data-filter-list class="grid">
+      {
+        groups.map(([year, items]) => (
+          <section class="year-group" data-group aria-labelledby={`y-${year}`}>
+            <h2 id={`y-${year}`}>{year}</h2>
+            <ul data-group-items>
+              {items.map((p) => <PubEntry pub={p} byId={byId} />)}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+    <p id="copy-status" class="sr-only" aria-live="polite"></p>
+  </div>
+</Base>

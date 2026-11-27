@@ -1,0 +1,75 @@
+---
+import Icon from './Icon.astro';
+import { bibtex, markAuthors, pdfHref, typeLabel, venueDetail, type Person, type Pub } from '../lib/data';
+interface Props {
+  pub: Pub;
+  byId: Map<string, Person>;
+  /** Heading level for the title; lists under a year h2 use h3. */
+  level?: 'h3' | 'h4';
+  /** Show the year after the venue (for lists not grouped by year). */
+  showYear?: boolean;
+  /** Include the Cite button (needs the ListFilter script). */
+  cite?: boolean;
+}
+const { pub, byId, level = 'h3', showYear = false, cite = true } = Astro.props;
+const d = pub.data;
+const Title = level;
+const authors = markAuthors(d.authors, d.lab_authors, byId);
+const detail = venueDetail(d);
+const link = d.doi ? `https://doi.org/${d.doi}` : d.url;
+---
+<li id={pub.id} class="entry" data-entry data-type={d.type} data-author={d.lab_authors.join(' ')}>
+  <Title class="entry-title">{d.title}</Title>
+  <p class="entry-authors">
+    {
+      authors.map((a, i) => (
+        <>
+          {a.lab ? <strong>{a.name}</strong> : a.name}
+          {i < authors.length - 1 ? ', ' : ''}
+        </>
+      ))
+    }
+  </p>
+  <p class="entry-venue">
+    {d.type === 'chapter' && <span>In {d.editors ? `${d.editors} (Eds.), ` : ''}</span>}
+    <i>{d.venue}</i>{detail && <span>{d.type === 'chapter' ? ', ' : ' '}{detail}</span>}{d.type === 'chapter' && d.publisher && <span>. {d.publisher}</span>}
+    {showYear && <span> · {d.year}</span>}
+    {d.type !== 'journal' && <span class="entry-kind">{typeLabel[d.type]}</span>}
+  </p>
+  <div class="entry-actions">
+    {
+      link && (
+        <a class="chip-link" href={link}>
+          <Icon name={d.doi ? 'doi' : 'external'} />
+          {d.doi ? 'DOI' : 'Link'}
+          <span class="sr-only">: {d.title}</span>
+        </a>
+      )
+    }
+    {
+      d.pdf && (
+        <a class="chip-link" href={pdfHref(d.pdf)}>
+          <Icon name="pdf" />
+          PDF<span class="sr-only">: {d.title}</span>
+        </a>
+      )
+    }
+    {
+      d.pmid && (
+        <a class="chip-link" href={`https://pubmed.ncbi.nlm.nih.gov/${d.pmid}/`}>
+          <Icon name="pubmed" />
+          PubMed<span class="sr-only">: {d.title}</span>
+        </a>
+      )
+    }
+    {
+      cite && (
+        <button type="button" class="chip-link cursor-pointer" data-bib={bibtex(pub)} hidden>
+          <Icon name="cite" />
+          <span data-label>Cite</span>
+          <span class="sr-only">: copy BibTeX for {d.title}</span>
+        </button>
+      )
+    }
+  </div>
+</li>

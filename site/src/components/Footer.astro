@@ -1,0 +1,36 @@
+---
+import BrainMark from './BrainMark.astro';
+import { NAV, SITE } from '../site';
+---
+<footer class="mt-24 border-t border-line bg-paper-2">
+  <div class="wrap grid gap-10 py-12 md:grid-cols-[1.4fr_1fr] md:gap-16">
+    <div>
+      <div class="flex items-center gap-3">
+        <span class="grid size-10 place-items-center rounded-[10px] bg-navy-900 text-gold-400">
+          <BrainMark class="w-7" strokeWidth={34} />
+        </span>
+        <p class="font-display text-xl font-semibold leading-tight">
+          {SITE.name}<span class="block font-sans text-sm font-normal text-ink-2">{SITE.tagline}</span>
+        </p>
+      </div>
+      <p class="mt-5 max-w-md text-[0.95rem] text-ink-2">
+        <a class="link" href={SITE.departmentUrl}>{SITE.department}</a><br />
+        <a class="link" href={SITE.universityUrl}>{SITE.university}</a>
+      </p>
+      <p class="mt-3 text-[0.95rem]">
+        <a class="link" href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </p>
+    </div>
+    <nav aria-label="Footer">
+      <ul class="grid grid-cols-2 gap-x-6 gap-y-1 text-[0.95rem]">
+        {NAV.map((item) => <li><a class="inline-flex min-h-10 items-center text-ink-2 hover:text-ink" href={item.href}>{item.label}</a></li>)}
+        <li><a class="inline-flex min-h-10 items-center text-ink-2 hover:text-ink" href="/mission/">Mission</a></li>
+        <li><a class="inline-flex min-h-10 items-center text-ink-2 hover:text-ink" href="/cv/">PI CV</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="wrap flex flex-wrap justify-between gap-2 border-t border-line py-5 text-sm text-ink-2">
+    <p>© {new Date().getFullYear()} {SITE.longName}, {SITE.university}</p>
+    <p><a class="link !text-ink-2" href="https://github.com/asfox/asfox.github.io">Site source on GitHub</a></p>
+  </div>
+</footer>

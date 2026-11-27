@@ -1,0 +1,56 @@
+---
+// The traced gold brain from the lab's original hero image. On load each contour draws
+// itself, sweeping front to back like a scan; then the fill settles in.
+// Static (fully drawn) under prefers-reduced-motion.
+import trace from '../assets/brand/brain-trace.json';
+interface Props {
+  class?: string;
+}
+const { class: cls = '' } = Astro.props;
+const n = trace.paths.length;
+const maxX = Math.max(...trace.paths.map((p) => p.x));
+---
+<svg class:list={['brain-hero', cls]} viewBox={`0 0 ${trace.w} ${trace.h}`} aria-hidden="true" focusable="false">
+  <g fill-rule="evenodd">
+    {
+      trace.paths.map((p) => (
+        <path d={p.d} pathLength="1" style={`--d:${((p.x / maxX) * 1.4).toFixed(2)}s`} />
+      ))
+    }
+  </g>
+</svg>
+<style>
+  .brain-hero {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+  .brain-hero path {
+    fill: var(--color-gold-400);
+    stroke: var(--color-gold-400);
+    stroke-width: 0;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .brain-hero path {
+      fill-opacity: 0;
+      stroke-width: 2.5;
+      stroke-dasharray: 1 1;
+      stroke-dashoffset: 1;
+      animation:
+        brain-draw 1.5s cubic-bezier(0.45, 0, 0.25, 1) var(--d) forwards,
+        brain-fill 0.9s ease-out calc(var(--d) + 0.9s) forwards;
+    }
+  }
+  @keyframes brain-draw {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes brain-fill {
+    to {
+      fill-opacity: 1;
+      stroke-width: 0;
+    }
+  }
+</style>

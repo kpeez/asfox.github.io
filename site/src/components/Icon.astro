@@ -1,0 +1,25 @@
+---
+// Small line icons (16px grid, currentColor). Decorative: the adjacent text names the action.
+interface Props {
+  name: 'doi' | 'pdf' | 'pubmed' | 'cite' | 'arrow' | 'mail' | 'scholar' | 'orcid' | 'github' | 'web' | 'cv' | 'external' | 'search' | 'check';
+  class?: string;
+}
+const { name, class: cls = 'size-4' } = Astro.props;
+const paths: Record<Props['name'], string> = {
+  doi: 'M6.5 9.5l3-3M7 4.5l1-1a2.5 2.5 0 013.5 3.5l-1 1M9 11.5l-1 1A2.5 2.5 0 014.5 9l1-1',
+  pdf: 'M4 1.75h5l3 3v9.5H4zM9 1.75v3h3M6 8.5h4M6 11h4',
+  pubmed: 'M2.5 3.5h11v9h-11zM5 6.5h6M5 9.5h4',
+  cite: 'M3 9.5c0-3 1-5 3.5-6M3 9.5h3v3.5H3zM9 9.5c0-3 1-5 3.5-6M9 9.5h3v3.5H9z',
+  arrow: 'M3 8h10M9 4l4 4-4 4',
+  mail: 'M2 3.5h12v9H2zM2 4l6 5 6-5',
+  scholar: 'M1.5 6L8 2.5 14.5 6 8 9.5zM4.5 7.6v3.4c1 1 2.2 1.5 3.5 1.5s2.5-.5 3.5-1.5V7.6M14.5 6v4',
+  orcid: 'M8 1.75a6.25 6.25 0 100 12.5A6.25 6.25 0 008 1.75zM5.75 7v4.5M5.75 4.75v.5M8 4.75v6.75h1.25a3.375 3.375 0 000-6.75z',
+  github: 'M6 13.5c-3 .9-3-1.5-4.25-1.8M10 15v-2.3c0-.7.1-1.1-.4-1.6 2-.2 3.9-1 3.9-4.4a3.4 3.4 0 00-.9-2.4 3.2 3.2 0 00-.1-2.3s-.8-.2-2.5.9a8.6 8.6 0 00-4.5 0C3.8 1.8 3 2 3 2a3.2 3.2 0 00-.1 2.3A3.4 3.4 0 002 6.7c0 3.4 1.9 4.2 3.9 4.4-.5.5-.5 1-.4 1.6V15',
+  web: 'M8 1.75a6.25 6.25 0 100 12.5A6.25 6.25 0 008 1.75zM1.75 8h12.5M8 1.75c1.8 1.9 2.6 4 2.6 6.25S9.8 12.4 8 14.25C6.2 12.4 5.4 10.25 5.4 8S6.2 3.6 8 1.75z',
+  cv: 'M3.5 1.75h9v12.5h-9zM6 5h4M6 8h4M6 11h2',
+  external: 'M9.5 2.5h4v4M13.5 2.5L7.5 8.5M11.5 9.5v4h-9v-9h4',
+  search: 'M7 2.5a4.5 4.5 0 110 9 4.5 4.5 0 010-9zM10.25 10.25l3.25 3.25',
+  check: 'M3 8.5l3 3 7-7',
+};
+---
+<svg class={cls} viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d={paths[name]}></path></svg>
